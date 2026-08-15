@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/settings.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+dist
+build
+out
+.codegraph
+*.log*
+release
+resources/python
+resources/flow2api-main
+resources/grok2api-main/.jike-grok2api-python-ready
+findings.md
+progress.md
+task_plan.md
