@@ -392,135 +392,137 @@ Hayes 先生单独约见 Leo，开门见山表示不反对两人交往，但要�
 
 第一集 1-1 夜 / 外 街区路边 人物：Hunter、Leo、WWC 队友若干 △ Hunter 穿着连帽衫，有线耳机听着歌沿街散步，手机震动。 △ 屏幕显示联系人：Leo。消息是一张照片：白金色卷发，皮肤白皙的少年咬住 T 恤下摆，露出薄肌，下面一行配文。
 
-Leo（vo）：您可以表白我嘛？ Leo (VO): Would you please confess to me?
+Leo（VO）: Would you please confess to me?
 
 △ Hunter 眉梢微挑，指尖在屏幕上顿了半秒，嘴角勾起一抹玩味的笑。低头敲下一行字，按下发送。
 
-Hunter: 胆子不小啊，预备役。 Hunter: Pretty bold for a reserve player.
+Hunter: Pretty bold for a reserve player.
 
 △ 他按灭屏幕抬眼的瞬间，再次抬头时正好与对面的 Leo 对视。 △ 摊边围满了 WWC 的队员，啤酒罐撞得叮当作响。 △ Leo 被队友架在中间，手里还举着半罐冒沫的啤酒，嘴角刚扬起的笑还没褪下去，直愣愣地和他四目相对。 △ Hunter 把手机塞回口袋，转身走进夜色。 △Leo 看着 Hunter 离开的地方怔愣着，手肘支在桌子上扶了扶额头，摇了摇头。
 
-Leo（os）: 他.... 看我做什么，应该是看错了。 Leo (OS): Why…is he looking at me? He must have mistaken me for someone else.
+Leo（OS）: Why…is he looking at me? He must have mistaken me for someone else.
 
 1-2 夜 / 内 街边烧烤摊 人物：Leo・福斯特、Sam、WWC 队友若干 △ 队友们继续举杯庆祝，有人撞了 Leo 的肩膀。
 
-队友 A：看什么呢？赢了预选赛发什么呆？喝啊！ Teammate A: What are you staring at? You zone out right after we won the qualifiers? Drink up!
+队友 A: What are you staring at? You zone out right after we won the qualifiers? Drink up!
 
 △Leo 举起酒杯往嘴里一口闷完。
 
-队友 B：PCU 那群少爷队，今年连预选赛都没出线。 Teammate B: Those rich boys from PCU didn’t even make it past qualifiers this year.
+队友 B: Those rich boys from PCU didn’t even make it past qualifiers this year.
 
-Leo（机械）：…… 嗯，活该。 Leo (flat): ……Yeah, serves them right.
+Leo（机械）: …Yeah, serves them right.
 
 Sam 端着啤酒凑过来，盯着 Leo 泛红的耳尖，一脸疑惑。
 
-Sam：Leo 你居然跟着骂 PCU？你不是一直觉得 Caleb 很帅吗？ Sam: Wait, Leo, you’re bashing PCU too? I thought you always thought Caleb was hot.
+Sam: Wait, Leo, you’re bashing PCU too? I thought you always thought Caleb was hot.
 
 △ Leo 眼神躲闪，伸手抓起一串烤肉，狠狠咬了一口。
 
-Leo（小声含糊）：…… 那不一样，PUC 的队长简直态度恶劣。 Leo (mumbling quietly): ……That’s different. PCU’s captain has a terrible attitude.
+Leo（小声含糊）: …That’s different. PCU’s captain has a terrible attitude.
 
 △ Sam 看向 Leo 的手机屏幕 —— 屏幕还亮着，
 
-Sam: 你不是跟 Hunter 没有接触过？ Sam: I thought you never even talked to Hunter?
+Sam: I thought you never even talked to Hunter?
 
 1-3 夜 / 内 深夜打击笼（回忆） 人物：Leo、Hunter △ 空无一人的室内打击笼，只有发球机在嗡嗡响。 △ Leo 穿着发白旧 T 恤，满头汗，连续挥空三球，喘着粗气。 △ 入口的卷帘门被拉开，Hunter 走进来，穿着 PCU 训练服，手里拎着一袋棒球。 △ Leo 听见声音回头，两人对视。 △ Leo 攥紧球棒后退一步。
 
-Hunter（冷淡）：这个点，WWC 的预备役来 PCU 的场地？ Hunter (cold): A WWC reserve showing up at PCU’s facility this late?
+Hunter（冷淡）: A WWC reserve showing up at PCU’s facility this late?
 
-Leo（咬牙）：门没锁。 Leo (gritting teeth): The door’s not locked.
+Leo（咬牙）: The door’s not locked.
 
 △ Hunter 把球袋扔在地上，走向投手丘，捡起一颗球，抬起下巴。
 
-Hunter：借用场地？你也是够刻苦的。 Hunter: Sneaking in to use the cage? You sure are hard‑working.
+Hunter: Sneaking in to use the cage? You sure are hard-working.
 
-Hunter: 这样，你在我手下坚持一分钟不被三振出局，这个场地随便你用。 Hunter: Here’s the deal. If you can last one minute against me without striking out, you can use this cage all you want.
+Hunter: Here’s the deal. If you can last one minute against me without striking out, you can use this cage all you want.
 
 △ Leo 咽了口唾沫，站上进打击区，摆好架势。 △ Hunter 抬手、挥臂，速球擦着 Leo 的膝盖飞过。 △ Leo 挥空。球砸进护网，发出闷响。第二球、第三球，全部擦着好球带边缘飞过。 △ Leo 咬牙撑到第五十秒，一记内角速球砸来，他侧身让开，球擦过他的肋骨，留下一道红印。Hunter 停了手。
 
-Hunter（平静）：一分钟到了，你天赋不错，加以训练绝对会有很好的成绩。 Hunter (calm): Time’s up. You’ve got real talent. With proper training, you could go far.
+Hunter（平静）: Time’s up. You’ve got real talent. With proper training, you could go far.
 
 △ Hunter 转身走向门口，回头笑着看向原地拿着棒球棍发呆的 Leo。
 
-Hunter：明天也是这个点，门不会锁。我专门教你，别迟到。 Hunter: Same time tomorrow. I’ll leave the door open. I’ll train you personally. Don’t be late.
+Hunter: Same time tomorrow. I’ll leave the door open. I’ll train you personally. Don’t be late.
 
 △ 卷帘门拉下，Leo 瘫坐在地上，低头看着肋骨上的红印，额头全是汗。
 
-Leo（喘气）：…… 混蛋。 Leo (panting): ……Asshole. （回忆结束）
+Leo（喘气）: ...Asshole.
+
+△ Flashback ends.
 
 1-4 夜 / 内 Leo 的出租屋 人物：Leo △ 凌晨，Leo 趴在床上，手机从枕头边滑落，屏幕朝上，亮着 Hunter 的头像和那句回复。他猛地翻身坐起，抓起手机，指尖发抖。 △ 大脑瞬间一片空白。他手抖着往上翻，看见自己发出去的挥棒照和表白，再看收件人名字 ——Hunter Hayes △ 【Hunter Hayes：已读】
 
-Hunter（VO）（声线冷懒，带着点漫不经心的嘲讽）：利奥，看不出来你野心不小啊。 Hunter (VO, cool lazy drawl with casual sarcasm): I didn’t know you had that kind of ambition, Leo.
+Hunter（VO）（声线冷懒，带着点漫不经心的嘲讽）: I didn’t know you had that kind of ambition, Leo.
 
 △ 手机从 Leo 手里滑落，砸在地板上，屏幕裂开一道缝，Hunter 的头像还亮着。 【第一集完】
 
 第二集 2-1 日 / 内 Leo 的出租屋 人物：Leo Foster、Sam △ 阳光照进逼仄的单间公寓，Leo 裹着毯子坐在床上，黑眼圈深重。 △ Sam 盘腿坐在地板上，手里捏着一袋薯片，一脸难以置信。
 
-Sam（压低声音）：所以你是说…… 你昨天晚上，把那张腹肌照，发给了 PCU 的王牌投手？ Sam (whispering): Wait a second…you sent that abs pic to PCU’s star pitcher last night?
+Sam（压低声音）: Wait a second…you sent that abs pic to PCU’s star pitcher last night?
 
-Leo（抱头）：我说了是手滑！我本来想发给 Caleb！就是想说…… 他全明星赛那记阻杀很帅，结果我选错了人，你知道的，我真的很喜欢他。 Leo (holding his head): It was a slip of the thumb! I meant to send it to Caleb! I wanted to tell him how awesome that throw‑out was at the All‑Star game. I picked the wrong contact. You know I’m a huge fan of his.
+Leo（抱头）: It was a slip of the thumb! I meant to send it to Caleb! I wanted to tell him how awesome that throw-out was at the All-Star game. I picked the wrong contact. You know I’m a huge fan of his.
 
-Sam（塞了把薯片）：然后他还回你了。 Sam (shoveling chips in mouth): And he even replied. Sam：“I didn't know you had that kind of ambition.” 那不是这个意思吧？就是说他没想到你还有胆子勾搭豪门？ hat’s not a compliment. Basically he’s shocked you’ve got the guts to hit on one of the rich kids.
+Sam（塞了把薯片）: And he even replied. “I didn’t know you had that kind of ambition.” That’s not a compliment. Basically, he’s shocked you’ve got the guts to hit on one of the rich kids.
 
 △Leo 用手捂着头。
 
-Leo（抬头）：这太尴尬了。你也知道赛区那些人怎么传 PCU 的 —— 资源咖、眼睛长在头顶上。要是他把截图挂到赛区论坛，我选秀就完了。 Leo (looking up): This is so humiliating. You’ve heard all the league gossip about PCU‑‑spoiled kids who think they’re better than everyone. If he posts the screenshot on the league forum, my draft prospects are ruined.
+Leo（抬头）: This is so humiliating. You’ve heard all the league gossip about PCU—spoiled kids who think they’re better than everyone. If he posts the screenshot on the league forum, my draft prospects are ruined.
 
-Sam（收起玩笑）：他那种人，不会干这么掉价的事。 Sam (sobering up): Someone like him wouldn’t stoop that low.
+Sam（收起玩笑）: Someone like him wouldn’t stoop that low.
 
-Sam：他如果真要管你，昨天就发了，你先专心备战选秀吧，喜欢他的人那么多，Hunter 管不过来的。 Sam: If he wanted to make fun of you, he would’ve done it last night. Just focus on the draft. Tons of people crush on him. Hunter wouldn’t have time to mess with you.
+Sam: If he wanted to make fun of you, he would’ve done it last night. Just focus on the draft. Tons of people have a crush on him. Hunter wouldn’t have time to mess with you.
 
 △ Leo 深吸一口气，拿起手机。
 
-Leo（低声）：…… 你说得对。他那种人，我这种小角色，不至于。 Leo (quiet): …You’re right. He’s out of my league. I’m not worth his time.
+Leo（低声）: …You’re right. He’s out of my league. I’m not worth his time.
 
 △ 手机一震。Leo 低头，屏幕弹出一条新消息，来自 Hunter Hayes：“明早六点，PCU 打击笼。一对一。” △ Leo 僵在原地，手机 “啪” 地砸进被子。
 
 2-2 日 / 内 PCU 训练馆走廊 人物：Leo Foster、Hunter Hayes △ 清晨，Leo 背着旧球包站在 PCU 训练馆的玻璃门前。 △ Hunter 从里面推门出来，穿着训练服，手里拿着记录板。
 
-Hunter（平静）：怎么晚了三分钟。 Hunter (calm): You’re three minutes late.
+Hunter（平静）: You’re three minutes late.
 
 △Leo 紧张的握紧双肩包的肩带。
 
-Leo（紧张）：路上有些堵车。 Leo (nervous): There was traffic on the way over.
+Leo（紧张）: There was traffic on the way over.
 
 △ Hunter 侧身让开门口，示意他进来。
 
-Hunter：去室外打击笼，我发球。今天先不用全力，主要看你的动作。 Hunter: Head to the outdoor cage. I’ll pitch. Don’t go all‑out today. I’ll watch your mechanics.
+Hunter: Head to the outdoor cage. I’ll pitch. Don’t go all-out today. I’ll watch your mechanics.
 
 △ Leo 跟在他身后，目光扫过走廊两侧的奖杯柜 ——PCU 的冠军奖杯排了整整三面墙。 △ Hunter 停下来，回头看了他一眼。
 
-Hunter：预备役，看什么呢，发球机在右边第二个门。 Hunter: Hey, reserve. What are you staring at? The pitching machine is behind the second door on your right.
+Hunter: Hey, reserve. What are you staring at? The pitching machine is behind the second door on your right.
 
 △ Leo 收回视线，快步跟上去。
 
 2-3 日 / 内 PCU 室外打击笼 人物：Leo Foster、Hunter Hayes △ 阳光照进围网，Hunter 站在投手丘上，手里握着一颗速球。Leo 站在打击区，攥紧球棒，指节发白。
 
-Hunter（抬下巴 微笑）：放松一点 L‑e‑o‑。 Hunter (chin up, slight smile): Relax, L‑e‑o.
+Hunter（抬下巴，微笑）: Relax, Leo.
 
 △ Hunter 抬手投球。速球直扑内角，Leo 挥棒，慢了半拍，球擦棒飞出界外。
 
-Hunter：握太紧了，手腕放松一点。 Hunter: You’re gripping too tight. Loosen your wrists.
+Hunter: You’re gripping too tight. Loosen your wrists.
 
 △ 第二球，外角滑球。Leo 够着打，挥空。
 
-Hunter：你眼睛要盯着球路，身体没跟上。 Hunter: Keep your eyes on the ball. Your body isn’t keeping up.
+Hunter: Keep your eyes on the ball. Your body isn’t keeping up.
 
 △ Leo 低头踹了踹本垒板边缘。
 
-Leo（咬牙）：…… 你昨晚不是这个意思么。“别迟到” 就是让你今天来看我出丑？ Leo (gritting teeth): …Is that what you meant last night? “Don’t be late” so you could watch me make a fool of myself today?
+Leo（咬牙）: …Is that what you meant last night? “Don’t be late” so you could watch me make a fool of myself today?
 
 △ Hunter 走到本垒板旁，伸手握住 Leo 的球棒，调整了他左手的位置。
 
-Hunter（平静）：手放这儿。 Hunter (calm): Place your hand here.
+Hunter（平静）: Place your hand here.
 
 △ Hunter 退回去，拿起第三颗球。
 
-Hunter：再一球。打到界内就算过。 Hunter: One more pitch. Hit it fair and you pass.
+Hunter: One more pitch. Hit it fair and you pass.
 
 △ Hunter 抬手投出，速球直扑红中。Leo 挥棒，球击中棒芯，直线飞向右外野，弹在护网上。 △ Hunter 看着球的轨迹，嘴角动了一下。
 
-Hunter：多练练吧，不然连 MLB 的门槛都够不着，明天同一时间再来。 Hunter: Keep putting in effort. Otherwise you’ll never make it near MLB. Same time tomorrow.
+Hunter: Keep putting in effort. Otherwise you’ll never make it near MLB. Same time tomorrow.
 
 △ Leo 站在原地，低头看着自己的双手，手掌因为球的冲击微微颤抖。
 
@@ -528,333 +530,335 @@ Hunter：多练练吧，不然连 MLB 的门槛都够不着，明天同一时间
 
 第三集 3-1 晨 / 外 PCU 室外打击笼 人物：Leo Foster、Hunter Hayes △ Hunter 站在 Leo 身后，手从背后伸过来，握住他的左手，调整握棒角度。
 
-Hunter（平静）：拇指扣在这条线下面。不是握死，是卡住。 Hunter (calm): Tuck your thumb under this line. Don’t squeeze, lock it in place.
+Hunter（平静）: Tuck your thumb under this line. Don’t squeeze; lock it in place.
 
 △ Hunter 的胸膛贴近 Leo 后背，蹲下一点，嘴唇靠近 Leo 的耳后。 △ Leo 脊背僵直，肩膀耸起。
 
-Leo（os）：他靠那么近干什么，那张照片，难道他..... Leo (OS): Why is he this close? Did that photo make him think…
+Leo（OS）: Why is he this close? Did that photo make him think…
 
-Hunter：肩膀放平。 Hunter: Drop your shoulders.
+Hunter: Drop your shoulders.
 
 △ Leo 硬生生放低肩膀，但手肘依然夹紧。Hunter 松开他的手，退后半步。
 
-Hunter：挥一棒试试。 Hunter: Take a swing.
+Hunter: Take a swing.
 
 △ Leo 挥棒，动作僵硬，球棒横着扫过本垒板，完全没有击中发球机投来的球。
 
-Hunter（语气不变）：重来。别夹手肘。 Hunter (same tone): Again. Don’t lock your elbows.
+Hunter（语气不变）: Again. Don’t lock your elbows.
 
 △ Leo 又挥一棒，依然打空，球棒差点脱手。他喘着粗气，耳尖红透。
 
-Hunter（微笑）：你紧张什么？我站你后面会咬你？ Hunter (smirk): Why so tense? You think I’m gonna bite you from behind?
+Hunter（微笑）: Why so tense? You think I’m gonna bite you from behind?
 
 △Leo 挣脱 Hunter，面向他。
 
-Leo（没回头，声音发闷）：…… 没有。 Leo (muffled, not facing him): …I’m didn’t.
+Leo（没回头，声音发闷）: …No.
 
-Hunter：那就再来，想参加 MLB 的预备役起码要认真一点吧。 Hunter: Then swing again. If you want a shot at MLB, a reserve player needs to take this seriously.
+Hunter: Then swing again. If you want a shot at MLB, a reserve player needs to take this seriously.
 
 △ Hunter 走回投手丘，捡起球。 △ Leo 深吸一口气，重新站定。
 
 3-2 午 / 内 PCU 训练馆走廊 人物：Leo Foster，PUC 队员若干 △ 训练结束，Leo 背着球包快步走出训练馆。他经过转角时，听到 PCU 队员的对话从半掩的器材室里传出。
 
-队员 A：听说 Elowen 下周回国。 Teammate A: Word is Elowen’s coming back next week.
+队员 A: Word is Elowen’s coming back next week.
 
-队员 B：校董千金？那队长不得去接机？听说是家里安排的未婚妻？ Teammate B: The trustee’s daughter? Guess the captain will pick her up. Rumor says she’s his arranged fiancée.
+队员 B: The trustee’s daughter? Guess the captain will pick her up. Rumor says she’s his arranged fiancée.
 
 △ Leo 转身大步离开，表情放松了一些。
 
-Leo：他有未婚妻，应该不会在意那条短信了。 Leo: He has a fiancée. He probably won’t care about that text anymore.
+Leo: He has a fiancée. He probably won’t care about that text anymore.
 
 3-3 午 / 内 WWC 更衣室 人物：Leo Foster、Sam △ 更衣室长凳上，Leo 换下训练鞋，神情明显松弛。Sam 凑过来坐下。
 
-Sam（压低声音）：怎么？被那个恶趣味的训傻了？ Sam (quiet): So? Did that guy with the weird sense of humor wear you out?
+Sam（压低声音）: So? Did that guy with the weird sense of humor wear you out?
 
-Leo（摇头）：…… 他有未婚妻。 Leo (shaking head): …He has a fiancée.
+Leo（摇头）: …He has a fiancée.
 
-Sam 一愣，随即反应过来，大笑。 Sam：所以你昨晚那消息，就算他当真，人家也有正牌女友。你这算自动翻篇了。 Sam: Oh! So even if he took your message seriously, he’s already taken. You’re basically off the hook.
+Sam 一愣，随即反应过来，大笑。
 
-Leo（系好鞋带）：他回那句，估计就是开玩笑。豪门少爷的恶趣味。 Leo (tying shoes): That reply was probably just his rich‑kid teasing.
+Sam: Oh! So even if he took your message seriously, he’s already taken. You’re basically off the hook.
 
-Sam（拍他肩）：这不是更好，安心接受训练，准备选秀。 Sam (patting his shoulder): All the better. Just focus on training and the draft.
+Leo（系好鞋带）: That reply was probably just his rich-kid teasing.
+
+Sam（拍他肩）: All the better. Just focus on training and the draft.
 
 △ 更衣室门被推开，WWC 队长探进半个身子，手里拿着手机，扫了一眼更衣室里的人。
 
-队长：哎 Sam，下周赛程出来了。教练说咱们要和 PCU 打一场友谊赛。 Captain: Hey Sam, next week’s schedule is out. Coach says we’ve got an exhibition game against PCU.
+队长: Hey Sam, next week’s schedule is out. Coach says we’ve got an exhibition game against PCU.
 
 △ Sam 吹了声口哨，Leo 手上的动作顿了一下。
 
-Leo（随口）：什么时候？ Leo (casual): When?
+Leo（随口）: When?
 
-队长：下周三，主场。教练说正好让你们提前适应一下强队的节奏。 Captain: Next Wednesday, home field. Coach wants you guys to get used to playing against top‑tier competition early.
+队长: Next Wednesday, home field. Coach wants you guys to get used to playing against top-tier competition early.
 
 △ 队长说完缩回去带上了门。Leo 重新低头系鞋带，神情没有太多变化，只是动作比刚才慢了半拍。
 
-Sam（凑过来挤眉弄眼）：哟，要跟你的心肝 Caleb 见面咯。 Sam (grinning teasingly): Ooh, you get to see your darling Caleb.
+Sam（凑过来挤眉弄眼）: Ooh, you get to see your darling Caleb.
 
-Leo（拍开他的手）：我只是预备队员，应该跟我没什么关系。 Leo (swatting his hand away): I’m only a reserve. I’ll probably sit this one out.
+Leo（拍开他的手）: I’m only a reserve. I’ll probably sit this one out.
 
 【第三集完】
 
 第四集 4-1 日 / 外 WWC 主场棒球场 人物：Leo Foster、Hunter Hayes、WWC 队员、PCU 队员、裁判 △ 友谊赛进行到三局上半，WWC 主力游击手 Tyler 扑接一记地滚球时脚踝扭伤，被队医搀扶下场。 △教练扫了一眼替补席，Hunter 从 PCU 休息区走到技术台前，指尖敲了敲记录板。
 
-Hunter（抬下巴，看向 WWC 教练）：让 13 号 Leo 上。他也练过这个站位。 Hunter (chin lifted to WWC coach): Put number 13 Leo in. He’s practiced shortstop.
+Hunter（抬下巴，看向 WWC 教练）: Put number 13 Leo in. He’s practiced shortstop.
 
 △ WWC 教练愣了一瞬，回头看 Leo。 △Leo 攥着球棒站起身。
 
-WWC 教练（点头）：Leo，你去试试。 WWC Coach (nodding): Leo, get in there.
+WWC 教练（点头）: Leo, get in there.
 
-4-2 日 / 外 WWC 主场棒球场 三局上半 人物：Leo Foster、Hunter Hayes、PCU 打者、PCU 休息区队员 △ PCU 打者击球，球贴着草皮快速滚向 Leo 的右侧。 场内广播（扬声器）：球打向游击方向…… △ Leo 横跨两步，反手接球，直起身的同时把球投向一垒。一垒手伸臂接球。
+4-2 日 / 外 WWC 主场棒球场 三局上半 人物：Leo Foster、Hunter Hayes、PCU 打者、PCU 休息区队员 △ PCU 打者击球，球贴着草皮快速滚向 Leo 的右侧。 场内广播（扬声器）: Ball hit toward shortstop… △ Leo 横跨两步，反手接球，直起身的同时把球投向一垒。一垒手伸臂接球。
 
-场内广播（扬声器，语速加快）：接球 —— 传球 —— 封杀！游击手 Leo Foster 完成一次防守！(Announcer over stadium loudspeaker, speaking at a faster pace): Catch! — Throw! — Tag‑out! Shortstop Leo Foster makes the play!
+场内广播（扬声器，语速加快）: Catch—throw—out! Shortstop Leo Foster makes the play!
 
 △ PCU 休息区里几个原本靠墙聊天的队员直起身。一个队员偏头看 Hunter。
 
-PCU 队员 A（压低声音）：这接球速度…… 比 WWC 那个首发快吧？ PCU Teammate A (whispering): That fielding speed…faster than WWC’s starting shortstop, right?
+PCU 队员 A（压低声音）: That fielding speed…faster than WWC’s starting shortstop, right?
 
-PCU 队员 B（皱眉）：他不是替补么？ PCU Teammate B (frowning): Isn’t he just a bench player?
+PCU 队员 B（皱眉）: Isn’t he just a bench player?
 
 Hunter 双手搭在围网上，没接话，视线钉在 Leo 身上。PCU 打者走回休息区，把打击手套摔在长凳上。
 
-PCU 打者（对队友懊恼）：那球我压很低了，他一步就到位，为什么我从来没有在 WWC 比赛上见过他。 PCU Batter (frustrated to teammates): I hit that ball low, and he was there in one step. How come I’ve never seen him play for WWC?
+PCU 打者（对队友懊恼）: I hit that ball low, and he was there in one step. How come I’ve never seen him play for WWC?
 
-Hunter: 他是 WWC 的替补，没上过正式赛场。 Hunter: He’s WWC’s reserve. He hasn’t played an official game before.
+Hunter: He’s WWC’s reserve. He hasn’t played an official game before.
 
-PUC 打者（疑惑）：Hunter，你知道他？ PCU Batter (confused): Hunter, you know him?
+PCU 打者（疑惑）: Hunter, you know him?
 
-Hunter（微笑）：他是我的 1v1 帮扶对象。 Hunter (slight smile): He’s my one‑on‑one trainee.
+Hunter（微笑）: He’s my one-on-one trainee.
 
-PUC 打者：哦哦就是你前些天带回来训练那小子？你什么时候对外人这么有耐心了，还是草根队的人。 PCU Batter: Oh right, that kid you’ve been training. Since when are you this patient with outsiders, especially from a small‑time team?
+PCU 打者: Oh right, that kid you’ve been training. Since when are you this patient with outsiders, especially from a small-time team?
 
-Hunter（看向 Leo）：他很有天赋。 Hunter (glancing at Leo): He’s got real talent.
+Hunter（看向 Leo）: He’s got real talent.
 
 △ 下半场，Leo 站上打击区，戴好打击手套，踩了踩本垒板前的土。 △PCU 替补投手站在投手丘上，捕手伸出两根手指。 △Hunter 双臂搭在铁丝网上看着 Leo。
 
-PCU 捕手（冲投手喊）：外角，压低。 PCU Catcher (yelling to pitcher): Outside corner, keep it low.
+PCU 捕手（冲投手喊）: Outside corner, keep it low.
 
 △ 第一球飞来，擦着外角低空掠过。Leo 没有挥棒。 裁判（抬手）：Ball。
 
-PCU 捕手（皱眉）：再来一颗，同样位置。 PCU Catcher (frowning): Another one, same spot.
+PCU 捕手（皱眉）: Another one, same spot.
 
 △ 第二球，变化球弧线偏低，落地前下坠。Leo 挥棒，棒头离球差了半个手掌。 裁判（抬手）：Strike。
 
-PCU 捕手（轻笑，对投手点头）：好球，下一颗红中解决他。 PCU Catcher (chuckling, nodding to pitcher): Nice pitch. Next one down the middle‑‑finish him off.
+PCU 捕手（轻笑，对投手点头）: Nice pitch. Next one down the middle—finish him off.
 
-Leo（低声，自言自语）：Hunter 教的…… 内角球盯膝盖，外角球等腰线。 Leo (quiet mutter): Hunter said…watch the knee on inside pitches, watch the hip line for outside.
+Leo（低声，自言自语）: Hunter said…watch the knee on inside pitches, watch the hip line for outside.
 
 △ 他重新摆好架势，左脚往后挪了半寸。 △投手抬手、跨步、挥臂。第三球，直球正中红中，球速中等。 △Leo 转腰挥棒，球棒与球撞击的脆响传遍全场。 △白色小球笔直飞向右外野，越过外野手伸出的手套，落地后弹向围墙。Leo 丢掉球棒加速冲刺 —— 踩一垒、转身、滑向二垒。 △全场掌声响起。 △Leo 从二垒垒包上站起来，拍了拍腿上的红土，抬头看向 PCU 休息区。 △Hunter 双手还搭在围网上，嘴角微微动了一下。
 
 4-4 午 / 外 球员通道入口 人物：Leo Foster、Tyler Reed、WWC 队员若干 △ 比赛结束，Leo 背着球包走出通道，脚踝裹着冰袋的 Tyler 靠在墙边，拦住他的路。
 
-Tyler（冷笑）：打了一支二垒安打，挺风光啊。 Tyler (sneering): Nice double. Real flashy.
+Tyler（冷笑）: Nice double. Real flashy.
 
-Leo（停步）：让开。 Leo (stopping): Move.
+Leo（停步）: Move.
 
-Tyler：我说，你要不是跟 Hunter 混熟了，他能在技术台点名让你上？我打了三年才混到首发，你只需要一句话。 Tyler: Let me ask you‑‑if you weren’t cozy with Hunter, would he have called for you from the bench? It took me three years to earn my starting spot, and you just get handed yours with one word.
+Tyler: Let me ask you—if you weren’t cozy with Hunter, would he have called for you from the bench? It took me three years to earn my starting spot, and you just get handed yours with one word.
 
 △ Leo 攥紧球包背带，指节发白。
 
-Tyler（凑近半步）：抱大腿上位的感觉怎么样？以后 WWC 也容不下你这尊佛了？ Tyler (stepping closer): How does it feel climbing the ladder by clinging to a big shot? How long do you think WWC will put up with you?
+Tyler（凑近半步）: How does it feel climbing the ladder by clinging to a big shot? How long do you think WWC will put up with you?
 
 △ Leo 把球包甩在地上，往前迈了一步。Tyler 后退半步，但没躲开。
 
-Leo（咬牙）：你说谁靠抱大腿？ Leo (gritting teeth): Who's clinging to a big shot?
+Leo（咬牙）: Who's clinging to a big shot?
 
 △ Tyler 抬起下巴，刚要开口，一只手从侧面伸过来，按在 Leo 胸口，把他往后推了半步。Hunter 不知道什么时候站在了两人中间，看向 Leo。
 
-Hunter（压低声音）：走了，训练还没结束。 Hunter (low voice): Come on. Training isn’t over.
+Hunter（压低声音）: Come on. Training isn’t over.
 
 △ Hunter 揽住 Leo 的肩膀，把他从 Tyler 面前带开。Leo 肩膀绷着，但没有挣开。
 
 4-5 午 / 内 PCU 训练馆走廊 人物：Leo Foster、Hunter Hayes △ Hunter 走在前面，Leo 跟在半步之后。
 
-Leo（委屈）：我不知道是你找教练让我上场的。 Leo (hurt tone): I didn’t know you talked the coach into putting me in the game.
+Leo（委屈）: I didn’t know you talked the coach into putting me in the game.
 
-Hunter（没回头）：我知道。 Hunter (not looking back): I know you didn’t.
+Hunter（没回头）: I know you didn’t.
 
-Leo（脚步一顿）：那你按我干什么？ Leo (stopping short): Then why did you push me back?
+Leo（脚步一顿）: Then why did you push me back?
 
 △ Hunter 停下来，转身面对他。两人隔了一步距离。
 
-Hunter（平静）：，他就是在等你动手，你要是主动向他动手，挨训的是你不是他。 Hunter (calm): He was baiting you. If you threw the first punch, you would be the one getting disciplined, not him.
+Hunter（平静）: He was baiting you. If you threw the first punch, you would be the one getting disciplined, not him.
 
-Hunter：你打了他这一次是挨训，下一次就是禁赛。 Hunter: One fight gets you a reprimand. Next time you get suspended.
+Hunter: One fight gets you a reprimand. Next time you get suspended.
 
 △ Leo 低头看着自己的鞋尖。
 
-Leo: 我知道了。 Leo: I get it.
+Leo: I get it.
 
-Hunter：嗯。不过你那个二垒安打，他站上去也做不到。 Hunter: Good. Still‑‑that double you hit? He couldn’t pull that off even if he tried.
+Hunter: Good. Still—that double you hit? He couldn’t pull that off even if he tried.
 
 △ Leo 抬眼。 △Hunter 已经转身继续往前走。
 
-Hunter（头也不回，摆了摆手）：明天还是六点，发球机换了新款，过来试试。 Hunter (waving without turning around): Six sharp tomorrow. They got a new pitching machine. Come test it out.
+Hunter（头也不回，摆了摆手）: Six sharp tomorrow. They got a new pitching machine. Come test it out.
 
 △ Leo 站在原地，攥紧的拳头慢慢松开。 【第四集完】
 
 第五集 5-1 午 / 内 PCU 训练馆室内打击区 人物：Leo Foster、Hunter Hayes、Caleb Thatcher △ 训练结束，Leo 蹲在本垒板旁解护腿。 △Hunter 站在发球机旁擦球棒，松脂粉沾在指腹上，不紧不慢地蹭过木质握柄。 △Caleb 从围网外走进来，手里拎着两瓶电解质饮料，抬手把其中一瓶抛给 Leo。
 
-Caleb（咧嘴笑，语气随意）：那天打得够漂亮啊，Foster。看着可不像预备役的水平。 Caleb (grinning casual): You played great the other day, Foster. That was way above reserve‑level.
+Caleb（咧嘴笑，语气随意）: You played great the other day, Foster. That was way above reserve level.
 
 △Leo 接住饮料，愣了一瞬
 
-Leo：谢了…… 主要是 Hunter 带得好。 Leo: Thanks…Mostly thanks to Hunter’s training.
+Leo: Thanks… Mostly thanks to Hunter’s training.
 
 △ Caleb 转头看向 Hunter，一拳轻轻锤在他胸口。
 
-Caleb：这小子是真有天赋，你眼光没差。 Caleb: This kid genuinely has talent. You weren’t wrong about him.
+Caleb: This kid genuinely has talent. You weren’t wrong about him.
 
 △ Leo 耳尖泛红，仰头喝 Caleb 送来的饮料。 △Hunter 手里的动作停了半秒，看向 Leo 红透的耳朵。
 
-Hunter（内心 OS）：就夸一句，脸红成这样？ Hunter (OS): Just one word and he blushed?
+Hunter（内心 OS）: Just one word and he blushed?
 
 △ 视线偏到 Caleb 脸上 ——Caleb 还在笑，嘴角咧着。 △Hunter 把球棒放回架子上，擦了擦指尖的松脂粉。
 
-Hunter（OS）：对着 Caleb 笑，对着我就全程紧绷。WWC 的人，都这么喜欢到处放电？ Hunter (OS): Smiles easy for Caleb, but stays all tense around me. Are people from WWC this flirty with everyone?
+Hunter（OS）: Smiles easy for Caleb, but stays all tense around me. Are people from WWC this flirty with everyone?
 
 △ 手指碰到球棒架边缘，发出极轻的声响。
 
-Hunter：走了，Caleb。下午录像课别迟到。 Hunter: Let’s go, Caleb. Don’t be late for the film session this afternoon.
+Hunter: Let’s go, Caleb. Don’t be late for the film session this afternoon.
 
 他没给两人反应的时间，抬手捞住 Caleb 的后颈就往门口带，力道带着点不容拒绝的强势。 △Caleb 被他拽得踉跄了一步，回头冲 Leo 摆了摆手。
 
-Caleb：回头再练啊，Leo！ Caleb: Catch you later, Leo!
+Caleb: Catch you later, Leo!
 
 △Leo 拿着饮料站在原地，耳朵还红着。 △Caleb 被拽出打击区。
 
-Caleb（半笑半恼）：我靠，你轻点！脖子都给你掐红了！ Caleb (half amused half annoyed): Hey, easy! You’re gonna leave a mark on my neck!
+Caleb（半笑半恼）: Hey, easy! You’re gonna leave a mark on my neck!
 
-Hunter（没松手，面无表情）：那你走快点。 Hunter (still holding on, blank face): Then walk faster.
+Hunter（没松手，面无表情）: Then walk faster.
 
 5-2 午 / 内 PCU 训练馆走廊 人物：Hunter Hayes、Caleb Thatcher △ 走廊上，Hunter 甩开抓着 Caleb 的胳膊。
 
-Caleb（皱眉，笑里带点莫名其妙）：干什么啊？我夸他两句不行？他打得确实不错。 Caleb (frowning, confused smile): What’s your deal? Can’t I give him a compliment? He really did play well.
+Caleb（皱眉，笑里带点莫名其妙）: What’s your deal? Can’t I give him a compliment? He really did play well.
 
 △ Caleb 跟上去，偏头打量 Hunter 的侧脸、
 
-Caleb（放缓语气，试探）：你不对劲。你冷着脸干什么？ Caleb (slower tone, probing): You’re acting weird. Why the cold shoulder?
+Caleb（放缓语气，试探）: You’re acting weird. Why the cold shoulder?
 
-Hunter（语气平）：没有。 Hunter (flat): I’m not.
+Hunter（语气平）: I’m not.
 
-Caleb（跟上步子）：那你掐我干什么？ Caleb (catching up): Then why did you yank me by the neck?
+Caleb（跟上步子）: Then why did you yank me by the neck?
 
-Hunter（脚步没停）：你走得太慢了。 Hunter (keeping walking): You were moving too slow.
+Hunter（脚步没停）: You were moving too slow.
 
-Caleb（嗤了一声）：你平时可不这样。训练时你话比谁都多，针对性纠正细得跟说明书似的。今天全程没说话，现在又拽着就走 —— 你是不是喜欢 Leo。 Caleb (scoffing): That’s not like you. Normally you won’t shut up during training, nit‑picking every detail. Today you barely said a word and then dragged me away. Do you have a crush on Leo?
+Caleb（嗤了一声）: That’s not like you. Normally you won’t shut up during training, nitpicking every detail. Today you barely said a word and then dragged me away. Do you have a crush on Leo?
 
-Hunter: 对..... 他很有天赋。 Hunter: It’s just…he’s very talented.
+Hunter: It’s just… he’s very talented.
 
 △ 走廊尽头的门被 Hunter 推开，Caleb 快步跟了上去。
 
-Caleb: 喜欢就大方一点啊..... Caleb: If you like him, just own up to it…
+Caleb: If you like him, just own up to it…
 
 △ Caleb 摇着头跟出去。 △门在身后合拢。 【第五集完】
 
 第六集 6-1 日 / 内 PCU 室外打击笼 人物：Leo Foster、Hunter Hayes △ 一对一加练结束，Hunter 收拾战术板，Leo 攥着球棒站在他身边，几次张嘴欲言。
 
-Leo（犹豫着开口，音量不高）：Hunter，其实上次那条消息 —— Leo (hesitant, quiet): Hunter, about that message I sent‑‑
+Leo（犹豫着开口，音量不高）: Hunter, about that message I sent—
 
-Leo（低头盯脚尖，声音发紧）：那条消息…… 我想说清楚。上周五晚上我喝了酒，本来是想 —— Leo (staring at his shoes, voice tight): That message… I need to explain. I’d been drinking last Friday night, and I meant to‑‑
+Leo（低头盯脚尖，声音发紧）: That message… I need to explain. I’d been drinking last Friday night, and I meant to—
 
 △ Hunter 口袋里的手机震动。他抬手打断 Leo，
 
-Hunter：请等一下。 Hunter: Hold on a second.
+Hunter: Hold on a second.
 
 △Hunter 掏出手机看了一眼来电显示，接起来。
 
-Hunter（对电话）：对，是我。…… 南区的比赛数据我已经发你邮箱了。…… 选秀评估的话，他的补位速度和反应力都达标，只是大赛经验少。…… 好，下周我带他过去试训。 Hunter (on phone): Yeah, it’s me. …I already sent you the southern division game stats by email. …For the draft evaluation: his range and reaction speed check out, he just lacks big‑game experience. …Alright, I’ll bring him for the tryout next week.
+Hunter（对电话）: Yeah, it’s me. …I already sent you the southern-division game stats by email. …For the draft evaluation, his range and reaction speed check out; he just lacks big-game experience. …All right, I’ll bring him for the tryout next week.
 
 △ Hunter 握着手机，侧身走了两步，背对 Leo。
 
-Hunter（挂了电话，转身）：我们教练刚看完你今天的训练录像，说你横移速度超过 WWC 首发。 Hunter (hanging up, turning back): Our coach just watched your practice footage. He says your lateral quickness beats WWC’s starting infielder.
+Hunter（挂了电话，转身）: Our coach just watched your practice footage. He says your lateral quickness beats WWC’s starting shortstop.
 
-Leo（愣住）：…… 什么？ Leo (shocked): …What?
+Leo（愣住）: …What?
 
-Hunter: 教练很欣赏你的天赋。 Hunter: Coach is impressed by your talent.
+Hunter: Coach is impressed by your talent.
 
-Hunter（把手机放回口袋）：我给教练申请了你 PCU 场地的使用权限，你可以在 PCU 长期训练。 Hunter (putting phone away): I cleared it with coach. You have long‑term access to PCU’s training facilities.
+Hunter（把手机放回口袋）: I cleared it with coach. You have long-term access to PCU’s training facilities.
 
 △ Leo 眨了眨眼，没反应过来。
 
-Leo：…… 你刚才说的长期，是多久？ Leo: …When you say long‑term, how long exactly?
+Leo: …When you say long-term, how long exactly?
 
-Hunter（语气平）：到你选秀结束。你天赋够，努力也够，用这套设备训练，能上一个台阶。 Hunter (flat): Until the draft. You’ve got the talent and work ethic. Training with our gear will push you to the next level.
+Hunter（语气平）: Until the draft. You’ve got the talent and work ethic. Training with our gear will push you to the next level.
 
-Leo（感激）：谢谢。 Leo (grateful): Thank you.
+Leo（感激）: Thank you.
 
-Hunter：感谢你的天赋吧。 Hunter: Thank your own talent.
+Hunter: Thank your own talent.
 
-Hunter：刚才电话里已经确认过了。你收拾完可以去前台登记人脸识别。 Hunter: It’s all confirmed over the phone. Go register facial recognition at the front desk once you’re packed up.
+Hunter: It’s all confirmed over the phone. Go register facial recognition at the front desk once you’re packed up.
 
 △ Leo 把护腿扔在长凳上，往前迈了一步，张开双臂狠狠抱住了 Hunter。 △Leo 额头撞在 Hunter 锁骨上。 △Hunter 身体瞬间僵住，灰蓝色眼眸睁大，双手悬在半空。 △ 两秒后 Hunter 抬手按住 Leo 的肩膀，把人推开了。
 
-Hunter：别激动，先去前台登记。 Hunter: Calm down. Go register at the front desk first.
+Hunter: Calm down. Go register at the front desk first.
 
 △ Hunter 转身往外走。 △Leo 站在原地抬手抓了抓后脑勺的头发，嘴角翘着，低着头笑了一声。
 
 6-2 日 / 内 PCU 走廊拐角 人物：Hunter △ Hunter 走出打击笼后拐进走廊，他靠在墙面站住，低头看着自己刚才按过 Leo 肩膀的右手，指尖微微蜷了一下。 △ 他皱了下眉，把手插进训练裤口袋里，抬脚继续走。
 
-Hunter（低声）：…… 果然是在用这套换资源。 Hunter (muttering low): …So that’s what this is. He’s playing me for better resources.
+Hunter（低声）: ...So that’s what this is. He’s playing me for better resources.
 
 △ 他走了两步，脚步缓了半拍。
 
-Hunter（无奈微笑）：…… 但我喜欢。 Hunter (resigned small smile): …Still, I don’t mind.
+Hunter（无奈微笑）: …Still, I don’t mind.
 
 △ 走廊尽头的光线照进来，他面无表情地拐过转角。
 
 6-3 夜 / 内 机场到达大厅 人物：Elowen Voss △ 国际到达出口，Elowen 穿着一件驼色风衣，带着墨镜，手提行李包走出来，另一只手滑动手机屏幕。她停在通道边，低头看着手机里的一张照片。 △ 赛区群里有人转发了帖子截图，配着一张小图：Hunter 站在 PCU 训练馆走廊里，身边跟着一个背球包的白金色卷发身影，照片模糊，像是监控截屏。
 
-热门评论（vo）：这个人好像不是 PUC 成员吧，怎么一直在 Hunter 身边。 Popular Comment (VO): That guy doesn’t look like a PCU member. Why’s he always hanging around Hunter?
+热门评论（VO）: That guy doesn’t look like a PCU member. Why’s he always hanging around Hunter?
 
 △ Elowen 退出发帖页面，点开另一个私人对话框，输入了三个字，点击发送。
 
-Elowen（vo）：“查一下。” Elowen (VO): “Look into him.”
+Elowen（VO）: “Look into him.”
 
 △ 她把手机放进包里，推着行李箱走向出口机场玻璃门向两侧滑开。 【第六集完】
 
 第七集 7-1 日 / 内 PCU 训练馆休息室 人物：Elowen Voss、Hunter Hayes、Caleb Thatcher、PCU 队员若干 △ 休息室里 PCU 队员散坐在沙发和长凳上，Elowen 站在正中，身边放着两箱运动补给，她笑着拍了拍手环视一圈。
 
-Elowen（笑着）：给你们带了训练补给，都分一分。 Elowen (smiling): Brought everyone some training supplies, help yourselves.
+Elowen（笑着）: I brought everyone some training supplies. Help yourselves.
 
 △ 队员们围过来拿东西。 △ Hunter 坐在角落的折叠椅上，低头翻手机，指尖在屏幕上划了两下。 △ Caleb 靠在一旁喝运动饮料，拿了瓶补给冲 Elowen 晃了晃。
 
-Caleb（咧嘴笑）：谢了，正缺这个。 Caleb (grinning): Thanks, we really needed these.
+Caleb（咧嘴笑）: Thanks, we really needed these.
 
-Elowen（笑）：你训练强度那么大，多囤点。 Elowen (smiling): You train so hard, stock up.
+Elowen（笑）: You train so hard, so stock up.
 
-Caleb（随口）：那倒是，不过最近训练强度最大的可不是我 ——Hunter 天天带人加练早出晚归加练，比我累多了。 Caleb (casual): True enough, but I’m not the one grinding hardest lately. Hunter’s been staying late every day training someone else, he’s more worn‑out than me.
+Caleb（随口）: True enough, but I’m not the one grinding hardest lately. Hunter’s been staying late every day training someone else. He’s more worn-out than me.
 
 △ Elowen 脸上的笑顿了一下，偏头看 Hunter。
 
-Elowen（语气轻，尾音上扬）：带谁加练？我听说帮扶计划还没正式批吧。 Elowen (light tone, rising intonation): Training who? I thought the trainee program isn’t officially approved yet.
+Elowen（语气轻，尾音上扬）: Training who? I thought the trainee program wasn’t officially approved yet.
 
-Caleb（摆手）：就练练基本功，没什么大事。是吧 Hunter？ Caleb (waving hand): Just basic drills, nothing big. Right, Hunter?
+Caleb（摆手）: Just basic drills, nothing big. Right, Hunter?
 
-△Hunter 放下手机抬头看向 Caleb。 Hunter：设备空着也是空着，不浪费。 Hunter: The equipment sits idle otherwise. Might as well use it.
+△Hunter 放下手机抬头看向 Caleb。 Hunter: The equipment sits idle otherwise. Might as well use it.
 
-Elowen（看着 Hunter 震惊）：你怎么可以私自放外校学生进来。 Elowen (shocked at Hunter): How can you let an outside student use our facility without permission?
+Elowen（看着 Hunter，震惊）: How can you let an outside student use our facility without permission?
 
-Hunter（语气平）：我给教练申请了，不会出事。 Hunter (flat): I cleared it with coach. Nothing will go wrong.
+Hunter（语气平）: I cleared it with coach. Nothing will go wrong.
 
 7-2 夜 / 内 PCU 训练馆走廊 人物：Elowen Voss △ Elowen 独自走在走廊窗前，掏出手机翻到一个私人对话框
 
-校董秘书（vo）：Leo Foster 的权限已经被管理员账号手动取消了。 Board Secretary (VO): Leo Foster’s facility access has been manually revoked by admin.
+Board Secretary（VO）: Leo Foster’s facility access has been manually revoked by admin.
 
 7-3 日 / 外 PCU 训练馆门口 人物：Leo Foster、保安 △ Leo 背着球包走到 PCU 训练馆玻璃门前，拿出门牌。 △ 屏幕弹红框：“权限已取消”。他重新刷了一遍，还是红框。 △ 他按了门边对讲机，两声之后保安从里面走出来，隔着玻璃门摆手。
 
-保安（隔着门）：你不是我们这边学生，不能进。 Security (through glass): You’re not a student here. You can’t come in.
+保安（隔着门）: You’re not a student here. You can’t come in.
 
-Leo（愣住）：我是外校学生，但是已经向 PCU 教练申请了场地使用的。 Leo (stunned): I’m from another school, but coach approved my facility access.
+Leo（愣住）: I’m from another school, but coach approved my facility access.
 
-保安（摇头）：我只是按规矩行事。 Security (shaking head): I’m just following protocol.
+保安（摇头）: I’m just following protocol.
 
-△ 保安转身往回走，玻璃门合拢。、 △ Leo 转身往外走。 △ 训练馆侧面的树荫下，Tyler 靠在墙边，手机举到胸前，镜头对准 Leo 离开的背影，按下了快门。 △ Leo 沿着人行道走向公交站台，脚步比平时快，球包在背后晃荡。 △ Tyler 从侧面走出来，手机已经收进口袋，双手插兜，与 Leo 擦肩而过时偏头看了他一眼。
+△ 保安转身往回走，玻璃门合拢。 △ Leo 转身往外走。 △ 训练馆侧面的树荫下，Tyler 靠在墙边，手机举到胸前，镜头对准 Leo 离开的背影，按下了快门。 △ Leo 沿着人行道走向公交站台，脚步比平时快，球包在背后晃荡。 △ Tyler 从侧面走出来，手机已经收进口袋，双手插兜，与 Leo 擦肩而过时偏头看了他一眼。
 
-Tyler（低声，带笑）：哟，是被 PUC 拒之门外了吗？预备役。 Tyler (low amused voice): Well well. Got turned away at PCU’s door, reserve boy?
+Tyler（低声，带笑）: Well, well. Got turned away at PCU’s door, reserve boy?
 
 △ Leo 停住脚步转身就走。 △ Tyler 伸手将他拦下。
 
-Tyler：Hunter 不要你了，现在跟条流浪狗一样...... Tyler: Hunter’s done with you. Now you’re nothing but a stray…
+Tyler: Hunter’s done with you. Now you’re nothing but a stray…
 
 △ Leo 松开肩带低头吐了口气。
 
@@ -864,141 +868,143 @@ Leo：Get out of my face.
 
 第八集 8-1 日 / 内 WWC 更衣室 人物：Leo Foster、Sam・米勒、WWC 队员若干 △ WWC 更衣室里队员三三两两坐着换装备 △ Leo 进门时几个围在一起看手机的人抬头看了他一眼，又迅速低头。 △ Sam 靠在柜子边刷手机，脸色变了，站起身走到 Leo 面前，把屏幕怼到他眼前。 △ 屏幕上是一张照片 —— 清晨 PCU 训练馆门口，Leo 背着球包站在玻璃门外，保安在门内朝他摆手。
 
-Sam：标题是 “野路子想挤入豪门，被当场扫地出门。” 怎么回事 Leo？ Sam: The post title reads “Nobody Trying To Crash The Elite Program Gets Kicked Out On The Spot.” What the hell happened, Leo?
+Sam: The post title reads, “Nobody Trying to Crash the Elite Program Gets Kicked Out on the Spot.” What the hell happened, Leo?
 
-Leo（声音发闷）：谁发的？ Leo (muffled voice): Who posted this?
+Leo（声音发闷）: Who posted this?
 
-Sam（收起手机）：匿名号。但拍照角度是从侧面树荫下拍的，像是专门蹲点你。 Sam (putting phone away): Anonymous account. But the photo was taken from the shade on the side‑‑like someone was waiting for you on purpose.
+Sam（收起手机）: Anonymous account. But the photo was taken from the shade on the side—as if someone had been waiting for you.
 
 △ Leo 抬眼看向更衣室门口。 △ Tyler 正从外面走进来，脸上没什么表情，径直走向自己的柜子。
 
 8-2 日 / 外 WWC 训练馆球员通道 人物：Leo Foster、Tyler Reed、Tyler 跟班若干 △ Leo 走出更衣室穿过通道准备去训练场。 △ Tyler 带着两个队员堵在通道中间，双臂抱胸，嘴角挂着笑。
 
-Tyler 跟班 A（笑着附和）：听说了吗，人家门禁都给取消了，连保安都认得他。 Tyler’s Crew A (teasing): You hear this? His access got revoked. Even security turned him away.
+Tyler 跟班 A（笑着附和）: You hear this? His access got revoked. Even security turned him away.
 
-Tyler 跟班 B（双臂抱胸）：豪门队伍门槛那么高，哪是你这种人说进就进的。 Tyler’s Crew B (arms folded): The elite program has high standards. Guys like you don’t just waltz right in.
+Tyler 跟班 B（双臂抱胸）: The elite program has high standards. Guys like you don’t just waltz right in.
 
 △ Leo 往前走了一步，Tyler 没有让。
 
-Tyler（歪头）：怎么？我说错了？你不是天天往 PCU 跑么，人家让你进去了？ Tyler (tilting head): What? Did I lie? Weren’t you running over to PCU every single day? Did they let you in today?
+Tyler（歪头）: What? Did I lie? Weren’t you running over to PCU every day? Did they let you in today?
 
-Leo（盯着他，一字一字）：你觉得是你嘴厉害还是球棒厉害？ Leo (staring him down, slow words): Are you better running your mouth, or swinging a bat?
+Leo（盯着他，一字一字）: Are you better at running your mouth or swinging a bat?
 
 △ Tyler 愣了一下。Leo 把球包从肩上卸下来，扔在墙边。
 
-Leo（抬手，指向球场方向）：十球。你投我打，全垒打数定输赢，输的人退出今年选秀。 Leo (gesturing toward field): Ten pitches. You pitch, I hit. Most home runs wins. Loser drops out of this year’s draft.
+Leo（抬手，指向球场方向）: Ten pitches. You pitch, I hit. Most home runs wins. The loser drops out of this year’s draft.
 
 △ 通道一道声音从通道入口传来。
 
-Hunter（冷淡，语速很慢）：十球定输赢，谁定的规矩？你定的还是 CIF 定的？ Hunter (cold slow tone): Ten‑pitch wager? Who made those rules? You or the league?
+Hunter（冷淡，语速很慢）: Ten-pitch wager? Who made those rules? You or the league?
 
 △ 所有人都转头。 △ Hunter 站在通道入口几步外，穿着便装，手里还握着车钥匙，在几步外停住。
 
-Hunter（看向 Tyler，语气平缓）：靠嘴赢不了比赛，说再多垃圾话你也比他菜。 Hunter (looking at Tyler, calm tone): You don’t win ballgames with trash talk. No matter what you say, you can’t beat him.
+Hunter（看向 Tyler，语气平缓）: You don’t win ballgames with trash talk. No matter what you say, you can’t beat him.
 
 △ Tyler 脸上的笑僵住。 △ Hunter 往前走了半步，不多。
 
-Hunter（继续）：人身攻击、场外造谣，真要闹到纪律委员会，你选秀背景调查上多一笔污点。WWC 的教练保不保得住你，自己想清楚。 Hunter (continuing): Personal attacks and spreading rumors. If this goes to the disciplinary board, you get a mark on your draft background check. Think about whether WWC’s coach will still defend you.
+Hunter（继续）: Personal attacks and spreading rumors. If this goes to the disciplinary board, you’ll get a mark on your draft background check. Think carefully about whether WWC’s coach will still defend you.
 
 △ 通道里没人说话。Tyler 带着两人往球场方向走了。 △ Hunter 转向 Leo。
 
-Hunter：你很喜欢拿自己的前途开玩笑？不想打棒球可以直接跟你们教练说。 Hunter: Do you enjoy gambling with your own future? If you don’t want to play baseball anymore, just tell your coach.
+Hunter: Do you enjoy gambling with your own future? If you don’t want to play baseball anymore, just tell your coach.
 
 △ Hunter 走到 Leo 面前，弯腰捡起球包，递过去，他转身往外走。 △ Leo 站在通道里，看着他的背影走出去，手中的球包攥了一下，重新甩到肩上。 【第八集完】
 
 9-2 日 / 外 WWC 训练场 人物：Leo Foster、Sam、WWC 投手、WWC 队员若干 △ 训练场，Leo 站上打击区，WWC 投手站在投手丘上准备。
 
-WWC 投手（喊）：准备好了？ WWC Pitcher (yelling): You ready?
+WWC 投手（喊）: You ready?
 
-Leo（点头，握紧球棒）：来吧。 Leo (nodding, gripping bat): Let’s go.
+Leo（点头，握紧球棒）: Let’s go.
 
 △ 投手抬手投球，Leo 挥棒，球擦棒滚向三垒方向，落地出局。 WWC 投手（皱眉，喊）：…… 你没事吧？刚才那颗才 115。 WWC Pitcher (frowning, yelling): …You alright? That was only 115 mph.
 
-Leo（踩了踩本垒板）：…… 再来。 Leo (tapping home plate): …Again.
+Leo（踩了踩本垒板）: ...Again.
 
 △ 第二球，投手投到外角低。Leo 没挥，裁判抬手。 裁判：Strike。
 
-WWC 捕手（回头看教练方向，低声）：他在发呆。 WWC Catcher (glancing back toward coaches, quiet): His head’s not in the game.
+WWC Catcher（回头看教练方向，低声）: His head’s not in the game.
 
 △ 休息区里 sam 皱着眉 △ Leo 从打击区走下来，拿起水瓶灌了一口，水从嘴角漏出来他都没擦。
 
-Sam（对旁边队友压低声音）：他今天完全不在状态。从 PCU 回来就这样了。 Sam (whispering to teammate): He’s totally off today. Ever since he got turned away from PCU.
+Sam（对旁边队友压低声音）: He’s totally off today. Ever since he got turned away from PCU.
 
-队友（点头）：很没精神。 Teammate (nodding): Looks worn out.
+Teammate（点头）: Looks worn out.
 
 △ Leo 走到长凳旁蹲下来，把球棒横在膝盖上。
 
 Sam（走过去蹲在他旁边，压低声音）：Leo。
 
-Sam (walking over to squat beside him): Leo. Sam：你刚才那三球，高一的替补都打得比你好。怎么了？ Sam: Even a freshman reserve would’ve hit those last three pitches. What’s going on?
+Sam: Even a freshman reserve would’ve hit those last three pitches. What’s going on?
 
-Leo（指尖摩挲着球棒握柄，没抬头）：真没事，下午加练两组就找回来了。 Leo (running fingers over bat grip, not lifting head): I’m fine. Two extra practice rounds this afternoon and I’ll get my rhythm back.
+Leo（指尖摩挲着球棒握柄，没抬头）: I’m fine. Two extra practice rounds this afternoon and I’ll get my rhythm back.
 
 △ Sam 没再追问，拍了拍他的肩膀。
 
-Sam：行，你自己有数就行，别硬撑。 Sam: Alright. Just know your limits, don’t push yourself too hard.
+Sam: Alright. Just know your limits, don’t push yourself too hard.
 
 △ Leo 把球棒拿起来又放下。
 
 9-3 日 / 外 WWC 训练场围网外 △ 训练场围网外的树荫下，Hunter 双臂搭在铁丝网上看向场内，WWC 教练拿着记录板沿场边走过，停下脚步转向他。
 
-WWC 教练（意外）：Hayes？你怎么过来了？ WWC Coach (surprised): Hayes? What are you doing here?
+WWC Coach（意外）: Hayes? What are you doing here?
 
-Hunter：路过。他今天动作全散了，转腰晚了半步，手肘没夹紧，最后那颗红中球他根本没打算收棒。 Hunter: Just passing by. His mechanics are falling apart today. Hip rotation half a beat late, elbows loose. He didn’t even try to hold back on that last fastball down the middle.
+Hunter: Just passing by. His mechanics are falling apart today. Hip rotation half a beat late, elbows loose. He didn’t even try to hold back on that last fastball down the middle.
 
-WWC 教练（叹了口气）：我看出来了，心不在焉的，问了也不说。 WWC Coach (sighing): I noticed. His mind’s somewhere else, and he won’t talk about it.
+WWC Coach（叹了口气）: I noticed. His mind’s somewhere else, and he won’t talk about it.
 
-Hunter（语气平淡，语速不快）：他再这么瞎挥下去，不用打棒球了。 Hunter (calm slow tone): If he keeps swinging like this, he won’t have a baseball career left.
+Hunter（语气平淡，语速不快）: If he keeps swinging like this, he won’t have a baseball career left.
 
-WWC 教练（无奈）：我正想找个人盯着他调动作，队里助教今天都忙青训营的事…… 不过你是 PCU 的人，不方便吧？ WWC Coach (helpless): I was about to ask someone to fix his mechanics, but all our assistant coaches are busy with youth camp today…You’re PCU staff‑‑would that be appropriate?
+WWC Coach（无奈）: I was about to ask someone to fix his mechanics, but all our assistant coaches are busy with youth camp today…You’re PCU staff—would that be appropriate?
 
-Hunter 松开挖着铁丝网的手，转身往训练场入口走 Hunter（平静）：按跨校帮扶计划的安排，这周本来就有他的专项加练。我下午没队训，正好今天把动作掰回来。 Hunter (releasing the fence, turning toward facility entrance): Under the inter‑school trainee program, he’s scheduled for specialized training with me this week. I don’t have team practice this afternoon. I’ll fix his mechanics today.
+Hunter 松开搭在铁丝网上的手，转身往训练场入口走。
 
-WWC 教练（低头翻了翻手里的记录板）：行，我跟前台打个招呼，你直接进就行。 WWC Coach (flipping through clipboard): Alright, I’ll notify front desk. You can head right in.
+Hunter（平静）: Under the inter-school trainee program, he’s scheduled for specialized training with me this week. I don’t have team practice this afternoon. I’ll fix his mechanics today.
+
+WWC Coach（低头翻了翻手里的记录板）: Alright, I’ll notify front desk. You can head right in.
 
 △ Hunter 的背影拐进入口通道。 【第九集完】
 
 第 10 集 10-1 日 / 外 WWC 训练场休息区 △ 训练间隙，Leo 靠在长凳边擦汗，Caleb 挎着运动包从场地入口走来，Hunter 抱臂站在围栏边，视线扫过场内散落的棒球。 △ Caleb 走到 Leo 面前停下，掏出一张纸质邀约递过去，
 
-Caleb（语气轻快）：给你带了个好消息，全明星捕手训练营下周三开营，主办方多了个内野旁听名额，我直接给你留了。 Caleb (bright tone): Got great news for you. The All‑Star Catcher Camp starts next Wednesday. They had an extra observer spot for infielders, and I saved it for you.
+Caleb（语气轻快）: Got great news for you. The All-Star Catcher Camp starts next Wednesday. They had an extra observer spot for infielders, and I saved it for you.
 
-Leo（连忙接过来看，眼里亮了一下）：真的？我之前看报名通道早就关了。 Leo (hurriedly taking paper, eyes lighting up): Really? I thought registration closed ages ago.
+Leo（连忙接过来看，眼里亮了一下）: Really? I thought registration closed ages ago.
 
-Caleb（向 Leo wink）：帮你留意了。 Caleb (winking at Leo): I kept an eye out for you.
+Caleb（向 Leo wink）: I kept an eye out for you.
 
 △ 一旁的 Hunter 闻言走过来，从战术板夹里抽出一张邀请函，递到 Leo 面前 Hunter（语气平淡，带着点较劲）：MLB 区域球探的精英内野营，我帮你拿到破格名额，有专项防守指导和一对一选秀评估，下周三开营，封闭训练一周。 Hunter (calm, faint competitive edge): MLB Regional Scouting Elite Infield Camp. I got you an exception spot. Specialized defensive coaching plus one‑on‑one draft assessment. Starts next Wednesday, closed‑camp for one week.
 
 △ Leo 接过邀请函扫了一眼，眉头瞬间皱起来
 
-Leo：下周三？跟捕手营的开营时间完全撞上了？ Leo: Next Wednesday? That’s the exact same day as the catcher camp?
+Leo: Next Wednesday? That’s the exact same day as the catcher camp?
 
-Hunter（抬眼看向他，语气没半分波澜）：全程训练周期完全重合，精英营有规定不许中途请假退营，你只能二选一。 Hunter (looking at him, completely flat tone): Full schedules overlap completely. No excused absences or early exits. You have to pick one.
+Hunter（抬眼看向他，语气没半分波澜）: Full schedules overlap completely. No excused absences or early exits. You have to pick one.
 
-Caleb（打圆场，抬手拍了拍 Leo 的胳膊）：两边都是含金量很高的机会，你慢慢考虑，不用急着给我答复。 Caleb (mediating, patting Leo’s arm): Both are amazing pportunities. Take your time, no rush to give me an answer.
+Caleb（打圆场，抬手拍了拍 Leo 的胳膊）: Both are amazing opportunities. Take your time; no rush to give me an answer.
 
 △ Caleb 打了声招呼就转身离开. △ Leo 捏着两张邀请函，抬头看向 Hunter，
 
-Leo（语气带着试探）：你早就知道捕手营的档期，故意把精英营定在同一天，对不对？ Leo (probing tone): You already knew the catcher camp dates. You intentionally picked the same week for this elite camp, didn’t you?
+Leo（语气带着试探）: You already knew the catcher camp dates. You intentionally picked the same week for this elite camp, didn’t you?
 
 △ Hunter 没正面回应，抱臂靠在围栏上。
 
-Hunter：机会我递到你面前了，选哪个随你。 Hunter: I laid both opportunities out for you. The choice is yours.
+Hunter: I laid both opportunities out for you. The choice is yours.
 
 △ Leo 抿了抿嘴，把两张纸折好揣进运动裤口袋。
 
-Leo：选你。 Leo: I’ll pick yours.
+Leo: I’ll pick yours.
 
 10-2 日 / 外 WWC 训练场休息长凳 △ 训练收尾，Leo 跑去围网边捡散落的棒球，随手将手机放在长凳边缘。 △ Hunter 站在长凳旁收拾自己的战术板，眼角余光扫过亮起来的手机屏幕。 △ 锁屏弹出 Sam 的新消息
 
-Sam（vo）：“Leo，你现在天天往 PCU 跑，好久没见过你了，表白消息发错的事你跟 Hunter 坦白了没有？” Sam (VO): “Leo, you’re always over at PCU these days, I barely see you. Did you ever come clean to Hunter about that wrong confession text?”
+Sam（VO）: “Leo, you’re always over at PCU these days, I barely see you. Did you ever come clean to Hunter about that wrong confession text?”
 
 △  Hunter 盯着屏幕站了两秒。
 
-Hunter（Vo）：Leo 从头到尾在意的人从来都是 Caleb？ Hunter (VO): Has Caleb been the one Leo cared about this whole time?
+Hunter（VO）: Has Caleb been the one Leo cared about this whole time?
 
 △ Leo 攥着几颗棒球折返回来，伸手去拿长凳上的手机，指尖刚碰到屏幕，顶部就弹出一封匿名邮件提醒，他下意识点开
 
-Elowen（Vo） ：“离 Hunter Hayes 远点，不然你的棒球路就走到头了” Elowen (VO): “Stay away from Hunter Hayes, or your baseball career will be over.”
+Elowen（VO）: “Stay away from Hunter Hayes, or your baseball career will be over.”
 
 第十一集
 
@@ -1012,19 +1018,19 @@ Elowen（Vo） ：“离 Hunter Hayes 远点，不然你的棒球路就走到�
 
 △ Leo猛地按灭屏幕，指尖发抖，把手机攥着。
 
-Hunter（语气平淡）：以后一对一训练取消，你跟着集体合练。
+Hunter（语气平淡）: One-on-one training is canceled from now on. You’ll train with the group.
 
 △ Leo攥手机的手指顿住。
 
-Leo（声音发紧）：……什么？
+Leo（声音发紧）: …What?
 
-Hunter（已经移开视线）：帮扶计划的流程就是集体训练，明天跟着PCU全队一起练。
+Hunter（已经移开视线）: The trainee program requires group training. Starting tomorrow, you’ll train with the entire PCU team.
 
 △ Hunter径直从Leo身侧走过去，肩膀擦过Leo肩膀。
 
 △ Leo站在原地。
 
-Leo（极低，对着空走廊）：……你至少等我解释一下再走啊。
+Leo（极低，对着空走廊）: …You could at least wait for me to explain before walking away.
 
 11-2 日/内 PCU训练馆休息区
 
@@ -1032,7 +1038,7 @@ Leo（极低，对着空走廊）：……你至少等我解释一下再走啊�
 
 △ Elowen走到训练馆休息区，身后的人拎着两大袋咖啡跟着走进来，笑着把袋子放在桌上，看了一眼周围的PCU队员。
 
-Elowen（笑着）：给你们带的，训练辛苦了。
+Elowen（笑着）: I brought these for you. You’ve all worked hard in training.
 
 △ 队员们围过来拿咖啡。
 
@@ -1040,23 +1046,23 @@ Elowen（笑着）：给你们带的，训练辛苦了。
 
 △Elowen停在Leo面前，把其中一杯递过去，
 
-Elowen（语气柔和但尾音压着）：Leo，是吧？帮扶计划辛苦你配合了，别给Hunter添麻烦。
+Elowen（语气柔和但尾音压着）: Leo, right? Thank you for cooperating with the trainee program. Don’t cause Hunter any trouble.
 
 △ Leo抬头看她，接过那杯咖啡。
 
-Leo（语气平）：谢谢。
+Leo（语气平）: Thanks.
 
-Leo：不过你说错了，我有没有给他添麻烦，应该由他来告诉我。
+Leo: But you’re mistaken. Whether I’m causing him trouble is for him to decide.
 
 △ Elowen收回手，脸上的笑没变，偏头看了一眼角落的Hunter，又转回来。
 
-Elowen（压低声音，笑没到眼底）：嗯，帮扶计划嘛，按规矩走对大家都省事。
+Elowen（压低声音，笑没到眼底）: The trainee program has rules. Following them makes things easier for everyone.
 
 △ 她端着咖啡走回队员中间，笑着聊起训练安排。
 
 △Leo将咖啡放在一边，看向Hunter的方向，Hunter坐在角落长椅上刷着手机。
 
-Leo（低头os）：……有未婚妻在，难怪那条消息他当没看见。
+Leo（低头OS）: …No wonder he pretended not to see that message. He has a fiancée.
 
 11-3 夜/内 Leo的出租屋
 
@@ -1064,11 +1070,11 @@ Leo（低头os）：……有未婚妻在，难怪那条消息他当没看见。
 
 △ Leo坐在床上，手机屏幕亮着。
 
-Leo（闭眼）：……本来就该这样。
+Leo（闭眼）: …This is how it should be.
 
 △Leo猛的真开眼
 
-Leo：不行我必须说清楚。
+Leo: No. I have to explain everything clearly.
 
 【第十一集完】
 
@@ -1080,15 +1086,15 @@ Leo：不行我必须说清楚。
 
 △ 集体合练，Hunter站在战术板前面讲解防守站位，视线扫过全队，经过Leo时没有停顿。PCU队员围成半圈，Leo站在最外侧，手里攥着训练记录板。
 
-Hunter（语气平，像在念设备说明书）：三垒方向地滚球，游击手补位二垒。接球后转体传球，球速不够就提前半秒出手。
+Hunter（语气平，像在念设备说明书）: A grounder to third: the shortstop covers second. After catching it, turn and throw. If you don’t have enough arm speed, release half a second early.
 
 △ 分组对抗训练，一记地滚球滚向Leo，他横移接球，传一垒时力道偏了，球弹地才进手套。
 
-Hunter（声音平静）：你对训练不认真，就不要浪费帮扶名额了。
+Hunter（声音平静）: If you’re not serious about training, don’t waste the trainee slot.
 
 △ Leo重新站回原位，深吸一口气，把球投向一垒。这次球进了手套。
 
-Leo:Hunter....其实那天那个邮件.........
+Leo: Hunter… about that email the other day…
 
 △Hunter往下一个人走去。
 
@@ -1098,17 +1104,17 @@ Leo:Hunter....其实那天那个邮件.........
 
 △ 训练结束，Leo背着球包走出来。萨姆靠在门口的电线杆上等他，看到他出来直起身。
 
-萨姆（皱眉）：你脸色不对，训练出问题了？
+萨姆（皱眉）: You look awful. Did something go wrong in training?
 
-Leo（没停步）：嗯，不过没事。
+Leo（没停步）: Yeah, but it’s nothing.
 
-萨姆（跟上去，压低声音）：是因为那件事吗？
+萨姆（跟上去，压低声音）: Is it because of that incident?
 
-萨姆（停下来看着他的背影，没跟上去）：你嘴硬，你去找他说清楚吧，训练的时候没机会，现在还不行嘛。
+萨姆（停下来看着他的背影，没跟上去）: You’re pretending you’re fine. Go explain it to him. You didn’t have a chance during training, but you can still do it now.
 
 △ Leo往前走了一段，在公交站台前停下来，攥着球包背带低头站了一会儿，然后转身往回跑。
 
-Leo:Sam，你先回家吧，我去找Hunter!
+Leo: Sam, go home first. I’m going to find Hunter!
 
 12-3 日/内 PCU训练馆走廊拐角
 
@@ -1120,27 +1126,27 @@ Leo:Sam，你先回家吧，我去找Hunter!
 
 △校董手里拿着文件夹，笑着翻了一页。
 
-校董（笑着）：两家订婚宴的场地，你父母那边已经看好了。你们这边没什么意见吧？。
+校董（笑着）: Your parents have already chosen the venue for the engagement party. Do you two have any objections?
 
 △ Leo猛地停住脚步，身体贴住墙面。
 
 △Elowen笑着挽住校董的手臂
 
-Hunter（没有点头，也没有反驳，语气平得像在说天气）：这件事以后再说吧，现在太早了，我想专心备战MLB。
+Hunter（没有点头，也没有反驳，语气平得像在说天气）: We’ll discuss it later. It’s too soon, and I want to focus on preparing for the MLB draft.
 
 △Elowen的笑凝固在脸上。
 
-Elowen（不快）：你不会为了那小子才推迟订婚吧，Hunter？
+Elowen（不快）: You’re not postponing the engagement because of that boy, are you, Hunter?
 
-△Hunter（看向门外）：不是。
+△Hunter（看向门外）: No.
 
 △ 校董拍了拍Hunter的肩膀。
 
-校董：那行，等你取得好成绩。
+校董: Fine. Then we’ll wait until you achieve a good result.
 
 △ Leo靠在墙面上，低头看着自己攥紧的拳头，慢慢松开。
 
-Leo（OS）：……本来就该这样。人家有婚约，我的告白根本不会影响到他。
+Leo（OS）: …This is how it should be. He has an engagement. My confession was never going to affect him.
 
 △Hunter走出办公室。
 
@@ -1152,7 +1158,7 @@ Leo（OS）：……本来就该这样。人家有婚约，我的告白根本不
 
 △Hunter伸手想叫住Leo
 
-Hunter:Leo.....
+Hunter: Leo…
 
 【第十二集完】
 
@@ -1168,23 +1174,23 @@ Hunter:Leo.....
 
 △她越过所有人，走到刚下场的Leo面前站定，下巴微抬。
 
-Elowen（直白，声音不大但全场的注意力都在她身上）：Foster，我把话挑明。Hunter马上就要和我订婚了。帮扶计划结束就给我离他远点，别耍上不了台面的小心思。
+Elowen（直白，声音不大但全场的注意力都在她身上）: Foster, I’ll be blunt. Hunter and I are about to get engaged. When the trainee program ends, stay away from him. Don’t play any cheap little games.
 
 △ 训练场安静下来。
 
 △Leo用毛巾擦了一下额头上的汗，把毛巾甩在长凳上，抬眼对上Elowen。
 
-Leo（语气平）：我来是练球的，没兴趣掺和你的婚约，你不用这么盯着我。
+Leo（语气平）: I’m here to practice baseball. I have no interest in getting involved in your engagement, so stop watching me so closely.
 
 △ Elowen面色变了，嘴唇抿紧。
 
 △不远处，Hunter的视线从Leo脸上扫过，微微翘起嘴角。
 
-Hunter:炸毛小狗?
+Hunter: A feisty little puppy?
 
 △Hunter走回投手丘，捡起球，对打者抬了抬下巴。
 
-Hunter（语气平淡）：继续。
+Hunter（语气平淡）: Continue.
 
 △ 下一球，Hunter抬手投出，球速很快。
 
@@ -1196,7 +1202,7 @@ Hunter（语气平淡）：继续。
 
 △ Hunter从投手丘上冲下来，左手捞住Leo的腰侧，稳住Leo一触即松。
 
-Hunter（冷着脸，声音僵硬）：注意力集中。
+Hunter（冷着脸，声音僵硬）: Focus.
 
 △ Leo站稳后看他，Hunter已经转回投手丘，背对着他。
 
@@ -1206,15 +1212,15 @@ Hunter（冷着脸，声音僵硬）：注意力集中。
 
 △ 更衣室快空了，只剩Hunter坐在长凳上解护具。Caleb从淋浴间出来，擦着头发走到他旁边坐下。
 
-Caleb（笑着撞了一下他的肩膀）：你今天训练后半段球速加了至少五公里。整个人气压低得能把室内的灯都压暗。
+Caleb（笑着撞了一下他的肩膀）: You added at least five kilometers per hour to your pitches during the second half of training. Your mood is dark enough to dim the lights.
 
-Hunter（没抬眼）：没有。
+Hunter（没抬眼）: No, I didn’t.
 
-Caleb（偏头看他，笑）：嘴硬都能磨刀了，你盯着Leo看得比盯战术板还久。
+Caleb（偏头看他，笑）: Your denial could sharpen a knife. You watched Leo longer than you watched the strategy board.
 
-Hunter（解护具的手停了一下）：……他动作确实有问题。
+Hunter（解护具的手停了一下）: …His mechanics really are flawed.
 
-Caleb（站起身，拍了他肩一下）：行，你说没问题就没问题。走了。
+Caleb（站起身，拍了他肩一下）: Fine. If you say there’s no problem, then there’s no problem. I’m leaving.
 
 △ Caleb走出去。
 
@@ -1226,7 +1232,7 @@ Caleb（站起身，拍了他肩一下）：行，你说没问题就没问题。
 
 【闪回结束】
 
-Hunter（极低）：……他看Caleb的时候也是这种坚定的眼神？
+Hunter（极低）: …Does he look at Caleb with that same determined gaze?
 
 △ 他站起来，把护具扔进柜子，关上门，动作重。
 
@@ -1236,11 +1242,11 @@ Hunter（极低）：……他看Caleb的时候也是这种坚定的眼神？
 
 △ 停车场角落，Elowen坐在驾驶座上，车窗半开，手机举在耳边。。
 
-Elowen（对电话，声音压得很低）：找几个人堵他夜训。明天或者后天都行，废了他的左肩。
+Elowen（对电话，声音压得很低）: Find a few people to corner him after night practice. Tomorrow or the day after is fine. Ruin his left shoulder.
 
 △ 电话那头回应了一声，她咬了咬下唇。
 
-Elowen（眯眼）：我倒要看看，打不了球的草根，还怎么跟我抢。
+Elowen（眯眼）: Let’s see how a nobody who can’t play baseball is going to compete with me.
 
 △ 她挂了电话，车窗升上去，引擎启动，尾灯在夜色里亮了两秒后拐出停车场。
 
@@ -1256,11 +1262,11 @@ Elowen（眯眼）：我倒要看看，打不了球的草根，还怎么跟我�
 
 △拐角三个人从停放的货车后面闪出来，戴帽子和口罩，手里握着短钢管，直奔Leo而来。
 
-混混头目（声音压低，钢管在手里掂了一下）：你就是WWC那个13号？有人花钱让我们照顾一下你左肩。
+混混头目（声音压低，钢管在手里掂了一下）: You’re number 13 from WWC, right? Someone paid us to take care of your left shoulder.
 
 △一个人的钢管砸向他左肩，Leo侧身躲开，钢管砸在墙上弹开。
 
-Leo（盯住他们）：是谁。
+Leo（盯住他们）: Who?
 
 △第二个人从侧面抡过来，Leo用手臂硬挡了一下，小臂外侧立刻肿起一道。
 
@@ -1268,7 +1274,7 @@ Leo（盯住他们）：是谁。
 
 △Leo来不及躲，闭上眼。
 
-Leo（大喊）：不要！
+Leo（大喊）: No!
 
 △Hunter从侧面撞过来，把Leo整个人推到墙边，后背撞上墙面。
 
@@ -1282,15 +1288,15 @@ Leo（大喊）：不要！
 
 △Hunter喘着气转身，双手攥住Leo的左肩，掌心贴住肩头往下按了一下。
 
-Hunter（声音又急又凶）：动没动到骨头？抬胳膊！
+Hunter（声音又急又凶）: Did they hit the bone? Raise your arm!
 
 △ Leo抬起左臂，动作慢但能抬。Hunter的指腹贴在他肩颈处。
 
 △Leo站着没动，低头看着Hunter按在自己肩膀上的手指。
 
-Leo:谢谢，你没事吧。
+Leo: Thanks. Are you all right?
 
-Hunter：没事，现在先回去，明天我带你去看看
+Hunter: I’m fine. Let’s get you home first. I’ll take you to get checked out tomorrow.
 
 14-3 夜/内 Hunter的车内
 
@@ -1300,15 +1306,15 @@ Hunter：没事，现在先回去，明天我带你去看看
 
 △Hunter右手虚扶着Leo的左肩外侧，遇到颠簸时掌心会贴实一秒再松开。
 
-Leo（偏头看他，声音有点哑）：……你手没事吧。
+Leo（偏头看他，声音有点哑）: …Is your hand all right?
 
-Hunter（没转头，视线看着前方挡风玻璃）：我手没事，擦伤了一下，你肩膀还疼吗？
+Hunter（没转头，视线看着前方挡风玻璃）: My hand is fine, just scraped. Does your shoulder still hurt?
 
 △ Leo推开车门，脚踏上地面，左脚踩稳后站起来，低头重新探进半个身子。
 
-Leo: 我感觉应该没什么事情了，你跟我一起上去擦点药吧！
+Leo: I think I’m fine. Come upstairs with me and put some ointment on your hand.
 
-Hunter：好。
+Hunter: All right.
 
 △Hunter下车，两个人一起走进漆黑的楼道。
 
@@ -1318,27 +1324,27 @@ Hunter：好。
 
 △ 客厅里Leo走到厨房台面前拉开抽屉，拿出一管药膏和一卷纱布，转身递给Hunter。
 
-Leo（语气简短，带一点不自在）：……你先擦一下你的手。
+Leo（语气简短，带一点不自在）: …Treat your hand first.
 
 △Hunter接过药膏。
 
-Hunter（严肃）：你坐下，我先看你的肩。
+Hunter（严肃）: Sit down. Let me look at your shoulder first.
 
 △Leo在厨房的塑料凳上坐下来，拉高左边T恤的袖口露出肩颈
 
-Leo（好奇）：你当时怎么折回来的？
+Leo（好奇）: Why did you come back?
 
 Hunter拧开药膏盖子，挤了一点在指尖上，抬眼看他
 
-Hunter（严肃）：回来拿东西。
+Hunter（严肃）: I came back for something.
 
 △ 他把药膏涂在Leo左肩外侧的淤青上，又挤了一点涂在自己手的红肿处。
 
-Hunter：这件事你别担心，我会去查，你下次加练，换靠主路的那个打击笼，别走侧门。
+Hunter: Don’t worry about this. I’ll investigate. Next time you stay late, use the cage by the main road. Don’t take the side exit.
 
 △Hunter拿起外套走向门口，转头看向Leo
 
-Hunter：我先回去了，明天带你去康复室看看。
+Hunter: I’m heading home. I’ll take you to the rehabilitation room tomorrow.
 
 14-4 夜/内 Hunter的房间
 
@@ -1346,13 +1352,13 @@ Hunter：我先回去了，明天带你去康复室看看。
 
 △ Hunter推门进房间，把外套扔在椅背上，坐下掏出手机拨了一个号码。
 
-Hunter（压低声音）：今天WWC训练馆停车场的事，帮我查一下动手的人是谁雇的。
+Hunter（压低声音）: Find out who hired the people involved in what happened at the WWC training facility parking lot today.
 
 △ 他挂断电话，把手机放在桌上，指尖敲着桌面。
 
 △一条消息弹进来
 
-Hunter：Elowen？
+Hunter: Elowen?
 
 △ Hunter的指尖停在桌面。灰蓝色眼眸看着手机。
 
@@ -1360,7 +1366,7 @@ Hunter：Elowen？
 
 △他靠向椅背，视线落在对面墙面上，指尖在桌沿轻轻敲了两下，然后拿起手机拨出一个号码。
 
-Hunter：Elowen，以后不要再来训练馆了，你那些伤人的手段，Hayes家看不上。
+Hunter: Elowen, don’t come to the training facility again. The Hayes family has no use for tactics that hurt people.
 
 【第十四集完】
 
@@ -1374,17 +1380,17 @@ Hunter：Elowen，以后不要再来训练馆了，你那些伤人的手段，Ha
 
 △ Hunter靠在墙边，双臂抱胸，视线跟着理疗师的手指走全程没落座。
 
-理疗师（收拾器械）：软组织挫伤，骨头和韧带都没事。冰敷三天，别做重训，一周内能恢复。
+理疗师（收拾器械）: It’s a soft-tissue injury. The bone and ligaments are fine. Ice it for three days, avoid heavy training, and you should recover within a week.
 
 △ 理疗师推门出去，门在身后合上。
 
 △ Leo撑着治疗台坐起来，活动了一下左肩。
 
-Leo（抬头看向Hunter，直球）：你到底为什么对我忽冷忽热？取消一对一训练的是你，现在救我、带我做康复的也是你。
+Leo（抬头看向Hunter，直球）: Why do you keep giving me the cold shoulder? You canceled our one-on-one training, but you were also the one who rescued me and brought me here for rehabilitation.
 
 △ Hunter靠在桌边，没有立刻回答,转开头开，看向窗外的围网。
 
-Hunter（语气硬，像在念一份不情愿的声明）：你是本届南区最有潜力的游击手。我不想你毁在这种上不了台面的破事里，浪费帮扶计划的资源。
+Hunter（语气硬，像在念一份不情愿的声明）: You’re the most promising shortstop in the southern division this year. I don’t want you ruined by something this disgraceful, or the trainee program’s resources wasted.
 
 △ Hunter手伸过去，指尖捏住Leo左肩护具的下缘往上拉了半寸，调整到正确位置。
 
@@ -1392,7 +1398,7 @@ Hunter（语气硬，像在念一份不情愿的声明）：你是本届南区�
 
 △ Hunter喉结滚动
 
-Hunter:好好养伤。
+Hunter: Focus on recovering.
 
 15-2 日/内 PCU专属康复室门口
 
@@ -1402,17 +1408,17 @@ Hunter:好好养伤。
 
 △ Leo坐在治疗台上抬头看向门口的方向，Hunter的手还停在Leo的护具上没收回去，两个人之间隔了不到一个前臂的距离。
 
-Caleb（吹了一声口哨，笑着往后退）：我什么都没看见，你们继续。
+Caleb（吹了一声口哨，笑着往后退）: I saw nothing. Carry on.
 
 △ 他把饮料袋放在门口的柜子上，转身出去，还顺手把门带上了。
 
 △ Leo低头看着自己护具上Hunter还没收回去的手指。
 
-Leo（声音很轻）：Caleb？
+Leo（声音很轻）: Caleb?
 
 △ Hunter收回手，直起身，往后退了一步，拉开距离。
 
-Hunter（声音比刚才低）：冰敷完自己回去。
+Hunter（声音比刚才低）: Go home after you finish icing it.
 
 △ 他转身往门口走，经过柜子时拿走了一瓶饮料放推门出去。
 
@@ -1428,33 +1434,33 @@ Hunter（声音比刚才低）：冰敷完自己回去。
 
 △ 门从里面打开，Hunter穿着训练T恤，手里拿着战术板，看到Leo时手上的动作顿了一下。
 
-Leo（开门见山，语气直）：我伤好了。过来把那天没说完的话说完。当初那张照片，是发给Caleb的，手滑选错了人，我一直没敢说。
+Leo（开门见山，语气直）: I’m healed. I came to finish what I couldn’t say that day. That photo was meant for Caleb. I picked the wrong contact by accident, and I was too afraid to tell you.
 
 △ Hunter拿着战术板的手垂下来，灰蓝色眼眸在Leo脸上停了两秒。
 
-Leo（往前迈了半步，抬眼直直撞进Hunter的视线）：所以你之前冷着我，是因为这个嘛？因为我之前喜欢Caleb？
+Leo（往前迈了半步，抬眼直直撞进Hunter的视线）: So that’s why you were cold to me? Because you thought I liked Caleb?
 
 △ Hunter没有立刻回答，他偏开头，咳了一声，再转回来时脸脸色温和。
 
-Hunter（语气放轻了一点）：……就你那糊得看不清脸的挥棒照，谁看得出来是表白，我当初以为是挑衅。
+Hunter（语气放轻了一点）: …With a batting photo so blurry that no one could even see your face, how was I supposed to know it was a confession? I thought it was a provocation.
 
 △ Leo眼睛瞪大，炸了。
 
-Leo（拔高声音）：挑衅？我那张照片明明笑得特别认真！你眼神有问题吧？
+Leo（拔高声音）: A provocation? I was smiling so sincerely in that photo! Is there something wrong with your eyesight?
 
-Hunter（皱眉，扬起嘴角 笑着）：认真？糊得连脸都看不清，你说那是表白还不如说是战术挑衅。
+Hunter（皱眉，扬起嘴角，笑着）: Sincerely? Your face was so blurry that it could have been a tactical provocation for all I knew.
 
-Leo（往前又迈了半步，鼻尖快要撞上Hunter下巴）：那你现在知道了。我发给Caleb只是……就是觉得他阻杀很帅，想让他教我，想夸一句，不是那种喜欢。你听懂了吗？
+Leo（往前又迈了半步，鼻尖快要撞上Hunter下巴）: Now you know. I sent it to Caleb because… I thought his throw-out was impressive and wanted him to teach me. I just wanted to compliment him. I didn’t like him that way. Do you understand?
 
-Hunter（笑）：……听懂了。你手滑选错人，我误会了。
+Hunter（笑）: …I understand. You picked the wrong contact, and I misunderstood.
 
 △ Leo愣了一下，然后笑了出来，笑得肩膀抖了一下。Hunter看着他笑，嘴角也松了。
 
-Leo（顺势靠住门框）：那你的婚约呢？你的未婚妻怎么老来找我事？
+Leo（顺势靠住门框）: What about your engagement? Why does your fiancée keep coming after me?
 
 △ Hunter把手里的战术板放回桌上
 
-Hunter(语气平淡，但尾音轻了半度）：家族安排的，我从来没同意过，我已经让她别来训练场了，你以后好好训练吧。
+Hunter（语气平淡，但尾音轻了半度）: It was arranged by my family. I never agreed to it. I’ve already told her to stay away from the training facility. Just focus on your training from now on.
 
 16-2 日/内 PCU训练馆休息室门外
 
@@ -1464,7 +1470,7 @@ Hunter(语气平淡，但尾音轻了半度）：家族安排的，我从来没�
 
 △ Elowen站在门外，背靠走廊墙面。她的嘴唇抿成一条线，视线落在走廊尽头的地砖上
 
-△ Elowen（极低，几乎只有嘴唇在动）：……从来没同意过。
+△ Elowen（极低，几乎只有嘴唇在动）: …He never agreed to it.
 
 △ 她松开攥紧的包带，转身往走廊另一端走去。
 
@@ -1480,17 +1486,17 @@ Hunter(语气平淡，但尾音轻了半度）：家族安排的，我从来没�
 
 △ Hunter靠在走廊中段的窗边，手里拿着手机，在她走近时站直了身体，拦住她的去路。△ Elowen停下脚步，压下嘴角，然后又笑起来。
 
-Elowen（笑着，语气轻）：怎么，训练时间不去带队，在这等我？
+Elowen（笑着，语气轻）: What? Aren’t you supposed to be leading practice? Are you waiting for me here?
 
 △ Hunter手机屏幕朝外，亮着一张银行转账记录的截图，声音不高但压得很实
 
-Hunter（不快）：停车场那三个人的钱是你私人助理走的账。你动他之前，应该先查一下我会不会查到你头上。
+Hunter（不快）: The money paid to those three people in the parking lot came through your personal assistant. Before you went after him, you should have checked whether I could trace it back to you.
 
 △ Elowen脸上的笑彻底没了。她看着屏幕上的截图，嘴唇动了一下，没有出声。
 
 △ Hunter把手机收进口袋，往前走了半步，平视她。
 
-Hunter（声音冷，：Elowen，你再碰他一次，校董孙女的身份也保不住你。选秀评估、赛区纪律，你想动哪一样，我都能加倍还给你。
+Hunter（声音冷）: Elowen, touch him again and even being the trustee’s granddaughter won’t protect you. Draft evaluations, league discipline—whichever one you try to manipulate, I’ll return it to you twice over.
 
 △ Elowen站在原地，攥着手包带子。
 
@@ -1504,15 +1510,15 @@ Hunter（声音冷，：Elowen，你再碰他一次，校董孙女的身份也�
 
 △ Leo偏头看了他一眼，推开Hunter。
 
-Leo（压低声音）：你靠得太近了
+Leo（压低声音）: You’re standing too close.
 
-Hunter（退后）：你们队游记手转队了，你现在是WWC首发队员，也是我的帮扶对象，我手把手教你也很正常。
+Hunter（退后）: Your team’s shortstop transferred, so you’re now WWC’s starting shortstop and my trainee. It’s perfectly normal for me to teach you hands-on.
 
-Leo（偏头，不自在）:你不怕别人传出点什么？
+Leo（偏头，不自在）: Aren’t you afraid people will start rumors?
 
 △ Hunter扬起嘴角，俯身把下巴凑近Leo左耳上方的位置。
 
-Hunter（声音压得很低，语调很慢）：传什么？传PCU王牌投手亲手带WWC的游击手？赛区球探巴不得多炒点话题。
+Hunter（声音压得很低，语调很慢）: What kind of rumors? That PCU’s ace pitcher is personally training WWC’s shortstop? The league scouts would love the extra publicity.
 
 △ 他退后半步，恢复了正常的指导距离，但嘴角还是带着那点笑容。
 
@@ -1536,7 +1542,7 @@ Hunter（声音压得很低，语调很慢）：传什么？传PCU王牌投手�
 
 △ Caleb站起来把球丢回给Hunter。
 
-Caleb（笑，喊）：今天他完全跟不上你。
+Caleb（笑，喊）: He can’t keep up with you at all today.
 
 △ Hunter没有接话，接过球后在指尖转了一圈，站回投手丘。
 
@@ -1548,11 +1554,11 @@ Caleb（笑，喊）：今天他完全跟不上你。
 
 △Leo跑垒经过投手丘时，Hunter站在投手丘上看着他，低声笑了一下。
 
-Hunter（声音低，只有两人能听到）：学得还挺快。
+Hunter（声音低，只有两人能听到）: You learn pretty fast.
 
-Leo（踩在二垒垒包上回头看他，拍掉膝盖上的红土）：你故意的。
+Leo（踩在二垒垒包上回头看他，拍掉膝盖上的红土）: You did that on purpose.
 
-Hunter（嘴角的弧度没压住，转身走向休息区）：你说呢。
+Hunter（嘴角的弧度没压住，转身走向休息区）: What do you think?
 
 18-2 夜/内 PCU训练馆室内打击笼
 
@@ -1562,17 +1568,17 @@ Hunter（嘴角的弧度没压住，转身走向休息区）：你说呢。
 
 △Leo站在打击区，Hunter站在他身后，从背后环过来握住他的左右手腕，调整握棒的角度。Hunter的胸膛贴着Leo后背，Leo的耳尖以肉眼可见的速度变红。
 
-Leo（偏头躲了一下，声音发紧）：……你能不能别离这么近。
+Leo（偏头躲了一下，声音发紧）: …Could you stop standing so close?
 
-Hunter（没有退，反而凑近了一寸，带笑）：纠正动作就得近，还是你在想别的？
+Hunter（没有退，反而凑近了一寸，带笑）: I have to be close to correct your form. Or are you thinking about something else?
 
 △ Leo握着球棒的手指攥紧了。他偏过头正面对上Hunter的脸，两个人的鼻尖之间不到一个手掌的宽度。
 
-Leo（声音低，像从喉咙里挤出来的）：……我什么都没想。
+Leo（声音低，像从喉咙里挤出来的）: …I wasn’t thinking about anything.
 
 Hunter松开他的手腕，往后退了半步，拉开距离。
 
-Hunter（笑）：嗯，来再打一组。
+Hunter（笑）: Mm. Let’s do another set.
 
 18-3 夜/内 Leo的出租屋
 
@@ -1582,11 +1588,11 @@ Hunter（笑）：嗯，来再打一组。
 
 △Sam的对话框里弹出一张截图
 
-Sam：你们两个在谈恋爱吗？
+Sam: Are you two dating?
 
 △截图上显示的是一张Hunter和Leo两人训练时的照片，Hunter从背后扶着Leo的双手，调整着Leo的动作。
 
-△网友vo：“有人磕WWC黑马游击手和PCU王牌投手的CP吗？训练互动也太近了。”
+△网友VO: “Anyone else shipping WWC’s dark-horse shortstop and PCU’s ace pitcher? Their training interactions are way too close.”
 
 △Leo把手机翻过去扣在床单上，过了两秒又翻回来，盯着那行标题看了很久，没有回复Sam的消息。
 
@@ -1602,19 +1608,19 @@ Sam：你们两个在谈恋爱吗？
 
 △ Leo抬头看向Hunter的方向，Hunter正坐在转椅上翻手机，听到这句话时抬了头，和Leo的视线对上。
 
-Hunter（语气平，但尾音比平时轻）：怎么？怕拖我后腿？
+Hunter（语气平，但尾音比平时轻）: What? Afraid you’ll hold me back?
 
-Leo（站起来走到白板前看名单）：怕你拖我的。
+Leo（站起来走到白板前看名单）: I’m afraid you’ll hold me back.
 
 △ Caleb吹了声口哨，在两人之间看了两个来回，笑着退到门口。
 
-Caleb：你们俩慢慢商量战术，我先走了。
+Caleb: Take your time discussing strategy. I’ll leave you two to it.
 
 △ 门关上后，Hunter站起来走到Leo旁边，两个人一起看着白板上的分组名单。
 
-Hunter：我们明天下午开始合练。
+Hunter: We’ll start joint practice tomorrow afternoon.
 
-Leo（偏头看他）：好。
+Leo（偏头看他）: Sounds good.
 
 19-2 日/外 WWC训练场边
 
@@ -1622,13 +1628,13 @@ Leo（偏头看他）：好。
 
 △ 两人并肩坐在训练场边的长凳上，Leo拧开水瓶喝了一口，Hunter坐在旁边。
 
-Hunter（没有抬头，语气随意）：谁排名高谁提条件，怎么样。
+Hunter（没有抬头，语气随意）: Whoever ranks higher gets to name a condition. How about it?
 
-Leo（放下水瓶）好啊。
+Leo（放下水瓶）: Sure.
 
-Hunter（笑了一下，把手机收进口袋，偏头看向Leo）：行，不管什么条件，你都不准反悔。
+Hunter（笑了一下，把手机收进口袋，偏头看向Leo）: Fine. Whatever the condition is, you can’t take it back.
 
-Leo（挑眉，手里的水瓶攥紧了半寸）：可以，你也不准。
+Leo（挑眉，手里的水瓶攥紧了半寸）: Deal. You can’t take it back either.
 
 △ Leo看着Hunter伸出拳头，两人击拳。
 
@@ -1640,7 +1646,7 @@ Leo（挑眉，手里的水瓶攥紧了半寸）：可以，你也不准。
 
 △他站起来绕过桌子走到Hunter身边的位置坐下，手撑在桌面边缘。
 
-Leo（压低声音，只有两人能听到）：你最近是不是对我太好了？为什么？
+Leo（压低声音，只有两人能听到）: Have you been unusually nice to me lately? Why?
 
 △ Hunter擦嘴的动作顿住了，他放下餐巾，偏头看向Leo——
 
@@ -1648,7 +1654,7 @@ Leo（压低声音，只有两人能听到）：你最近是不是对我太好�
 
 △Hunter伸手，拇指指腹擦过Leo嘴角沾的一点酒渍，指腹在Leo下唇外侧停了半秒。
 
-Hunter（声音很轻，像说给Leo一个人听的）：……你觉得是为什么呢？
+Hunter（声音很轻，像说给Leo一个人听的）: …Why do you think?
 
 △Leo呆滞一瞬，快步坐回原位。
 
@@ -1660,9 +1666,9 @@ Hunter（声音很轻，像说给Leo一个人听的）：……你觉得是为�
 
 △ 餐厅的落地窗外，Elowen站在街对面的路灯下，手机举在耳边。她看着窗内的画面。
 
-Elowen（对电话，声音低冷）：对，是我。南区全明星赛之前，帮我把Hunter的选秀评估渠道压一下。
+Elowen（对电话，声音低冷）: Yes, it’s me. Before the Southern Division All-Star Game, suppress Hunter’s draft evaluation channels for me.
 
-Elowen：跟MLB区域球探经纪人打个招呼，他最近带的人口碑不太好，会影响球队评估。
+Elowen: Talk to the MLB regional scouting agent. Say that the player he’s been handling has a poor reputation lately. It could affect the teams’ evaluations.
 
 △Elowen挂断电话，隔着落地窗又看了餐厅里一眼，Hunter正好侧过头来，视线扫过窗外——但隔着反光的玻璃，他没有看到她。
 
@@ -1688,15 +1694,15 @@ Elowen：跟MLB区域球探经纪人打个招呼，他最近带的人口碑不�
 
 △△ Caleb从休息区跑出来，一把搂住Leo的肩膀，又拍了一下Hunter的后背。
 
-Caleb（笑着喊）：你俩配合是什么时候练的？一个眼神都不用给。
+Caleb（笑着喊）: When did you two practice this combination? You don’t even need to signal each other.
 
-Leo（喘着气，低头看自己的手，虎口发红）：……我们什么时候练过？
+Leo（喘着气，低头看自己的手，虎口发红）: …When did we ever practice it?
 
-Hunter（站在两步外，微笑）：天生默契
+Hunter（站在两步外，微笑）: Natural chemistry.
 
 △Caleb走开，边走边背对着两人举起双手
 
-Caleb（调侃）：“行，天生默契，我走，你们继续。”
+Caleb（调侃）: “Fine, natural chemistry. I’ll leave you two to it.”
 
 20-2 日/内 全明星赛场馆颁奖区
 
@@ -1706,25 +1712,25 @@ Caleb（调侃）：“行，天生默契，我走，你们继续。”
 
 △主持人站在台侧，手里拿着话筒，南区赛事官员站在主持人旁边，两位礼仪人员端着托盘站在另一侧，托盘里放着两块奖牌和一张冠军证书。
 
-主持人（笑着，面向观众）：女士们先生们，让我们恭喜来自PCU和WWC的组合——Hunter Hayes和Leo Foster——拿下本届内野防守技巧挑战赛第一名！
+主持人（笑着，面向观众）: Ladies and gentlemen, let’s congratulate the PCU and WWC duo—Hunter Hayes and Leo Foster—for taking first place in this year’s infield defensive skills challenge!
 
 △ 观众席再次响起掌声。Hunter和Leo并肩走到台中央，灯光从正上方打下来。主持人示意两人面向观众。
 
-主持人：请南区赛事委员会副主席为冠军颁发奖牌。
+主持人: Let’s invite the Southern Division Events Committee vice chair to present the medals.
 
 △ 南区赛事官员走上前，从礼仪人员托盘中依次拿起两块奖牌，第一块挂在Hunter脖子上，和他握了握手，向着Leo走去。
 
 △第二块挂在Leo脖子上，也和他握了握手。冠军证书递给两人共同捧住，两人配合着接过。
 
-主持人（转向两人，话筒递过去）：第一次搭档就拿下第一，什么感觉？
+主持人（转向两人，话筒递过去）: You took first place on your very first time as teammates. How does it feel?
 
-Hunter（偏头看了一眼Leo）：我们很默契，主持人：那么请问作为天才投手，这一届最看好的球员是谁!
+Hunter（偏头看了一眼Leo）: We work very well together. 主持人: As a star pitcher, which player do you have the highest hopes for this season?
 
-Hunter（微笑）：WWC 的游击手 Leo Foster是我欣赏的年轻球员，他的韧性和天赋比很多豪门首发都要更强。
+Hunter（微笑）: WWC shortstop Leo Foster is the young player I admire most. His resilience and talent are stronger than those of many starters on elite teams.
 
 △ 主持人笑着把话筒转向Leo，Leo的视线从胸前奖牌上抬起来，停顿了一秒。
 
-Leo（带着笑，摸了摸头）：Hunter太强了，不愧是天才投手。
+Leo（带着笑，摸了摸头）: Hunter is incredible. He really is a star pitcher.
 
 △ 观众席传来笑声和口哨声。主持人说了几句收尾词后转身面向观众，Hunter侧过头，在赛事官员递过证书的间隙，看向Leo，两人对视。
 
@@ -1734,7 +1740,7 @@ Leo（带着笑，摸了摸头）：Hunter太强了，不愧是天才投手。
 
 △ 颁奖结束，Leo追上Hunter，在通道拐角处抓住他的手腕。
 
-Leo（声音带喘）：你目前名次比我高，有什么条件现在可以说了？
+Leo（声音带喘）: You’re ranked higher than me right now. Can you tell me what your condition is now?
 
 △ Hunter停下来，转过身。
 
@@ -1742,15 +1748,15 @@ Leo（声音带喘）：你目前名次比我高，有什么条件现在可以�
 
 △Hunter抬手按住Leo的肩膀，嘴角带着弧度。
 
-Hunter（笑着）：你愿意做我男朋友吗？
+Hunter（笑着）: Will you be my boyfriend?
 
 △ 通道尽头传来工作人员的喊声和搬动器材的噪音。
 
-Leo：你说什么？
+Leo: What did you say?
 
 △Hunter拍了拍Leo的肩，离开。
 
-Hunter：下次说。
+Hunter: Next time.
 
 【第二十集完】
 
@@ -1764,11 +1770,11 @@ Hunter：下次说。
 
 △ Leo身体猛地一僵，挥出去的球棒砸在发球机侧面的橡胶垫上。
 
-Leo（回头瞪他，声音拔高，耳尖发红）：你摸哪呢？
+Leo（回头瞪他，声音拔高，耳尖发红）: Where are you touching?
 
 △ Hunter手指已经收回去，插进训练裤口袋里，他挑眉笑了一下。
 
-Hunter（语气慵懒）：发力点在腰，不是让你用肩膀硬扛。你自己转错了位置，我帮你纠正而已。
+Hunter（语气慵懒）: The power comes from your waist, not your shoulders. You turned incorrectly, so I was just correcting you.
 
 △ Leo转回去，重新摆好架势，深吸一口气。
 
@@ -1780,23 +1786,23 @@ Hunter（语气慵懒）：发力点在腰，不是让你用肩膀硬扛。你�
 
 △ 训练结束，Leo背着球包走出门口。Sam坐在台阶上转手机，看到他出来站起来。
 
-Sam（上下打量他）：私人训练馆怎么样？
+Sam（上下打量他）: How was the private training facility?
 
-Leo（在台阶上坐下来，球包放在脚边）：挺好的。
+Leo（在台阶上坐下来，球包放在脚边）: It was great.
 
-Sam（在他旁边坐下）：那你脸红什么，私人训练馆都没有制冷设备吗？
+Sam（在他旁边坐下）: Then why are you blushing? Does the private facility not have air conditioning?
 
 Sam安静了两秒，偏头看他。
 
-Sam：Leo：你不对劲，你是不是喜欢Hunter。
+Sam: Leo, you’re acting strange. Do you like Hunter?
 
 Leo把拉链扣回原处，看着前方的围网，声音平。
 
-Leo：嗯。
+Leo: Yeah.
 
 Sam看着他，没有立刻接话。
 
-Sam（终于开口）：好样的兄弟，我相信你，他看样子也对你很感兴趣。
+Sam（终于开口）: Good for you, brother. I believe in you. He seems interested in you too.
 
 Leo站起来，把球包甩上肩膀，低头看了Sam一眼，步伐稳当。
 
@@ -1810,15 +1816,15 @@ Leo站起来，把球包甩上肩膀，低头看了Sam一眼，步伐稳当。
 
 △ Caleb 站在储物柜前整理物品。
 
-Jake（语气不满，声音抬高半分）：明天校董会查帮扶计划，那个 WWC 预备役占着战术室和康复室，连球探时间都被挤掉一半，真把PUC当自己家了？
+Jake（语气不满，声音抬高半分）: The board is reviewing the trainee program tomorrow. That WWC reserve is taking up the strategy room and rehabilitation room, and even half our scouting time is being pushed aside. Does he really think PCU is his home?
 
 △ Caleb 合上储物柜柜门，拿着 iPad 走到 Jake 面前，将屏幕朝向对方。
 
-Caleb（语气平淡）：这是他过去三场比赛的内野助杀数据，已经追平队里首发。
+Caleb（语气平淡）: These are his infield assist numbers from the last three games. He’s already matched our starter.
 
-Jake：临时数据不算数，校董会看规矩。
+Jake: Temporary numbers don’t count. The board cares about rules.
 
-Caleb：他昨天加练到十点，你六点就离队了，不服就场上见，别在更衣室说人背后话。
+Caleb: He trained until ten last night, while you left at six. If you’re not convinced, settle it on the field. Don’t talk behind his back in the locker room.
 
 △ Caleb，随后推门离开。
 
@@ -1830,7 +1836,7 @@ Caleb：他昨天加练到十点，你六点就离队了，不服就场上见，
 
 △ Hunter坐在床沿，手机屏幕亮着，一条新消息弹出来。发件人显示“母亲”。
 
-母亲（短信正文，语气轻佻）vo：明天校董会，儿子别让我失望。我倒要看看是什么样的小角色，能把你迷成这样。
+母亲（短信正文，语气轻佻）VO: Tomorrow’s board meeting, son. Don’t disappoint me. I want to see what kind of minor character could have you this captivated.
 
 △ Hunter把手机放在床头柜上。他靠向床头，视线落在对面空白的墙面上。
 
@@ -1846,19 +1852,19 @@ Caleb：他昨天加练到十点，你六点就离队了，不服就场上见，
 
 △她笑着翻了一下面前的文件，指尖点了点桌面。
 
-Hayes夫人（笑着，语气轻慢）：帮扶计划资源倾斜得太明显了。一个WWC的预备役，占用PCU战术室、康复室、球探时间——这不太合规矩吧？
+Hayes夫人（笑着，语气轻慢）: The trainee program is clearly favoring one side. A WWC reserve is using PCU’s strategy room, rehabilitation room, and scouting time—isn’t that against the rules?
 
 △ 桌边几个校董交换了一下眼神。Hunter坐在长桌对面，面前摊着一沓打印纸，他把纸往桌面上一推。
 
-Hunter（语气平淡）：Leo Foster过去两个月的训练数据、比赛高光、球探初评，全在文件里。帮扶计划条款审批流程全部合规。
+Hunter（语气平淡）: Leo Foster’s training data, game highlights, and preliminary scouting reports from the past two months are all in these files. Every approval procedure under the trainee program was compliant.
 
 △ Hayes夫人脸上的笑没变，但指尖在桌面上停了一下。
 
-Hayes夫人（抬起下巴，尾音拖长）：是吗？几页训练数据而已，能说明什么？
+Hayes夫人（抬起下巴，尾音拖长）: Is that so? What can a few pages of training data really prove?
 
 △ Hunter把文件收回自己面前。
 
-Hunter：他的水平球探会给出评估的。
+Hunter: The scouts will evaluate his ability.
 
 22-2 日/内 PCU训练馆室内打击区
 
@@ -1866,19 +1872,19 @@ Hunter：他的水平球探会给出评估的。
 
 △ 球探站在围网外，手里拿着记录板。
 
-Hunter（站在球探旁边，下巴朝Leo的方向点了一下）：看他速度，南区同年龄层找不到第二个比他反应更快的游击手。
+Hunter（站在球探旁边，下巴朝Leo的方向点了一下）: Watch his speed. You won’t find another shortstop in his age group in the southern division with faster reactions.
 
 △ Leo站在打击区做防守站位演示，发球机连续击出三个不同方向的地滚球——左、中、右。Leo全部接稳并完成传球。
 
 △ 球探偏头看了Hunter一眼，继续在记录板上写字。
 
-球探：Hunter你没看走眼，他确实是个好苗子。
+球探: Hunter, you weren’t wrong about him. He really is a promising player.
 
 △ Leo从打击区走出来，摘下打击手套，额头上全是汗。
 
-球探（收起记录板）：数据我会带回办公室评估。下个月出初评结果。
+球探（收起记录板）: I’ll take the data back to the office to evaluate. The preliminary assessment will be out next month.
 
-Hunter（点头）：辛苦了。
+Hunter（点头）: Thank you for your time.
 
 △ 球探转身走出训练馆。
 
@@ -1892,11 +1898,11 @@ Hunter（点头）：辛苦了。
 
 △Caleb 拧开瓶盖递向 Leo。
 
-Caleb：你今天防守节奏比昨天稳定很多。
+Caleb: Your defensive rhythm is much steadier today than it was yesterday.
 
 △Leo 接住水瓶低头。
 
-Leo：多亏你们陪我加练。
+Leo: Thanks to all of you for staying late to practice with me.
 
 △Hunter站在发球机旁边反复擦着球棒，视线落在Caleb拍过Leo肩膀的那只手上。
 
@@ -1910,31 +1916,31 @@ Leo：多亏你们陪我加练。
 
 △Leo 推开门走入室内，站在 Hunter 正前方。
 
-Leo：你从休息区开始就没有说话。
+Leo: You haven’t said a word since we left the rest area.
 
 Hunter 抬手勾住 Leo 额前卷发。
 
 △Leo拍开Hunter的手。
 
-Leo：你把我当什么，会有人对帮扶对象忽冷忽热吗？
+Leo: What do you take me for? Does anyone treat a trainee hot and cold like this?
 
-Hunter：你希望我们是什么关系？
+Hunter: What kind of relationship do you want us to have?
 
 △Leo耳尖发红。
 
 △Hunter 向前挪动半步缩短两人间距。
 
-Hunter：男朋友，你同意的话现在开始就是。
+Hunter: Boyfriends. If you agree, that’s what we are from now on.
 
 Leo 停顿两秒，踮脚轻碰 Hunter 嘴唇后退半步。
 
-Leo:Hunter，我喜欢你。
+Leo: Hunter, I like you.
 
 Hunter 抬手扣住 Leo 后颈，低头吻向对方。
 
 △ 门从外面被推开，Caleb一条腿迈进来，看到里面的画面刹住脚步，吹了一声口哨，笑着往后撤，把门关上。
 
-Caleb（在门外，声音带笑）：抱歉打扰了，你们继续。
+Caleb（在门外，声音带笑）: Sorry to interrupt. Carry on.
 
 △ 门被带上，锁舌卡进门框咔嗒一声。
 
@@ -1948,27 +1954,27 @@ Caleb（在门外，声音带笑）：抱歉打扰了，你们继续。
 
 △ Northwood训练馆角落的器材存放区，Elowen靠在墙边， Tyler站在她对面，双臂抱胸。
 
-Elowen（直白）：全明星替补名额。大学夏训营推荐都是你的 ，而你只需要正常对抗，逼WWC那个Leo的旧伤复发。
+Elowen（直白）: An All-Star reserve spot and a recommendation for a university summer training camp can both be yours. All you have to do is play normally and aggravate that Leo’s old injury.
 
 △ Tyler嘴唇抿了一下。
 
-Tyler（声音低）：……正常对抗？
+Tyler（声音低）: …Normal contact?
 
-Elowen（笑了一下，收起手机）：正常对抗。不小心撞到肩膀，旧伤复发也怪不了你。
+Elowen（笑了一下，收起手机）: Normal contact. If you accidentally hit his shoulder and his old injury flares up, no one can blame you.
 
 △ Tyler沉默了几秒，视线移开。
 
-Tyler：……我考虑一下。
+Tyler: …I’ll think about it.
 
-Elowen（转身往出口走）：明天分组之前告诉我。
+Elowen（转身往出口走）: Tell me before the groups are assigned tomorrow.
 
 △ 第二天分组对抗抽签前，Tyler走到Northwood队长面前，手里拿着训练安排表。
 
-Tyler：内野组缺人的话，我可以调过去。二垒补位我练过。
+Tyler: If the infield group needs someone, I can transfer over. I’ve practiced covering second.
 
 △ Northwood队长看了他一眼，接过安排表改了一笔。
 
-队长：行。你顶二垒。
+队长: Fine. You’ll cover second.
 
 △ Tyler点头走开，他低头看了一眼自己的右手，攥了一下又松开。
 
@@ -1990,23 +1996,23 @@ Tyler：内野组缺人的话，我可以调过去。二垒补位我练过。
 
 △Northwood队长从休息区走到场内，脸色发沉，站在Tyler面前。
 
-Northwood队长（声音冷）：你刚才那下冲球去的还是冲人去的？我这么教你的？
+Northwood队长（声音冷）: Did you go after the ball or the player just now? Is that what I taught you?
 
 △ Tyler攥着手套边缘低头看地面。
 
 △Northwood队长转头看向Leo和Hunter。
 
-Northwood队长：……我的队员没分寸。抱歉。
+Northwood队长: …My player lost control. I’m sorry.
 
 △ Tyler抬头看向Leo的方向。
 
-Tyler（声音沙哑）对不起，是我没有控制好。
+Tyler（声音沙哑）: I’m sorry. I lost control.
 
 △ 没等Leo回话，Hunter侧身挡了半步。
 
 △PCU队员围过来，Jake站在人群外侧皱着眉。
 
-Jake（语气强硬）：冲撞冲球去，冲人算什么本事。
+Jake（语气强硬）: Go after the ball, not the player. What kind of skill is that?
 
 △ Tyler站在原地，低头看着自己的鞋尖。
 
@@ -2018,31 +2024,31 @@ Jake（语气强硬）：冲撞冲球去，冲人算什么本事。
 
 △Leo挤了药膏涂在淤青上，力道很轻。
 
-Leo（低头碎碎念）：我躲得开。
+Leo（低头碎碎念）: I could have avoided it.
 
 △Hunter偏头看着他低垂的睫毛和紧抿的嘴角。
 
-Hunter（语气带笑）：我知道你躲得开，但是保护你是本能。
+Hunter（语气带笑）: I know you could have. But protecting you is instinctive.
 
 △ Leo涂药的手停了一瞬。
 
 △ 康复室里安静了几秒。Hunter的视线移开又转回来。
 
-Leo：每次你都在帮我。
+Leo: You’re always helping me.
 
 △Hunter右手摸了摸Leo的头发
 
-Hunter：我自愿的。
+Hunter: I do it willingly.
 
 △Hunter从衣服口袋拿出两张小联盟常规赛门票，放到Leo眼前。
 
-Hunter：别不开心了，我们一起去看比赛。
+Hunter: Don’t be upset. Let’s go watch the game together.
 
-Leo（惊讶）：你什么时候准备的？
+Leo（惊讶）: When did you get these?
 
-Hunter：（看着Leo轻笑）：他们预售的时候我就准备买了，那就一起去看吧Leo。
+Hunter（看着Leo轻笑）: I was going to buy them during the presale. Come on, let’s go together, Leo.
 
-Leo:（抱住Hunter的脖子）：Hunter，谢谢你。
+Leo（抱住Hunter的脖子）: Hunter, thank you.
 
 【第二十四集完】
 
@@ -2056,15 +2062,15 @@ Leo:（抱住Hunter的脖子）：Hunter，谢谢你。
 
 △Leo身体前倾，指着场上的游击手偏头跟Hunter说话。
 
-Leo：太帅了，我以后打比赛也会这么帅的。
+Leo: That’s so cool. I’ll look that cool when I play someday too.
 
 △Hunter偏头看着Leo的侧脸，轻轻亲Leo的嘴角。
 
-Hunter：Leo，等你上场，一定比他还帅。
+Hunter: Leo, when you take the field, you’ll be even cooler than him.
 
 △ Leo看着Hunter，嘴角带着笑。
 
-Leo：你也一定是最帅的投手，Hunter
+Leo: You’ll be the coolest pitcher too, Hunter.
 
 **25-2 夜/外 小联盟球场散场通道**
 
@@ -2086,15 +2092,15 @@ Leo：你也一定是最帅的投手，Hunter
 
 △ 客厅里灯光柔和，Hayes夫人靠在沙发上，手里拿着手机。
 
-Hayes（看着手机，将帖子上的内容读出来）：小联盟球场偶遇PCU王牌投手，旁边的人是谁？
+Hayes（看着手机，将帖子上的内容读出来）: Spotted PCU’s ace pitcher at a minor-league game. Who’s the person beside him?
 
 △ Hayes夫人抿了一口咖啡，笑了一声放下杯子。她偏头看向旁边的助理。
 
-Hayes夫人（语气轻，带着觉得有趣的味道）：Hunter真的长大了
+Hayes夫人（语气轻，带着觉得有趣的味道）: Hunter really has grown up.
 
 △ 助理没接话。Hayes夫人把手机放在茶几上，靠回沙发，视线落在窗外的夜色里。
 
-Hayes夫人（自言自语）：Hunter从小就跟家里不亲，倒是跟那孩子合得来。
+Hayes夫人（自言自语）: Hunter has never been close to the family, but he seems to get along with that boy.
 
 **25-4 夜/内 Hunter的房间**
 
@@ -2102,7 +2108,7 @@ Hayes夫人（自言自语）：Hunter从小就跟家里不亲，倒是跟那孩
 
 △ Hunter刚回房间，外套还没脱，手机在口袋里震了一下。他掏出来看了一眼 。
 
-Hayes先生：周日回家吃饭。你母亲要见你。
+Hayes先生: Come home for dinner Sunday. Your mother wants to see you.
 
 【第二十五集完】
 
@@ -2116,13 +2122,13 @@ Hayes先生：周日回家吃饭。你母亲要见你。
 
 △Elowen从走廊侧面走过来，抱着手臂挡住他的去路，下巴微抬。
 
-Elowen（直白，声音不高但每个字都清楚）：对你的帮扶已经超出范围了，校董会决定取消你的资格，你现在主动退出帮扶计划
+Elowen（直白，声音不高但每个字都清楚）: Your trainee arrangement has gone beyond its limits. The board has decided to revoke your access. You should withdraw from the program now.
 
-Elowen：离Hunter远一点，我可以给你州立大学全额奖学金，加小联盟试训机会。
+Elowen: Stay away from Hunter, and I can get you a full scholarship to a state university, plus a minor-league tryout.
 
 △ Leo停住脚步，偏头看了Elowen一眼。
 
-Leo（冷淡）：我的选秀路我自己打。Hunter不是你能拿来交易的东西。
+Leo（冷淡）: I’ll earn my own way into the draft. Hunter isn’t something you can use as a bargaining chip.
 
 △ 他直直走过Elowen身边，不再理她。
 
@@ -2138,13 +2144,13 @@ Leo（冷淡）：我的选秀路我自己打。Hunter不是你能拿来交易�
 
 △Hunter手指上套着的钥匙圈上挂着一把银色的钥匙，在阳光下反了一下光。
 
-Hunter（嘴角带着弧度，语气懒散）：早料到他们来这套。走，哥带你练专属场。
+Hunter（嘴角带着弧度，语气懒散）: I knew they’d pull this. Come on. I’ll take you to my private facility.
 
 △ Leo站在车门外看了他一眼，拉开车门坐进副驾驶，把球包放在脚边。
 
-Leo（系安全带的时候偏头看他）：你早就知道了?
+Leo（系安全带的时候偏头看他）: You knew this would happen?
 
-Hunter（发动引擎，打方向盘的时候偏头看了他一眼）：Elowen家没那么好对付，钥匙给你，以后想练去那里找我就好。
+Hunter（发动引擎，打方向盘的时候偏头看了他一眼）: Elowen’s family isn’t easy to deal with. Keep the key. Come there whenever you want to train.
 
 **26-3 夜/内 WWC更衣室**
 
@@ -2154,29 +2160,29 @@ Hunter（发动引擎，打方向盘的时候偏头看了他一眼）：Elowen�
 
 △队长从门外走进来，扫了一圈更衣室，把训练记录板拍在桌上。
 
-队长（声音不大，但全更衣室都安静下来）：隔壁校董会停了Lwo在PCU的场馆使用权，就是看我们是草根队伍好欺负。
+队长（声音不大，但全更衣室都安静下来）: The board next door suspended Leo’s access to PCU’s facility because they thought a grassroots team would be easy to push around.
 
-队长：从明天开始全队陪Leo磨防守。别让人看扁了草根队。
+队长: Starting tomorrow, the whole team will work with Leo on defense. Don’t let anyone look down on this grassroots team.
 
 △ 队员们陆续点头，有人站起来拍了拍Leo的肩膀。
 
 △Sam从Leo旁边站起来，低头看着他手里的钥匙，语气里带着笑。
 
-Sam（调侃）：哟，这钥匙不错。私人训练馆，看来PCU还有人在乎你呢。
+Sam（调侃）: Nice key. A private training facility? Looks like someone at PCU cares about you.
 
 △Leo不好意思的摸了摸头。
 
-Leo：是Hunter给的。
+Leo: Hunter gave it to me.
 
-Sam：那我猜的没错，你们果然已经在交往了。
+Sam: Then I was right. You two really are dating.
 
 △周围已经有人看了过来，Leo立马捂住了Sam的嘴。
 
-Leo：小声点Sam，你想让队员杀了我吗？在宿敌队伍训练就算了，还和队长交往，传出去我就完蛋了。
+Leo: Keep your voice down, Sam! Do you want the team to kill me? Training with our rival team is one thing, but dating their captain? I’m finished if that gets out.
 
 △Sam做了一个把嘴巴拉上拉链的动作。
 
-Sam（神秘）：ok，我保密。
+Sam（神秘）: Okay. I’ll keep it secret.
 
 【第二十六集完】
 
@@ -2188,15 +2194,15 @@ Sam（神秘）：ok，我保密。
 
 △ CIF办公室，Hunter坐在长桌一侧，面前摊开一个文件夹，他按顺序把每一份文件推到官员面前，抬头向对面。
 
-Hunter（声音不高）：帮扶计划备案在这里，所有训练记录匹配条款。附件是Northwood球员Tyler Reed在合练中恶意冲撞的监控录像，时间和画面都清晰。
+Hunter（声音不高）: The trainee program records are here, and every training record matches the terms. The attachment contains clear security footage of Northwood player Tyler Reed deliberately colliding with Leo during joint practice.
 
-Hunter（平静无波）：我申请恢复Leo Foster的训练资格，同时举报违反体育道德行为。全程走正规流程，证据链完整。
+Hunter（平静无波）: I’m requesting that Leo Foster’s training eligibility be restored, and I’m reporting the unsportsmanlike conduct. I’m following the proper process, with a complete chain of evidence.
 
 △ CIF官员拿起监控截图看了一眼，放下，点头。
 
-官员：材料我收下了。流程会走，五到七个工作日给结果。
+官员: I’ll accept the materials. We’ll process the case and give you a result within five to seven business days.
 
-Hunter（站起身，把文件夹收好）：麻烦了。
+Hunter（站起身，把文件夹收好）: Thank you for your help.
 
 **27-2 夜/内 Hayes家客厅**
 
@@ -2206,25 +2212,25 @@ Hunter（站起身，把文件夹收好）：麻烦了。
 
 △Hayes先生坐在对面的单人沙发里，面前放着文件夹。
 
-Hayes夫人（抿了一口酒，笑着）：我当年追人的时候手段可比你开放多了。你倒好，藏着掖着跟做贼似的。
+Hayes夫人（抿了一口酒，笑着）: When I pursued someone, I was far more open than you are. You’re hiding around like a thief.
 
-Hayes夫人（放下酒杯）：不过说真的，那个草根球员——没家世没背景的，配得上Hayes家的儿子？
+Hayes夫人（放下酒杯）: But seriously, that grassroots player—without family or connections—do you really think he’s worthy of a Hayes?
 
 △ Hunter坐在沙发另一端，没有接话。
 
-Hayes先生（把面前的文件夹推到茶几中央，指尖点了点封面）：跟Elowen订婚。家族保你首轮，PCU赞助不动。否则所有跟Hayes家合作的球队，都不会给你开绿色通道。
+Hayes先生（把面前的文件夹推到茶几中央，指尖点了点封面）: Get engaged to Elowen. The family will secure you a first-round selection and keep PCU’s sponsorship intact. Otherwise, every team that works with the Hayes family will close its doors to you.
 
 △ Hunter的视线落在文件夹上，没有翻开。他伸手把文件夹推回茶几中央。
 
-Hunter（没有犹豫）：婚约我不会签，选秀我自己也会挣。我不会放开Leo和比赛。
+Hunter（没有犹豫）: I won’t sign the engagement agreement. I’ll earn my draft position myself. I won’t give up Leo or baseball.
 
 △ Hayes夫人笑着晃了晃酒杯。
 
-Hayes夫人：Hunter，你别太天真。我想让一个小球员没球打，办法多得是。
+Hayes夫人: Hunter, don’t be naïve. I have plenty of ways to keep a minor player off the field.
 
 △Hunter站起来，外套搭在手臂上，往门口走了一步，回头看向她
 
-Hunter：管好你自己的事吧，父亲已经找到你新男友那去了。
+Hunter: Mind your own business. Father has already gone to find your new boyfriend.
 
 △Hayes夫人脸上的笑收了，她把红酒杯放在茶几上，杯底磕在大理石表面发出一声轻响。
 
@@ -2238,11 +2244,11 @@ Hunter：管好你自己的事吧，父亲已经找到你新男友那去了。
 
 △官员拆开信封抽出里面的材料。
 
-官员（疑惑）：指控WWC球员Leo Foster违规窃取PCU战术资料？
+官员（疑惑）: A report accusing WWC player Leo Foster of illegally stealing PCU’s tactical materials?
 
 △官员翻了两页，皱眉看向助理。
 
-官员：这个举报走加急流程。通知WWC。
+官员: Put this report through the expedited process. Notify WWC.
 
 【第二十七集完】
 
@@ -2254,23 +2260,23 @@ Hunter：管好你自己的事吧，父亲已经找到你新男友那去了。
 
 △WWC队长手里拿着一份通知，站在更衣室中央
 
-WWC队长：“Leo涉嫌违规获取对手战术，暂时停赛接受调查。”
+WWC队长: “Leo is suspected of illegally obtaining the opponent’s tactics. He is suspended pending an investigation.”
 
-队长（把通知拍在桌上，声音拔高）：Lwo不是这样的人，大家写联名信，所有人都签。他们想给Leo禁赛。
+队长（把通知拍在桌上，声音拔高）: Leo isn’t that kind of person. We’re writing a joint statement, and everyone is signing it. They’re trying to suspend him.
 
 △ Sam转身打开Leo的储物柜，抱出一摞训练日志和录像带摞在长凳上。
 
-Sam（对围过来的队员说，声音大）：天天泡在队内训练场练到熄灯的人，是没有是时间去褕战术的。
+Sam（对围过来的队员说，声音大）: Someone who trains in our facility until the lights go out every day doesn’t have time to steal tactics.
 
 △ 一个平时和Leo关系一般的老队员站出来，皱着眉接话。
 
-老队员（语气硬）：我们应该相信队友。
+老队员（语气硬）: We should trust our teammate.
 
 △ 队员们在联名信上签字。
 
-△Lwo潸然泪下
+△Leo潸然泪下
 
-Lwo（哽咽）：谢谢大家的信任，我去把证据提交，不会辜负大家。
+Leo（哽咽）: Thank you for trusting me. I’ll submit the evidence. I won’t let you down.
 
 **28-2 日/内 CIF南区纪律委员会会议室**
 
@@ -2278,19 +2284,19 @@ Lwo（哽咽）：谢谢大家的信任，我去把证据提交，不会辜负�
 
 △ 会议室长桌两侧，Leo坐在一侧将录像以及其他证据交给官员。
 
-Lwo（坚定）：战术室出入记录在这里，我全程匹配帮扶计划备案，接触的全部是合练通用战术，不存在窃取。
+Leo（坚定）: Here are the strategy-room access records. Everything matches the trainee-program filings, and all the material I saw was standard joint-practice strategy. I stole nothing.
 
 △ 官员翻完文件，抬头看了他一眼。
 
-官员（合上文件夹）：材料我收下了。你们出去等通知。
+官员（合上文件夹）: I’ll take these materials. Wait outside for further notice.
 
 **28-3 日/内 CIF南区纪律委员会办公室**
 
 人物：CIF主席、官员
 
-△ 办公室里，CIF主席坐在桌后，面前摊着Lwo提交的证据。
+△ 办公室里，CIF主席坐在桌后，面前摊着Leo提交的证据。
 
-CIF主席（沉吟了几秒，对站在桌前的官员说）：……明天赛前一小时，给他们最终答复。
+CIF主席（沉吟了几秒，对站在桌前的官员说）: …Give them a final answer one hour before tomorrow’s game.
 
 △ 官员点头记下。
 
@@ -2304,13 +2310,13 @@ CIF主席（沉吟了几秒，对站在桌前的官员说）：……明天赛�
 
 △ 赛前一小时，Sam风风火火跑到WWC的队员休息区。
 
-Sam：太好了，赛前组委会正式通知举报不实，Leo可以上场比赛了。
+Sam: Great news. The committee officially ruled the report false before the game. Leo can play.
 
 △ WWC队员抱住Leo欢呼。
 
-WWC教练（看向一边的Leo喊）：Leo，能上么？
+WWC教练（看向一边的Leo喊）: Leo, can you play?
 
-Leo（直起身，朝教练摆手，走向赛场）：能打。
+Leo（直起身，朝教练摆手，走向赛场）: I can play.
 
 △ 比赛开始，对手球队两名球员跑垒时故意往Leo左肩方向蹭。
 
@@ -2318,19 +2324,19 @@ Leo（直起身，朝教练摆手，走向赛场）：能打。
 
 △ WWC队长从休息区冲进场内，队长搂住Leo的肩膀。
 
-WWC队长：双杀够帅的!
+WWC队长: That double play was impressive!
 
-Leo：嘶——
+Leo: Ow—
 
-WWC队长（看着他）：肩膀没事吧。
+WWC队长（看着他）: Is your shoulder okay?
 
-Leo：没大问题。
+Leo: It’s nothing serious.
 
-WWC队长（转身走开）：那就行。
+WWC队长（转身走开）: Good.
 
 △ WWC队长轻轻拍了拍他的背。
 
-WWC队长：咱们进前四强了，你们表现得很好Leo，继续加油。
+WWC队长: We made the semifinals. Great work, Leo. Keep it up.
 
 29-2 夜/内 WWC球员通道
 
@@ -2344,7 +2350,7 @@ WWC队长：咱们进前四强了，你们表现得很好Leo，继续加油。
 
 △ Hunter的掌心顺着Leo贴身球衣包裹着的紧致后背慢条斯理地往下划过，指尖若有似无地勾过脊柱沟。
 
-Hunter（低沉沙哑地轻笑，贴着他耳廓）：打得这么凶……晚上回房间，我好好给你冰敷，嗯？
+Hunter（低沉沙哑地轻笑，贴着他耳廓）: You played that hard… I’ll ice your shoulder properly tonight, okay?
 
 △ Leo身子微颤，从Hunter怀里微微退开半寸，泛红的指尖低头勾住被压皱的衣领，有些慌乱地整理着，露出一小片带着汗珠的锁骨。
 
@@ -2364,7 +2370,7 @@ Hunter（低沉沙哑地轻笑，贴着他耳廓）：打得这么凶……晚�
 
 △ Hayes夫人轻笑了一声，语气轻飘飘的。
 
-Hayes夫人（笑着，像在说一件有趣的事）：聊聊吧，两个小朋友。
+Hayes夫人（笑着，像在说一件有趣的事）: Let’s talk, boys.
 
 △ 通道里安静了一瞬。Hunter往前站了半步，身躯微侧，几乎以一种绝对占有和保护的姿态，将身后的Leo挡在半个肩膀的位置，后背与Leo的胸膛紧紧贴合。【第二十九集完】
 
@@ -2380,21 +2386,21 @@ Hayes夫人（笑着，像在说一件有趣的事）：聊聊吧，两个小朋
 
 △ Hayes先生转身走过来，把婚约文件和赞助条款清单推在茶几上，指尖点了点。
 
-Hayes先生（语气平，像在谈一笔交易）：两件事。第一，你跟Elowen订婚，家里保障你和Leo的训练和比赛。第二，你们硬扛到底——Hayes家族全面撤出PCU赞助，圈里所有豪门球队的试训通道对你们全部关闭。
+Hayes先生（语气平，像在谈一笔交易）: Two things. First, you get engaged to Elowen, and the family guarantees training and competition support for you and Leo. Second, if you keep resisting, the Hayes family withdraws all sponsorship from PCU, and every elite team in the circuit closes its tryout doors to both of you.
 
 △ Elowen站在门边，嘴角微微扬着，眼神带着审视。
 
 △ Leo站着没动。Hunter嘴角勾起一抹弧度，伸手从外套内侧口袋里抽出一张折叠的纸展开。
 
-Hunter（语气平，看着父亲，又看向母亲）：这个队伍看重我的投手天赋，承诺给主力位置。我本来想选秀结束再拿出来，我的棒球路不靠Hayes的姓也能走。
+Hunter（语气平，看着父亲，又看向母亲）: This team values my pitching talent and has promised me a starting role. I planned to show this after the draft. I can build my baseball career without the Hayes name.
 
 △ 话音刚落，Leo向前迈了一步来到茶几前，身形掠过Hunter时，后背无意间擦过Hunter的胸膛。他将带来的球探报告重重拍在桌面上，翻到次轮评估分那一页，指着数字抬眼看向Hayes夫妇。
 
-Leo（冷静）：我不是来吵架的——Hunter选什么我都陪他，棒球从来拼的都是球技。
+Leo（冷静）: I’m not here to argue. Whatever Hunter chooses, I’ll stand with him. Baseball has always been about skill.
 
 △ Hayes夫人靠回沙发里，轻笑一声，眼神在两人之间暧昧地流转，转头看向Hunter。
 
-Hayes先生：好，那我看看你的骨头能硬到什么时候。
+Hayes先生: Fine. Let’s see how long you can keep standing.
 
 △ Hunter突然伸手牢牢扣住Leo纤细的手腕，猛地用力一拽，将Leo整个人拉近自己身边，两人的贴身球衣再次摩擦在一起。
 
@@ -2414,19 +2420,19 @@ Hayes先生：好，那我看看你的骨头能硬到什么时候。
 
 △Hayes夫人没有急着走。
 
-Hayes夫人（语气里没什么怒意，带着点玩味）：你倒是长大不少，敢跟他对着干了。
+Hayes夫人（语气里没什么怒意，带着点玩味）: You’ve grown up a lot. You actually dare to stand up to him now.
 
 △ 说完她转身走了。
 
-Hunter：我只是长大了。
+Hunter: I just grew up.
 
 △车上，Hayes先生坐在驾驶座发动引擎，Hayes夫人坐在副驾驶。
 
-Hayes先生（手握方向盘，声音发沉）：你从来不管他，让他养成这幅样子，不懂轻重。
+Hayes先生（手握方向盘，声音发沉）: You never disciplined him, so he grew up without knowing his limits.
 
-Hayes夫人（偏头看向车窗外，嗤笑了一声）：你少拿父亲的架子压人，联姻到底有什么好，我们就是反面教材，现在我们谁都不幸福不是么。
+Hayes夫人（偏头看向车窗外，嗤笑了一声）: Stop using your father’s authority to intimidate people. What good has this marriage done? We’re the perfect cautionary example. Neither of us is happy.
 
-Hayes夫人:我看这孩子还不错，这件事我不管了。
+Hayes夫人: I think the boy is all right. I’m staying out of this.
 
 △ 车里安静了几秒。窗外路灯的光一明一暗扫过两人的脸，。
 
@@ -2438,11 +2444,11 @@ Hayes夫人:我看这孩子还不错，这件事我不管了。
 
 △Jake坐在长凳上愁眉苦脸。
 
-Jake（皱眉）：队长偏袒Leo我没意见了，但连累全队训练资源就过分了吧，家族撤赞助的话，康复室和录像设备都得砍。
+Jake（皱眉）: I have no problem with the captain favoring Leo, but dragging the whole team’s training resources into it is too much. If the family pulls its sponsorship, the rehab room and video equipment will be cut too.
 
 △ Caleb从柜子边站起来，转身看向Jake。
 
-Caleb（语气平，但声音清楚）：赞助是他家的事，少了赞助我们就不打比赛了？
+Caleb（语气平，但声音清楚）: The sponsorship is his family’s business. Are we supposed to stop playing just because we have less of it?
 
 △ 更衣室里没人再说话。
 
@@ -2466,23 +2472,23 @@ Caleb（语气平，但声音清楚）：赞助是他家的事，少了赞助我
 
 △ 【特写】话音刚落，Leo膝盖上的手机震动了一下，屏幕弹出一条来自Hunter的私信
 
-Hunter（vo）：“晚上过来，我给你敷药，顺便算算昨晚的账。”
+Hunter（vo）: “Come over tonight. I’ll ice your shoulder, and we can settle last night’s score while I’m at it.”
 
 △ Leo指尖按在屏幕上，下意识抿了抿微烫的唇角，伸手将手机翻面扣在长凳上。
 
-WWC教练（沉重）：主赞助商的正式通知，本赛季后续赞助金额缩减60%。
+WWC教练（沉重）: The primary sponsor has officially notified us that funding for the rest of the season will be cut by 60%.
 
-队长（语气平，没有抱怨的意思）：赞助缩水了，但是事还得做。
+队长（语气平，没有抱怨的意思）: The sponsorship is smaller, but we still have work to do.
 
-Sam（举手）：我认识本地体育用品店的老板，可以谈小额冠名挂在训练服背后。
+Sam（举手）: I know the owner of a local sporting-goods store. We can ask for a small sponsorship and put their name on the back of our practice jerseys.
 
 △ Leo抬起头，伸手扯了扯衣领，压低了嗓音。
 
-Leo：我训练完后晚上空着，我去做兼职换场地费。
+Leo: I’m free after practice. I can work part-time to help cover facility fees.
 
 △ 队长点头，拿起笔在记录板上写了几笔。
 
-队长（高喊）：感谢大家为WWC出的力，剩下的冠军路一起走下去吧！
+队长（高喊）: Thanks for everything you’re doing for WWC. Let’s finish this championship run together!
 
 32-2 日/内 PCU训练馆更衣室
 
@@ -2494,17 +2500,17 @@ Leo：我训练完后晚上空着，我去做兼职换场地费。
 
 △ 【特写】手机在口袋里震动，Hunter抽出来看了一眼，屏幕上是Leo刚发来的回复
 
-Leo（vo）：“今晚没空，我去兼职。”
+Leo（vo）: “No time tonight. I’m going to work.”
 
 △ Hunter指尖沿着护腕边缘缓缓摩挲，嘴角勾起一抹笑容，随即收起手机。
 
-Hunter：预算砍了近一半。家族决策，我来担。我的私人训练馆以后对全队开放，器材商那边我已经谈了折扣，不会耽误大家季后赛训练。
+Hunter: The budget has been cut nearly in half. It was a family decision, and I’ll take responsibility for it. My private facility is open to the whole team from now on. I’ve negotiated discounts with the equipment supplier, so our playoff training won’t be affected.
 
 △ 更衣室里安静了几秒。
 
 △Jake坐在长凳上，抬头看着Hunter，沉默了一会儿，然后点了一下头。
 
-Jake（语气平）：行。别耽误比赛就行。
+Jake（语气平）: Fine. As long as it doesn’t hurt our chances in the playoffs.
 
 △ Caleb靠在柜子边看了Hunter一眼，没有多说话。
 
@@ -2516,19 +2522,19 @@ Jake（语气平）：行。别耽误比赛就行。
 
 △Hayes夫人搅着杯子里的咖啡，勺子在杯壁上碰出轻响。
 
-Elowen（身体微微前倾，压低声音）：他们现在还在硬撑。再加点舆论压力，让Hunter知难而退，您觉得呢？
+Elowen（身体微微前倾，压低声音）: They’re still holding out. What if we add more public pressure and make Hunter back down?
 
 △ Hayes夫人端起咖啡杯抿了一口，放下。
 
-Hayes夫人：你是说让一个母亲用舆论压力毁掉自己的儿子吗？
+Hayes夫人: Are you asking a mother to destroy her own son with public pressure?
 
 △ 她端起咖啡杯又喝了一口，视线落向街道远处，Elowen没有再开口。
 
-Hayes夫人：Elowen，不要做让家族丢脸的事情。
+Hayes夫人: Elowen, don’t do anything that disgraces the family.
 
 △Hayes夫人拿出手机，屏幕上打字。
 
-Hayes：我想和你再见一面。
+Hayes: I want to see you again.
 
 【第三十二集完】
 
@@ -2540,21 +2546,21 @@ Hayes：我想和你再见一面。
 
 △ 咖啡店角落卡座，Hayes夫人穿了一件简单的针织衫，卷发披在肩上，面前放着一杯咖啡，△Leo坐在她对面，面前放着一杯还没动过的水。
 
-Hayes夫人（开门见山，手指转着咖啡勺，语气平）：我当年跟你一样最喜欢在赛场上拼命最后还是因为联姻嫁给了Hunter父亲，自己过的不幸福也没兴趣棒打鸳鸯，。
+Hayes夫人（开门见山，手指转着咖啡勺，语气平）: Like you, I used to give everything to competition. In the end, I married Hunter’s father because of an arranged alliance. I wasn’t happy, and I have no interest in tearing you two apart.
 
 △ Leo安静听着，双手握着面前的水杯。
 
 △Hayes夫人抬眼看他，眼神带着过来人的审视。
 
-Hayes夫人：但他毕竟也是我儿子，没有父亲的支持，你们的路必定艰难。如果Hunter因为你丢了丢了家族光环，成为了没人要的球员，你还会跟他在一起吗？
+Hayes夫人: But he is still my son. Without his father’s support, your road will be difficult. If Hunter lost the family name because of you and became a player no one wanted, would you still stay with him?
 
 △ Leo没有犹豫，蓝眼睛直视她。
 
-Leo（果断）：他的投球在哪都是王牌，不会有那一天，即使如此，我也会跟随他，帮助他前行。
+Leo（果断）: His pitching would make him an ace anywhere. That day won’t come. Even if it did, I’d stay with him and help him move forward.
 
 △ Hayes夫人站起来。
 
-Hayes夫人（经过他身边时丢下一句，语气听不出褒贬）：年轻人嘴硬是好事。
+Hayes夫人（经过他身边时丢下一句，语气听不出褒贬）: It’s good for young people to stand their ground.
 
 △ 她走出咖啡店。
 
@@ -2568,19 +2574,19 @@ Hayes夫人（经过他身边时丢下一句，语气听不出褒贬）：年轻
 
 △ Leo转过头，Hunter猛地俯下身逼近，大掌直接揽住Leo的后颈，修长的指尖按在他耳后的敏感皮肤上。Hunter嘴唇贴在Leo的额头上，随后顺着他的鼻尖一路下滑，轻咬了一下Leo泛红的下唇，力道沉重又带点占有欲。
 
-Hunter（直起身，修长的双腿在桌下霸道地顶住Leo的膝盖，嘴角带笑）：你刚才说的，我都听到了。
+Hunter（直起身，修长的双腿在桌下霸道地顶住Leo的膝盖，嘴角带笑）: I heard what you said.
 
-Leo（拿着水杯的手停在半空，喉结微动，斜眼看他）：你怎么在这？
+Leo（拿着水杯的手停在半空，喉结微动，斜眼看他）: What are you doing here?
 
-Hunter（半靠在卡座靠背上，身子依然向Leo倾斜）：她请我来的，比你早到五分钟。
+Hunter（半靠在卡座靠背上，身子依然向Leo倾斜）: She asked me to come. I got here five minutes before you.
 
 △ Hunter在桌下抬起脚尖，顺着Leo的小腿裤管缓慢向上蹭了蹭。Leo双腿微张，小腹一阵发紧，脸颊与耳根瞬间爆红，双手死死握紧杯沿。
 
-Leo（眼神固执，声音带着微喘）：我一直都是这么想的。
+Leo（眼神固执，声音带着微喘）: That’s what I’ve always thought.
 
 △ Hunter伸出湿润的食指，沿着Leo拿着的水杯杯沿缓慢划了一圈，随后顺势下滑，按在Leo握着杯子的指关节上，用力往自己方向拉了拉。
 
-Hunter（低沉哑声）：我知道是真的。
+Hunter（低沉哑声）: I know you mean it.
 
 【第三十三集完】
 
@@ -2596,9 +2602,9 @@ Hunter（低沉哑声）：我知道是真的。
 
 △ Leo身子猛地一颤，，双手一松，挥出去的球棒直接歪了方向，脱手掉在地上。
 
-Leo（猛地回头瞪他，呼吸急促，耳根泛红）：你手放哪呢！
+Leo（猛地回头瞪他，呼吸急促，耳根泛红）: Where are you putting your hands?
 
-Hunter（顺势将手下滑捏了一下Leo的臀肉，随后才收回手插进裤兜，挑眉坏笑）：发力点在腰，专心点。男朋友可不会在场上对你放水。
+Hunter（顺势将手下滑捏了一下Leo的臀肉，随后才收回手插进裤兜，挑眉坏笑）: The power comes from your waist. Focus. Your boyfriend won’t go easy on you on the field.
 
 △ 分组对抗比赛开始，Hunter站在投手丘上准备投球，眼神死死咬住打击区上的Leo。
 
@@ -2608,9 +2614,9 @@ Hunter（顺势将手下滑捏了一下Leo的臀肉，随后才收回手插进�
 
 △ Caleb站在围网边，双臂抱胸，偏头看了一眼旁边的Sam。
 
-Caleb（语气带笑，低声）：公费恋爱。没眼看。
+Caleb（语气带笑，低声）: Publicly funded romance. I can’t watch this.
 
-Sam（点头）：训练场快成约会场地了。
+Sam（点头）: The training field is practically a date spot now.
 
 △ 全队哄笑成一片。
 
@@ -2624,25 +2630,25 @@ Sam（点头）：训练场快成约会场地了。
 
 △Sam滑动手机，又将手机伸给Leo看。
 
-Sam：快看这条，“PCU和WWC的赞助危机，根源全在一个人？”
+Sam: Look at this one: “Are PCU and WWC’s sponsorship crises all because of one person?”
 
 △Sam拍了拍Leo的肩。
 
-Sam：Leo，你又上热榜了。
+Sam: Leo, you’re trending again.
 
 △配图是一张Leo站在PCU训练馆门口背球包的照片。
 
 △Sam往下划了一下。
 
-网友（vo） ：这种人就该取消选秀资格。
+网友（VO）: Someone like this should be disqualified from the draft.
 
 △Sam把手缩了回来，手机锁了屏。
 
-Sam（语气平）：别看了。都是匿名号。
+Sam（语气平）: Stop reading. They’re all anonymous accounts.
 
-Leo（声音有点干）：……他连我打工的餐厅地址都扒出来了。
+Leo（声音有点干）: …They even dug up the address of the restaurant where I work.
 
-Sam（站起来，手机还给Leo时在他肩膀上按了一下）：比赛要开始了，千万别让这些影响你。你上场打你的就行。
+Sam（站起来，手机还给Leo时在他肩膀上按了一下）: The game is about to start. Don’t let this affect you. Just go out there and play your game.
 
 【第三十四集完】
 
@@ -2656,9 +2662,9 @@ Sam（站起来，手机还给Leo时在他肩膀上按了一下）：比赛要�
 
 △Hunter穿着PCU队服，面对镜头。
 
-博主（对着镜头）：Hunter，最近网上关于Leo Foster影响Hayes家族赞助的传闻很多，你有什么想说的？
+博主（对着镜头）: Hunter, there have been many rumors online that Leo Foster affected the Hayes family’s sponsorship. What do you have to say?
 
-Hunter（看着镜头）：我认为与Leo无关，家族预算调整是Hayes家的商业决策，还请关注球队成绩和球员实力。
+Hunter（看着镜头）: It has nothing to do with Leo. The budget adjustment was a business decision by the Hayes family. Please focus on the team’s results and the players’ ability.
 
 △ 博主点了点头，摄像头红灯还亮着。
 
@@ -2670,7 +2676,7 @@ Hunter（看着镜头）：我认为与Leo无关，家族预算调整是Hayes家
 
 △他看完，低头在评论区打了一行字。
 
-Jake： 跟他一起打过比赛的人都知道他投球什么水平，少拿私事否定一个球员。
+Jake: Anyone who has played with him knows what kind of player he is. Stop using private matters to dismiss an athlete.
 
 △ Caleb从旁边经过Jake，走过去拍了一下Jake的肩膀。
 
@@ -2678,9 +2684,9 @@ Jake： 跟他一起打过比赛的人都知道他投球什么水平，少拿私
 
 △队员们聚在一起，队长把手机放在长凳中央，播放Hunter的采访。视频播完，队长拿起手机。
 
-队长（抬头看了一圈）：大家转发一下。
+队长（抬头看了一圈）: Everyone, share it.
 
-队长：我们的游击手，靠实力说话。
+队长: Our shortstop lets his performance speak for itself.
 
 **35-4 日/内 Hayes家书房**
 
@@ -2702,13 +2708,13 @@ Jake： 跟他一起打过比赛的人都知道他投球什么水平，少拿私
 
 △Tyler从对面半场走过来在Leo面前站定，伸手碰了Leo的肩头。
 
-Tyler（认真）：这次没有脏的，场上见真章。
+Tyler（认真）: No dirty tricks this time. Let’s settle it on the field.
 
-Leo（回碰了一下）：场上见。
+Leo（回碰了一下）: See you on the field.
 
 △ Northwood队长站在休息区围网边，朝自己队员的方向喊了一声，声音穿过整个场地。
 
-Northwood队长（喊）：谁搞小动作，别怪我当场换人，丢不起球队的脸。
+Northwood队长（喊）: Anyone who pulls something dirty is coming out immediately. I won’t have anyone embarrassing this team.
 
 △Leo策动远距离双杀，从游击位接球转身传二垒再传一垒，全场掌声。
 
@@ -2716,9 +2722,9 @@ Northwood队长（喊）：谁搞小动作，别怪我当场换人，丢不起�
 
 △Caleb坐在他旁边，伸手怼了他胳膊一下。
 
-Caleb（压低声音，带笑）：注意点形象。你是PCU队长。
+Caleb（压低声音，带笑）: Watch your image. You’re the PCU captain.
 
-Hunter（放下手，嘴角弧度没收）：赛场外是Leo的男友。
+Hunter（放下手，嘴角弧度没收）: Off the field, I’m Leo’s boyfriend.
 
 **36-2 日/外 WWC主场球场**
 
@@ -2734,11 +2740,11 @@ Hunter（放下手，嘴角弧度没收）：赛场外是Leo的男友。
 
 △球从他手套里滚出来落在地面上，Leo蜷在草地上没有立刻起身，他左手攥着左肩的位置。△场上队友和裁判跑过来围住他，蹲下查看他的伤势。
 
-队友（蹲在旁边喊）：Leo！肩膀怎么样了？说话！
+队友（蹲在旁边喊）: Leo! How’s your shoulder? Say something!
 
 △ Leo侧躺在地上，张开嘴吸了一口气。
 
-Leo（咬牙）：嘶……拉我起来。
+Leo（咬牙）: Ow… Help me up.
 
 △ 队友伸手抓住他的右手臂，把他慢慢拉起来。
 
@@ -2758,17 +2764,17 @@ Leo（咬牙）：嘶……拉我起来。
 
 △队医收回手，看着他。
 
-队医（语气紧）：抬一下胳膊。
+队医（语气紧）: Raise your arm.
 
 △ Leo咬着牙把左臂抬了十五度，然后放下来，声音从牙缝里挤出来。
 
-Leo：……没事。还能打。
+Leo: …I’m fine. I can keep playing.
 
 △ 队友伸手抓住他的右手臂，把他慢慢拉起来。
 
-WWC队长（皱眉）：你先退场。
+WWC队长（皱眉）: Come out of the game first.
 
-Leo（摇头）：退场没有人再上了。
+Leo（摇头）: If I come out, no one can replace me.
 
 △Leo站起来走回游击位，弯腰捡起手套戴回左手，然后站定。
 
@@ -2778,7 +2784,7 @@ Leo（摇头）：退场没有人再上了。
 
 △裁判举起右手。
 
-裁判（扬声）：挥棒落空！三振出局！比赛结束！
+裁判（扬声）: Swing and a miss! Strikeout! That’s the game!
 
 △ WWC队员从休息区冲进场内，围成一圈。
 
@@ -2786,11 +2792,11 @@ Leo（摇头）：退场没有人再上了。
 
 △ Tyler站在打击区没有立刻走，把球棒放回架子上，转身穿过人群走到Leo面前，伸手碰了一下他的手套。
 
-Tyler（语气平）：你打得不错。肩膀没事吧。
+Tyler（语气平）: You played well. Is your shoulder okay?
 
-Leo（回碰了他的手套一下）：……没事，你守得也挺好。
+Leo（回碰了他的手套一下）: …I’m fine. You played well too.
 
-Tyler（点头，转身走开）：决赛见。
+Tyler（点头，转身走开）: See you in the final.
 
 △ 同一天PCU轻取对手。两支球队会师南区决赛。
 
@@ -2802,25 +2808,25 @@ Tyler（点头，转身走开）：决赛见。
 
 △Leo坐在长凳上，低头看着他。
 
-Hunter(语气很平):扑球姿势挺帅的，回头加练核心一省得老往地上摔。
+Hunter(语气很平): Nice dive out there. We’ll add extra core work to your routine so you stop hitting the dirt so much.
 
 △他顿了一下，抬头对上Leo的眼睛。
 
-Hunter(站起来，把冰袋往旁边一扔):但你知道我最烦你什么吗?
+Hunter(站起来，把冰袋往旁边一扔): But you know what drives me crazy about you?
 
-Leo(微愣):什么?
+Leo(微愣): What?
 
-Hunter:你从来不管自己还剩多少血条。
+Hunter: You never once check how much health you’ve got left.
 
 △他一把攥住Leo没受伤那边的手腕，把他从长凳上拽起来，直接按在储物柜上，肩膀撞出一声闷响。
 
-Leo(吃痛，压低声音):Hunter，你干嘛……
+Leo(吃痛，压低声音): Hunter, what are you—
 
 △Leo的嘴被Hunter的嘴堵住了，随后，Hunter一只手按住他的手腕固定在柜子上，另一只手捞起他一条腿扣在自己腰侧。
 
-Leo(偏头躲开，喘着气，脸红到耳根):别，随时有人进来。
+Leo(偏头躲开，喘着气，脸红到耳根): Stop—someone could walk in any second.
 
-Hunter(低头，嘴唇贴着他锁骨，声音低哑):你看看现在几点了?没人会进来。
+Hunter(低头，嘴唇贴着他锁骨，声音低哑): Do you see what time it is? No one’s coming in.
 
 △他低下头，嘴唇落在Leo的锁骨上，不轻不重地吮了一下。
 
@@ -2828,9 +2834,9 @@ Hunter(低头，嘴唇贴着他锁骨，声音低哑):你看看现在几点了?�
 
 △Leo咬着下唇，闷哼一声，偏头看着更衣室的门。走廊里安安静静，灯都关了。
 
-Leo(声音哑了):......你这就是故意的。
+Leo(声音哑了): ......You’re doing this on purpose.
 
-Hunter(抬起头看他，嘴角微微勾了一下):嗯，故意的。省得你下次还敢这么拼命。
+Hunter(抬起头看他，嘴角微微勾了一下): Yeah, on purpose. So next time you won’t dare push yourself this hard.
 
 △他的手顺着Leo的脊柱滑下去，把人往自己怀里又压紧了几分。储物柜又闷响了一声。
 
@@ -2844,17 +2850,17 @@ Hunter(抬起头看他，嘴角微微勾了一下):嗯，故意的。省得你�
 
 人物：Leo Foster
 
-Leo（低声，盯着屏幕）：……重新评估秋季招募名单？什么意思。
+Leo（低声，盯着屏幕）: …Reassessing the fall recruiting list? What does that mean.
 
 △他把手机拿远了一点，呼吸沉了一拍。
 
-Leo（声音比刚才低，像说给自己听的）：三所全撤了？全撤了！
+Leo（声音比刚才低，像说给自己听的）: All three pulled? All three!
 
 △ 他把手机扣在枕头上，翻了个身。
 
-Leo（咬牙）：嘶
+Leo（咬牙）: Hiss
 
-Leo（闷声）：……不靠奖学金也能打。我又不是只有这一条路。
+Leo（闷声）: …I can make it without the scholarship. I don’t only have this one path.
 
 △ 手机屏幕暗下去。
 
@@ -2870,17 +2876,17 @@ Leo（闷声）：……不靠奖学金也能打。我又不是只有这一条�
 
 △Sam从训练场方向走过来，在他旁边坐下。
 
-Sam（语气平）：你在这坐了一个小时了。
+Sam（语气平）: You’ve been sitting here for an hour.
 
-Leo（没抬头）：……奖学金全没了。
+Leo（没抬头）: …The scholarships are all gone.
 
-Sam（偏头看他）：那三所D1？
+Sam（偏头看他）: All three D1 schools?
 
-Leo（声音发干）：全部撤回，说重新评估名单。
+Leo（声音发干）: All withdrawn. They said they’re reassessing the list.
 
 △ Sam安静了两秒，没有追问，站起来拍了一下Leo的肩膀。
 
-Sam：怎么回事？这种情况从来没有过，你今天别练了，先回去休息。
+Sam: What happened? Nothing like this has ever happened before. Don’t train today—go home and rest first.
 
 △Leo还坐在长凳上没有动。
 
@@ -2894,21 +2900,21 @@ Sam：怎么回事？这种情况从来没有过，你今天别练了，先回�
 
 △ Leo腹部发紧，抬眼盯着俯下身的Hunter，伸手覆在信封上，掌心顺势按住Hunter的手背。
 
-Leo（抬头看他，声音带着微喘）：这是什么。
+Leo（抬头看他，声音带着微喘）: What is this.
 
 △ Hunter顺势在Leo身旁坐下，两人的大腿紧紧贴合在一起。Hunter一只手揽过Leo的后腰，将他整个人强硬地带进自己怀里，另一只手按在Leo的腹部，隔着信封与他的皮肤摩擦。
 
-Hunter（平静，低沉沙哑）：独立联盟预签约合同，我那份的复印件。
+Hunter（平静，低沉沙哑）: A pre-signing contract with an independent league team—a copy of mine.
 
 △ Leo没有翻开信封，只是攥着信封的一角，纸张在两人紧贴的腹部间挤压折出一道深痕。
 
 △ Hunter偏头凑过去，温热的唇贴着Leo的耳根一路舔吻下滑，咬住他耳垂轻捏，指尖顺着Leo的后腰深入他训练裤的裤腰边缘。
 
-Hunter（贴着他耳边）：独立联盟的最强游击手怎么样？
+Hunter（贴着他耳边）: How about the best shortstop the independent league’s ever seen?
 
 △ Leo下意识偏开头，胸膛剧烈起伏着大笑起来，右手猛地搂紧Hunter的脖子，将人向自己压得更紧。
 
-Leo（声音比刚才低）：去他的D1，只要你在我身边，哪怕从泥地里重新打起。
+Leo（声音比刚才低）: Screw D1. As long as you’re by my side, I’ll start over from the dirt if I have to.
 
 **38-3 夜/内 Leo的出租屋**
 
@@ -2916,7 +2922,7 @@ Leo（声音比刚才低）：去他的D1，只要你在我身边，哪怕从泥
 
 △ 凌晨，出租屋里灯熄了一半，手机屏幕的光映在Leo脸上。
 
-Leo（吃惊）：这谁发的邮件……D1大学的招生联系方式、独立球探，匿名邮件？谁帮我找的这些？Hunter？
+Leo（吃惊）: Who sent this email… D1 admission contacts, an independent scout, an anonymous email? Who found all this for me? Hunter?
 
 【第三十八集完】
 
@@ -2934,11 +2940,11 @@ Leo（吃惊）：这谁发的邮件……D1大学的招生联系方式、独立
 
 △ Hunter低头在Leo的脖颈红痕处重重吮了一下，随后接过手机看了眼，又将手机还给Leo，指尖故意沿着Leo的掌心划过。
 
-Leo（仰起头，脖颈线条拉紧，声音低哑微喘）：不知道是谁昨天晚上发给我的。
+Leo（仰起头，脖颈线条拉紧，声音低哑微喘）: I don’t know who sent it to me last night.
 
 △ Hunter将手机强硬地塞回Leo掌心，顺势扣住Leo的手腕将他按在自己胸口，薄唇贴着Leo的耳垂咬了一下，声音沉哑。
 
-Hunter：我周末回去一趟。
+Hunter: I’m heading home this weekend.
 
 **39-2 夜/外 Hayes家露台**
 
@@ -2948,13 +2954,13 @@ Hunter：我周末回去一趟。
 
 △Hunter站在她旁边。
 
-Hunter（没有铺垫）：那封邮件是你发的。
+Hunter（没有铺垫）: That email was from you.
 
-Hayes夫人（把烟夹在指间没有点，弹了弹烟灰杆）：别谢我。我就是看你爸那副输不起的样子烦，仗着权势欺负个小孩子。
+Hayes夫人（把烟夹在指间没有点，弹了弹烟灰杆）: Don’t thank me. I just can’t stand watching your father act like a sore loser, bullying a kid with his power and connections.
 
-Hayes夫人（偏头看了他一眼，语气平）：你选的人我未必满意,但你爸的手段太丢人,我恶心。
+Hayes夫人（偏头看了他一眼，语气平）: The person you chose may not satisfy me, but your father’s tactics are too shameful. They disgust me.
 
-Hunter（没有说谢，点了点头）：我知道了。
+Hunter（没有说谢，点了点头）: I understand.
 
 **39-3 夜/内 Hayes家别墅客厅**
 
@@ -2964,9 +2970,9 @@ Hunter（没有说谢，点了点头）：我知道了。
 
 △Hayes夫人靠在沙发上，手里端着茶杯，没有看她。
 
-Elowen（声音压着怒火）：您帮她联系大学？还联系独立球探？您是站在哪边的？
+Elowen（声音压着怒火）: You helped her get into college? And contacted an independent scout for her? Whose side are you on?
 
-Hayes夫人：自己抓不住人，还来我这撒泼？出去，我要休息了。
+Hayes夫人: Can’t even hold on to him yourself, and now you come here throwing a tantrum? Get out. I need to rest.
 
 △ Elowen转身走出去。门在她身后合上，碰出一声闷响。
 
@@ -2978,9 +2984,9 @@ Hayes夫人：自己抓不住人，还来我这撒泼？出去，我要休息了
 
 △Hayes夫人站在门口手臂抱在胸前，面色平静。
 
-Hayes先生（把手机摔在桌面上）：你给那个穷小子介绍大学？还联系球探？你想毁了Hunter，吗？
+Hayes先生（把手机摔在桌面上）: You got that poor kid into college? And contacted scouts for him? Are you trying to ruin Hunter?
 
-Hayes夫人（语气平静）：他是你儿子，是你自己把他推出去的。
+Hayes夫人（语气平静）: He’s your son. You’re the one who pushed him away.
 
 △ 桌上的台历被Hayes先生扫到地上，书房门被砰地带上。
 
@@ -3000,13 +3006,13 @@ Hayes夫人（语气平静）：他是你儿子，是你自己把他推出去的
 
 △ 套下项链的瞬间，Hunter带有粗糙茧子的指腹顺势探入Leo的球衣领口，贴着他发烫的锁骨与胸膛皮肤滑动，将奖牌钩出来。Hunter修长的大腿从身后强硬地顶住Leo的腿弯，他靠近Leo敏感的耳廓与脖颈。
 
-Hunter（嘴唇贴着他耳边，声音带笑，语气低沉）：决赛见，Leo。
+Hunter（嘴唇贴着他耳边，声音带笑，语气低沉）: See you in the final, Leo.
 
 △ Leo身子一颤，低头伸手抓紧胸前带有Hunter体温的奖牌，将其重新塞回衣领里。他猛地转过身，Hunter大掌顺势一把揽紧他的后腰，将人往怀里狠狠拉近。
 
 △Leo抬眼看他。
 
-Leo（嘴角带笑，指尖勾了勾Hunter的衣领）：输了可别哭。
+Leo（嘴角带笑，指尖勾了勾Hunter的衣领）: Don’t cry when you lose.
 
 △ Hunter低笑了一声，大掌扣住Leo的后颈，大拇指指腹在Leo后颈皮肤上重重摩挲了两下，低头轻咬了一下他的下巴。
 
@@ -3022,11 +3028,11 @@ Leo（嘴角带笑，指尖勾了勾Hunter的衣领）：输了可别哭。
 
 △ Elowen站在他身后，抱着手臂，眼神冷漠。
 
-Hayes先生（声音压着，脸色沉）：现在签了它，跟这个草根队员断干净。所有赞助立刻恢复，否则明天决赛我会取消PCU参赛资格。
+Hayes先生（声音压着，脸色沉）: Sign it now and cut ties with that grassroots player completely. All sponsorship resumes immediately. Otherwise, I’ll have PCU disqualified from tomorrow’s final.
 
 △ Hunter往前站了半步，身躯挺拔，将身后湿透的Leo强硬地挡住。
 
-Hunter（语气平，每一个字都清楚）：你可以试试。你敢动PCU参赛资格，我就敢把你干预赛事、操控大学招生的所有证据发给MLB总部和本地媒体。
+Hunter（语气平，每一个字都清楚）: Go ahead and try. If you touch PCU’s eligibility, I’ll send every piece of evidence of you interfering with the tournament and rigging college admissions to MLB headquarters and the local media.
 
 △ Leo从Hunter身后探出手，修长的指尖顺着Hunter的后腰深入，沿着手臂侧面下滑，五指强硬地握住了Hunter紧握的手腕。
 
@@ -3034,7 +3040,7 @@ Hunter（语气平，每一个字都清楚）：你可以试试。你敢动PCU�
 
 △ Leo将Hunter微颤的手双手聚拢捧起来，直接贴在自己胸口处，抬眼看着他。
 
-Leo：“你心跳好快，别怕，我会一直陪着你的。”
+Leo: “Your heart’s pounding. Don’t be afraid—I’ll always be right here with you.”
 
 △ Hunter伸出手，强健的指尖从Leo的指缝间穿过去死死扣住，十指紧扣。随后他用力一把将人往怀里带了一步，两人的胸膛与下腹狠狠撞在一起，两个人的额头紧紧抵在一起，彼此唇齿间交合。
 
@@ -3056,11 +3062,11 @@ Leo：“你心跳好快，别怕，我会一直陪着你的。”
 
 △ Hunter长腿一迈走到通道中央，在Leo靠近的瞬间，直接一把抓过Leo的手掌，五指强硬地嵌进他的指缝中十指紧扣，猛地用力将Leo往自己怀里一拽，两人的胸膛、紧紧贴合在一起。Hunter另一只大掌顺势从背后揽住Leo的后腰，指尖隔着薄薄的球衣在他腰侧用力捏揉了一下。
 
-Hunter（语气冷，眼神却死死盯着Leo微张的红唇，滚烫的热气喷在他脸上）：场上我不会放水。
+Hunter（语气冷，眼神却死死盯着Leo微张的红唇，滚烫的热气喷在他脸上）: I won’t go easy on you out there.
 
 △ Leo被他贴身捏得身子一颤，耳根迅速变红，但在Hunter的掌心里毫不示弱地反握回去，指尖用力抓挠了一下Hunter的掌心，眼神带着野性与挑衅。
 
-Leo（挑眉）：谁要你让。
+Leo（挑眉）: Who asked you to hold back.
 
 △ Hunter低笑一声，扣在Leo腰上的手缓缓收回，十指紧扣的手指贴着Leo的指缝一点点抽离，指尖轻勾过Leo的掌心。
 
@@ -3074,9 +3080,9 @@ Leo（挑眉）：谁要你让。
 
 △Elowen站在通道拐角，帽檐压得很低，两人低声交谈。
 
-Northwood教练（压低声音）：动作要快，他那些球棒下午都在休息区放着，有人盯着就行。
+Northwood教练（压低声音）: Move fast. His bats will be sitting in the dugout this afternoon—just make sure someone’s watching.
 
-Elowen（声音更低）：我已经安排好了。你那边的人别暴露就行。
+Elowen（声音更低）: I’ve already taken care of it. Just make sure your people don’t get exposed.
 
 △ 两人分开，Northwood教练转身回去。
 
@@ -3116,17 +3122,17 @@ Elowen（声音更低）：我已经安排好了。你那边的人别暴露就�
 
 △ Leo刚戴上打击手套，三名穿CIF制服的工作人员走到WWC休息区前,为首的人手里举着一份打印文件，扬声器音量覆盖了半个球场。
 
-CIF工作人员（声音通过扩音器传遍全场）：我们接到实名举报，WWC队13号球员Leo Foster的球棒涉嫌违规改装,按照赛事规则，需要当场抽检。
+CIF工作人员（声音通过扩音器传遍全场）: We’ve received a named report that WWC player number 13, Leo Foster, may have illegally modified his bat. Per tournament rules, we need to conduct an on-the-spot inspection.
 
 △ WWC队员立刻围了上来，Sam冲到最前面。
 
-Sam（声音拔高，对工作人员）：他每天那么努力的训练，怎么可能违规！
+Sam（声音拔高，对工作人员）: He trains this hard every single day—how could he ever cheat!
 
 △ Leo从人群里走出来，抬手拦了一下Sam，他把自己的主战球棒从装备包里抽出来，双手递到工作人员面前。
 
 △ 蓝眼睛抬起来，视线平直。
 
-Leo（语气稳，没有情绪波动）：可以抽检，但如果结果没问题，我要求举报人公开道歉。
+Leo（语气稳，没有情绪波动）: Go ahead and inspect it. But if it comes back clean, I want a public apology from whoever filed the report.
 
 △ 工作人员接过球棒，放进检测箱，锁好。
 
@@ -3138,7 +3144,7 @@ Leo（语气稳，没有情绪波动）：可以抽检，但如果结果没问�
 
 △ Hunter穿过人群走到检测箱旁边，指尖敲了敲箱体外壳，声音不大但全休息区的人都听见了。
 
-Hunter（看向工作人员）：抽检流程按CIF规定走，全程录像留证，要是有人动手脚——组委会得给我们一个说法。
+Hunter（看向工作人员）: Run the inspection by CIF protocol, record everything on video. If anyone tampered with anything—the committee owes us an explanation.
 
 △ 工作人员看了他一眼，没有接话，抬着检测箱往裁判室方向走去。
 
@@ -3146,7 +3152,7 @@ Hunter（看向工作人员）：抽检流程按CIF规定走，全程录像留�
 
 △ 在宽大队服遮挡的阴影下，Hunter手掌顺着Leo侧腰一路下滑，指尖探进队服下摆轻捏他的腰肉，随后顺势下滑与Leo紧握的小手十指紧扣，用力将两人的手按在自己微硬的小腹上。
 
-Hunter（极低，嗓音低哑磁性）：别怕。
+Hunter（极低，嗓音低哑磁性）: Don’t be scared.
 
 △ Leo身体微微一颤，喉结吞咽了一下，耳根瞬间染上一抹红色。
 
@@ -3162,17 +3168,17 @@ Hunter（极低，嗓音低哑磁性）：别怕。
 
 △ CIF官员拿起电子秤称重，记下数字，抬头看向站在桌前的众人。
 
-CIF官员（语气公事公办）：球棒握柄内部嵌入金属配重，存在违规改装。
+CIF官员（语气公事公办）: The bat handle contains embedded metal weights, confirming an illegal modification.
 
 △ Leo站在桌前，视线落在托盘上那三粒金属上。
 
 △ WWC队长往前迈了一步。
 
-WWC队长（声音硬）：他绝不可能私自改装，我用我的职业生涯担保。
+WWC队长（声音硬）: He would never modify it himself. I’ll stake my career on that.
 
 △ 平时跟Leo关系一般的队员站在他旁边，点了下头。
 
-队员（声音够大）：他比谁都努力，没必要搞这种上不了台面的东西。
+队员（声音够大）: He works harder than anyone. He has no reason to pull something this disgraceful.
 
 43-2 日/内 决赛场地·赛事总监办公室
 
@@ -3182,11 +3188,11 @@ WWC队长（声音硬）：他绝不可能私自改装，我用我的职业生�
 
 △ Hunter没坐下，把一部手机放在桌上。
 
-Hunter（语气平，没有废话）：这根球棒在我的私人训练馆重量参数每次都有存档，从来没有改装过，我要求调取客队休息区上半场全部监控。
+Hunter（语气平，没有废话）: We have weight records for this bat from every session at my private facility. It was never modified. I want all first-half footage from the visiting team’s dugout.
 
 △ 赛事总监低头看了一眼手机屏幕上的记录，又看了一眼检测报告，沉默了两秒后拿起座机话筒。
 
-赛事总监（对对讲机）：把客队休息区的监控调出来。下半场开始前送过来。
+赛事总监（对对讲机）: Pull up the visiting team’s dugout surveillance. Have it delivered before the second half starts.
 
 43-3 日/内 决赛场地·裁判室
 
@@ -3194,11 +3200,11 @@ Hunter（语气平，没有废话）：这根球棒在我的私人训练馆重�
 
 △ 监控画面在笔记本电脑上播放。画面显示客队休息区空无一人，直到一个穿灰色工作人员制服的人从通道入口走进来，帽檐压低，他蹲在Leo装备包旁边。
 
-CIF官员（指着屏幕）：查一下这个人的通行证，这个时间段能进休息区的，都是登记在册的工作人员。
+CIF官员（指着屏幕）: Check this person’s pass. Everyone allowed into the dugout during that time should be a registered staff member.
 
-Hunter（站在屏幕旁边）：通行证编号能调出来么。
+Hunter（站在屏幕旁边）: Can you pull up the pass number?
 
-CIF官员（操作键盘）：这个编号是临时通行证，权限端口归属校董办公室。
+CIF官员（操作键盘）: It’s a temporary pass. The authorization portal belongs to the board’s office.
 
 △ Hunter站直身体，手插进口袋里，Hunter的舌头顶了一下左腮，又收回去了。
 
@@ -3212,19 +3218,19 @@ CIF官员（操作键盘）：这个编号是临时通行证，权限端口归�
 
 △ Tyler把Northwood教练堵在通道拐角处，两人之间隔着两步。
 
-Tyler（声音压着，直视他）：监控里那个人是咱们队的助理教练。
+Tyler（声音压着，直视他）: The person in the footage is our assistant coach.
 
 △ Northwood教练往后退了半步靠在墙上。
 
-Northwood教练（压低声音）：WWC被取消资格，我们就能顺位进决赛拿亚军，你的选秀评级至少能升一档。
+Northwood教练（压低声音）: If WWC is disqualified, we move into the final and take second place. Your draft grade will rise by at least one tier.
 
-Tyler（咬牙）：这事跟Elowen有关系吧。
+Tyler（咬牙）: Elowen is involved in this, isn’t she?
 
-Northwood教练（平静）：就算查出来，也查不到Northwood头上。
+Northwood教练（平静）: Even if they investigate, they won’t be able to trace it back to Northwood.
 
 △ Tyler站在原地，呼吸重了一拍，一拳打在Northwood教练身上。
 
-Tyler（愤怒）：要是被查出来，Northwood是会被禁赛的。
+Tyler（愤怒）: If this is exposed, Northwood will be suspended.
 
 44-2 日/内 决赛场地·赛事办公室
 
@@ -3232,17 +3238,17 @@ Tyler（愤怒）：要是被查出来，Northwood是会被禁赛的。
 
 △ 办公室里Hunter站在赛事总监桌前，两个人之间隔着一张桌子，赛事总监把一份人员通行记录推到Hunter面前。
 
-赛事总监（平静）：那个临时通行证是校董办公室批的，关联人名字写的是Elowen Voss的助理。
+赛事总监（平静）: The temporary pass was approved through the board’s office and linked to Elowen Voss’s assistant.
 
 Hunter拿起人员通行记录，仔细翻看
 
-Hunter：工作人员身份信息是伪造的，走的是校董通道，你们打算怎么处理。
+Hunter: The staff identity was forged and the pass went through the board’s channel. How are you handling this?
 
-赛事总监（靠向椅背，手指搭在桌面上）：比赛不能停，处理也需要时间。下半场马上开始了你先回去带队，我们这边继续查。
+赛事总监（靠向椅背，手指搭在桌面上）: The game can’t stop, and the investigation will take time. The second half is about to start. Go lead your team while we continue looking into it.
 
 △ Hunter转身走到门前，回头看着赛事总监。
 
-Hunter：我等你们一个结果。
+Hunter: I’ll wait for your answer.
 
 44-3 日/外 决赛场地·WWC休息区
 
@@ -3268,7 +3274,7 @@ Hunter：我等你们一个结果。
 
 △Leo坐在角落的折叠椅上，把打击手套叠好放在膝盖上，抬头看向站在门边的教练。
 
-Leo（语气平静，没有起伏）：就算我被禁赛，大家也好好打。
+Leo（语气平静，没有起伏）: Even if I’m suspended, play your best.
 
 △ WWC教练看着他。
 
@@ -3276,23 +3282,23 @@ Leo（语气平静，没有起伏）：就算我被禁赛，大家也好好打�
 
 △Tyler走到CIF官员面前拿出手机。
 
-Tyler（扬声）：举报是假的。球棒是Northwood助理教练改装的，是我教练让他干的。
+Tyler（扬声）: The report is false. Northwood’s assistant coach modified the bat, and my coach ordered him to do it.
 
 △ Tyler划开手机。
 
-Northwood教练（vo）：WWC被取消资格，我们就能顺位进决赛拿亚军，你的选秀评级至少能升一档。
+Northwood教练（vo）: If WWC is disqualified, we move into the final and take second place. Your draft grade will rise by at least one tier.
 
-Northwood教练（vo）：就算查出来，也查不到Northwood头上。
+Northwood教练（vo）: Even if they investigate, they won’t be able to trace it back to Northwood.
 
 △ Tyler把手机放在桌面上，退后半步。
 
-Tyler（看向Leo的方向）：我想赢球。但不想靠这种方式。
+Tyler（看向Leo的方向）: I want to win. But not this way.
 
 △ Northwood教练从通道冲进来，手伸向桌面上的手机。
 
 △ Hunter站在门口，侧身挡了一下，Northwood教练的手停在半空，CIF官员站起来。
 
-CIF官员（站起来，声音拔高）：控制相关人员。启动紧急调查。
+CIF官员（站起来，声音拔高）: Detain the people involved. Begin an emergency investigation.
 
 △ 两名工作人员上前拦住Northwood教练。
 
@@ -3312,7 +3318,7 @@ CIF官员（站起来，声音拔高）：控制相关人员。启动紧急调�
 
 △ CIF主席翻完最后一份文件。
 
-CIF主席（声音通过麦克风传向全场）：Northwood棒球队本赛季所有成绩取消。主教练禁赛五年，助理教练终身禁止所有赛事。Elowen Voss涉嫌利用职权干预赛事取消赛区所有赛事参与资格。
+CIF主席（声音通过麦克风传向全场）: Northwood’s results for this season are hereby voided. The head coach is suspended for five years, and the assistant coach is banned from all competitions for life. Elowen Voss is barred from all events in the division for abusing her position to interfere with the competition.
 
 △ 看台上掌声响起来。
 
@@ -3326,19 +3332,19 @@ CIF主席（声音通过麦克风传向全场）：Northwood棒球队本赛季�
 
 △ Leo他往前走了一步，站到Tyler面前两步远的位置。
 
-Leo（声音不高，只有两人能听到）：谢谢，但你为什么没把录音删了，你不是很讨厌我？
+Leo（声音不高，只有两人能听到）: Thanks. But why didn’t you delete the recording? Don’t you hate me?
 
 △ Tyler偏头看了一眼观众席的方向又转回来，
 
-Tyler：你太努力了不应该止步于此。
+Tyler: You’ve worked too hard to stop here.
 
 △Leo走到Tyler面前，轻轻抱住他。
 
-Leo：谢谢，期待我们在赛场再见。
+Leo: Thanks. I’ll see you on the field.
 
 △Tyler转身走远，挥了挥手。
 
-Tyler：再见，Leo
+Tyler: See you, Leo.
 
 △ Leo转身走向WWC休息区。
 
@@ -3348,7 +3354,7 @@ Tyler：再见，Leo
 
 △ Hayes夫人靠在椅背上。
 
-Hayes夫人（轻蔑）：真是上不了台面。
+Hayes夫人（轻蔑）: Absolutely pathetic.
 
 △ 她站起来，转身走向出口。
 
@@ -3362,11 +3368,11 @@ Hayes夫人（轻蔑）：真是上不了台面。
 
 △ Jake路过WWC休息区，脚步没停。
 
-Jake（边走边说，没有回头）：好好打。别输得太轻易。
+Jake（边走边说，没有回头）: Play well. Don’t lose too easily.
 
 △ 几名WWC队员起身，看向Jake离去的背影。
 
-WWC队员（朝着Jake的背影）：放心。肯定跟你们打到第九局。
+WWC队员（朝着Jake的背影）: Don’t worry. We’ll take you all the way to the ninth inning.
 
 △ Leo坐在休息区长凳上，上半身湿透的球衣勾勒着紧致的肌肉线条。他双手规整着打击手套，听到对话后抬眼看向通道尽头，湿润的下唇微微泛红。
 
@@ -3374,17 +3380,17 @@ WWC队员（朝着Jake的背影）：放心。肯定跟你们打到第九局。
 
 △ Hunter顺势将Leo狠狠按在身后的水泥墙壁上，修长强健的大腿顺势顶入Leo双腿之间，将他整个人死死固在自己怀里。Hunter俯下身，头深深埋进Leo的颈窝里，唇齿沿着他的脖颈皮肤重重碾磨。
 
-Leo：咬这么狠……刚才在场上体力没耗尽，现在想在这里把我吃了？
+Leo: Biting that hard… Did you not burn through all your energy on the field, and now you’re trying to eat me right here?
 
 △ Hunter的大掌从Leo球衣下摆直接探进去，沾着汗水的指尖沿着Leo紧绷的腹肌摸索，用力将他往自己怀里向上提了提。
 
-Leo（喘息）：属狗的……手往哪放？通道口随时会有人进来……
+Leo（喘息）: You animal… Where are your hands? Someone could walk past this tunnel any second…
 
 △ Hunter抬起头，重重吻住Leo的嘴角，舌尖扫过他的唇缝。
 
 △ Leo被他掐得腰背拱起，双臂死死抓紧Hunter的肩肉，张嘴重重咬在Hunter的下唇上，印出一道深红齿痕，随后用力推开Hunter半寸。
 
-Leo（双唇微肿，急促喘息，眼神野性）：你太卑鄙了，居然赛前扰乱对手心智。
+Leo（双唇微肿，急促喘息，眼神野性）: You’re so shameless, messing with your opponent’s head before the game.
 
 47-2 日/外 决赛场地·场内
 
@@ -3394,9 +3400,9 @@ Leo（双唇微肿，急促喘息，眼神野性）：你太卑鄙了，居然�
 
 △ Hunter抬手按了按自己被咬破的下唇，目光露骨又黏稠地停在Leo红肿的唇瓣与发红的侧颈上。
 
-Hunter（视线停在Leo脸上，声音带着沙哑）：现在拿出你全部实力，我们真正的比一场。
+Hunter（视线停在Leo脸上，声音带着沙哑）: Now give me everything you’ve got. Let’s really go head-to-head.
 
-Leo（轻笑，指尖在下巴上勾了勾）：你也用尽全力。
+Leo（轻笑，指尖在下巴上勾了勾）: You go all out too.
 
 △ 两人擦肩而过时，Hunter的指尖顺着Leo的掌心勾划过去，在虚空中缠绵地抠了抠 Leo的指缝。两人对视两秒，同步转身，分别走回己方队员区域，站在队伍前方整理站位。
 
@@ -3418,7 +3424,7 @@ Leo（轻笑，指尖在下巴上勾了勾）：你也用尽全力。
 
  △ Hunter站上投手丘。
 
-解说（VO）：决赛关键对局开启，王牌投手Hunter Hayes登板站位，本场防守压力直接拉满。
+解说（VO）: The pivotal matchup of the final begins. Ace pitcher Hunter Hayes takes the mound—defensive pressure is at an all-time high here.
 
 △ Caleb手套接住球发出闷响。
 
@@ -3430,37 +3436,37 @@ Leo（轻笑，指尖在下巴上勾了勾）：你也用尽全力。
 
 △ Hunter抬手投出下一球。球速快，贴草皮弹跳。
 
-解说（VO）：极速贴地滚球！刁钻低点位球路，极其考验游击手的反应速度！
+解说（VO）: An ultra-fast grounder hugging the grass! A nasty low ball path that really tests the shortstop’s reaction speed!
 
 △ Leo从游击位横移三步，身体朝右前方扑出去，手套贴地，球扣进手套里。他翻身屈膝站起，转体把球从手套里取出，抖腕传出。球越过垒包上空，被接住，发出一声脆响。
 
 △ 裁判举起右手。
 
-裁判（扬声，面向一垒方向）：出局！双杀！
+裁判（扬声，面向一垒方向）: Out! Double play!
 
-解说（VO）：双杀出局！关键回合完美防守，直接终结对手这一轮全部进攻机会！
+解说（VO）: Double play, inning over! Flawless defense in a crucial moment, snuffing out this entire scoring opportunity!
 
 △ 二垒跑者停下后低头看了Leo一眼，Leo从地面上站起来，左手撑了一下膝盖，低头拍掉左肩和膝盖上的红土。
 
 △ 全场观众起立，全场掌声尖叫响起。
 
-场内广播员（扬声器，语速快，激动）：游击手Leo Foster——扑接、起身、转体、传一垒！一次教科书级别的双杀守备！
+场内广播员（扬声器，语速快，激动）: Shortstop Leo Foster—dive, recover, pivot, throw to first! A textbook double play!
 
 △ Hunter站在投手丘上偏头看向Leo，
 
 △ Hunter收回视线走回投手丘，他弯腰捡起地面上的松脂粉袋，在手里攥了一下又放下。△ Caleb从本垒板后面站起来，把球扔回投手丘，球飞进Hunter手套里。
 
-Hunter（对着caleb方向，低声）：……他那下转体比以前快了半拍。
+Hunter（对着caleb方向，低声）: ……That pivot of his is half a beat faster than before.
 
 △ Caleb站起来，抖了抖接球的手套。
 
-Caleb（意外）：那颗球投到内角低，Leo咬住了。
+Caleb（意外）: That pitch rode inside and low—and Leo caught on.
 
-Hunter（接住球）：……他记住了。
+Hunter（接住球）: ……He remembered it.
 
 △ 他重新站上投手板，下巴上的汗滴落在胸口衣料上。
 
-Hunter（抬眼看了一下打击区的方向）：下一打席压外角。
+Hunter（抬眼看了一下打击区的方向）: Next at-bat, work the outside corner.
 
 △ 他站直身体，抬臂，手套抬到胸口高度，看向本垒板后面的打击区。
 
@@ -3478,7 +3484,7 @@ Hunter（抬眼看了一下打击区的方向）：下一打席压外角。
 
 △ Leo丢掉球棒跑过一垒，踩过二垒垒包时速度没有减。
 
-解说（VO）：比分成功反超！WWC凭借这一记关键长打，率先拿下赛场优势！
+解说（VO）: The score’s been flipped! WWC takes the edge with that clutch extra-base hit!
 
 △ Leo站在二垒垒包上抬头看向投手丘方向，与Hunter站在投手丘上扬起嘴角和Leo对视。
 
@@ -3494,7 +3500,7 @@ Hunter（抬眼看了一下打击区的方向）：下一打席压外角。
 
 △ WWC外野手后退，起跳，手套伸到最高点。
 
-WWC外野手（边捡球边喊）：接不到！
+WWC外野手（边捡球边喊）: Can’t reach it!
 
 △ 球擦过手套指尖飞出去，落在地面上。
 
@@ -3508,9 +3514,9 @@ WWC外野手（边捡球边喊）：接不到！
 
 △ Caleb 击球，球飞出后落地滚动到围墙，他快速跑垒，绕过二垒直冲三垒。
 
-解说（VO）：下半局关键进攻回合，PCU率先发力，Caleb这记长打顺利推进垒上得分机会。
+解说（VO）: Key offensive sequence in the bottom half—PCU strikes first, and Caleb’s big hit pushes the runners into scoring position.
 
-裁判（大声）：安全上垒！
+裁判（大声）: Safe!
 
 △ PCU 下一名打者站上打击区，第一球直接挥棒，将球打向右外野高空。
 
@@ -3520,17 +3526,17 @@ WWC外野手（边捡球边喊）：接不到！
 
 △ Caleb 撑地起身，拍掉膝盖泥土，回身朝 PCU 队友抬了抬下巴示意。
 
-PCU 队员（场内大喊）：比分平了！
+PCU 队员（场内大喊）: Score’s tied!
 
-解说（vo）：目前豪门战队 PCU 和草根队 WWC，二比二分数持平。
+解说（vo）: As it stands, powerhouse PCU and underdog WWC are dead even at two-two.
 
 △ WWC 捕手起身捡起地上的球，扔回投手丘。
 
-WWC 捕手（对着场内喊话）：调整状态，再来！
+WWC 捕手（对着场内喊话）: Settle down, let’s go again!
 
 △ Leo 站在游击位置，弯腰撑住膝盖短暂调整身体状态。
 
-解说（VO）：比分被扳平，赛场局势彻底胶着，每一名防守队员都必须快速调整心态，稳住后续攻防。
+解说（VO）: The score’s been evened up and the game is now a deadlock. Every defender has to settle their mind fast and hold steady for the rest of the way.
 
 49-2 日 / 外 决赛场地
 
@@ -3538,11 +3544,11 @@ WWC 捕手（对着场内喊话）：调整状态，再来！
 
 △ PCU 打者击球，球滚向游击方向，落点刁钻。Leo 横向移动接球，起身顺势传球送向一垒。
 
-解说（VO）：这一球落点极其刁钻，专门针对游击防守薄弱点，Leo反应迅速，移动接球传球一气呵成！
+解说（VO）: That ball lands in a nasty spot, aimed right at the shortstop’s weak point—Leo reacts in an instant, fielding and throwing in one fluid motion!
 
 △ WWC 一垒手稳稳接住来球，转头看向 Leo。
 
-WWC 一垒手（扬声）：接住了！Leo!
+WWC 一垒手（扬声）: Got it! Leo!
 
 △ 裁判抬手示意比赛进入延长赛。
 
@@ -3552,7 +3558,7 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 人物：Leo Foster、Hunter Hayes、裁判、观众、WWC 教练、解说
 
-解说（vo）：Hunter 连续三振 WWC 前两名打者，压制住对方进攻节奏。
+解说（vo）: Hunter strikes out WWC’s first two batters in a row, shutting down their offensive rhythm.
 
 △ WWC 教练站在场边围网旁，看完场内局势，转头看向休息区的 Leo。
 
@@ -3566,7 +3572,7 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 △ 棒球带着风声直奔本垒内角。
 
-解说（VO）：招牌内角速球出击！这是Hunter最具杀伤力的投球，Leo将迎来全场最严峻的考验！
+解说（VO）: His signature inside-corner fastball is coming! It’s Hunter’s most devastating pitch, and Leo faces the toughest test of the game!
 
 【第四十九集完】
 
@@ -3578,7 +3584,7 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 △ Hunter投出的棒球直奔本垒内角，速度极快。
 
-解说（VO，紧绷急促）：延长赛决胜回合！Hunter Hayes祭出招牌内角速球，这一球的速度和角度极具压制力！
+解说（VO，紧绷急促）: The deciding exchange of extra innings! Hunter Hayes unleashes his signature inside-corner fastball—the speed and angle are overwhelming!
 
 △ Leo目光紧紧锁定飞来的棒球。
 
@@ -3588,11 +3594,11 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 △ 棒球直接越过外野全垒打墙，落地出界，赛场爆发出震天动地的欢呼声。
 
-解说（VO，高亢炸裂）：全垒打！绝杀全垒打！皮球飞出全垒打墙，比赛局势彻底逆转！
+解说（VO，高亢炸裂）: Home run! A walk-off home run! The ball clears the outfield wall and completely flips this game on its head!
 
 △ Hunter抬头望着棒球飞出的方向，嘴角缓缓勾起一抹浅淡的笑意。
 
-解说（VO，紧张提速）：关键延长赛对决，面对Hunter Hayes的内角绝杀速球，Leo Foster顶住了全场压力！
+解说（VO，紧张提速）: The decisive extra-innings showdown—against Hunter Hayes’s killer inside-corner fastball, Leo Foster stood tall under all the pressure!
 
 50-2 日/外 决赛场地
 
@@ -3602,7 +3608,7 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 △ Hunter站在投手丘上，摘下棒球帽，举起来朝他的方向鼓了鼓掌。
 
-解说（VO，激昂洪亮）：一球定胜负！这记漂亮的中外野全垒打，直接改写场上局势！绝杀全垒打！恭喜WWC拿下本次南区总决赛的冠军！
+解说（VO，激昂洪亮）: One swing decides it all! That gorgeous center-field home run rewrites the game in an instant—a walk-off blast! Congratulations to WWC for taking the Southern Division Championship!
 
 △ 队友从休息区冲出来涌向二垒方向。
 
@@ -3630,21 +3636,21 @@ WWC 一垒手（扬声）：接住了！Leo!
 
 △ Jake穿过人群走到Leo面前，拳头伸出来，Leo抬手碰了一下他的拳面。
 
-Jake（语气平，嘴角带着一点弧度）：那记全垒打够漂亮，下次职业赛场遇上，我可会拼尽全力。
+Jake（语气平，嘴角带着一点弧度）: That homer was a beauty. Next time we meet in the pros, I’m coming at you with everything I’ve got.
 
-Leo（笑着）：期待，赛场再见。
+Leo（笑着）: Looking forward to it. See you on the field.
 
 △ Jake笑了一声，转身走回PCU队伍里。
 
 △ Caleb经过时朝Leo挤了一下眼，没停步，跟着队伍走了。
 
-△ Hunter从通道侧面走出来，一把把Leo拉到通道拐角的墙壁后面，其他人看不见的位置。Hunter（声音带笑，压着）：冠军先生，夺冠了就不认人了？刚才绕场看都不看我一眼。
+△ Hunter从通道侧面走出来，一把把Leo拉到通道拐角的墙壁后面，其他人看不见的位置。Hunter（声音带笑，压着）: Mr. Champion, too famous to know me now that you won? You didn’t even look at me once during the victory lap.
 
 △ Hunter往前倾了半步，伸手扣住Leo的后颈，低头吻了下去。
 
 △ Leo呼吸顿了一秒，随后抬手环住住Hunter后颈，微微仰头回应这个吻。他稍微喘着气推开Hunter的胸口。
 
-Hunter（低笑）：下周见，Leo
+Hunter（低笑）: See you next week, Leo
 
 △ Hunter直起身，最后用拇指指腹在Leo唇角蹭了一下，转身离开。
 
@@ -3652,7 +3658,7 @@ Hunter（低笑）：下周见，Leo
 
 人物：Hunter Hayes
 
-△ Hunter坐在床沿，手机屏幕亮着父亲的消息：“下周回家谈选秀的事，别带外人。”
+△ Hunter坐在床沿，手机屏幕亮着父亲的消息: “Come home next week to talk about the draft. Don’t bring anyone else.”
 
 △ Hunter把手机锁屏放在床头柜上。
 
@@ -3662,7 +3668,7 @@ Hunter（低笑）：下周见，Leo
 
 △ Leo坐在床边，看着手机。
 
-Leo（低声）：排名涨了二十位……这不对劲。
+Leo（低声）: My ranking jumped twenty spots… That doesn’t add up.
 
 【第五十一集完】
 
@@ -3676,23 +3682,23 @@ Leo（低声）：排名涨了二十位……这不对劲。
 
 △ Leo跨步上前，强硬地逼近，把手机屏幕直接塞到Hunter面前，几乎贴上他的鼻尖与唇瓣。
 
-Leo（大声，微喘）：我的名次一下子涨了二十位！你到底做了什么？
+Leo（大声，微喘）: My ranking shot up twenty spots all at once! What did you do?
 
 △ Hunter抬眼笑了一声，大掌猛地伸出，直接扣住Leo的后腰，用力一拉，强硬地将Leo整个人拽进自己腿间。Leo身子不稳，双手下意识撑在Hunter光洁的胸膛上。
 
-Hunter（语气无起伏，大掌顺着Leo的裤腰摸索）：你决赛那记全垒打，半决赛的双杀防守，十几支球队的球探都在现场看，这是你自己打出来的，跟我没关系。
+Hunter（语气无起伏，大掌顺着Leo的裤腰摸索）: Your walk-off homer in the final, that double play in the semis—scouts from a dozen teams were all there watching. You earned that yourself. It has nothing to do with me.
 
 △ Leo被他按在怀里，下意识想要往后退半步，却被Hunter横在后腰的手臂死死扣住。Hunter顺势向前顶跨，膝盖强硬地撑开Leo的双腿。
 
 △ Hunter低头，薄唇贴在Leo的耳廓上轻咬了一下，大掌直接探进Leo的球衣下摆。
 
-Hunter（低哑带笑）：不过，你刚才离我这么近……是想让我做什么？嗯？
+Hunter（低哑带笑）: Though… you leaning in that close just now—what were you trying to get me to do? Hm?
 
 △ Leo被他揉得身子发麻，耳根到脖颈迅速染上一层粉红，呼吸变得急促。
 
 △ Leo低头翻了几页球探报告，扬起嘴角，眼神亮得发烫。
 
-Leo（声音微喘，凑上去在Hunter下巴上重重咬了一口）：我们太强了。
+Leo（声音微喘，凑上去在Hunter下巴上重重咬了一口）: We’re just too good.
 
 52-2 日/内 Hayes家书房
 
@@ -3704,15 +3710,15 @@ Leo（声音微喘，凑上去在Hunter下巴上重重咬了一口）：我们�
 
 △ Hayes先生把意向函推到桌子中央。
 
-Hayes先生（平淡）：国联大都会队我打过招呼了，首轮第三顺位签你，你是重点培养对象。
+Hayes先生（平淡）: I’ve already talked to the NL Mets. They’ll take you at third overall in the first round—you’re their priority prospect.
 
 △ Hunter低头看了一眼意向函，抬眼看向Hayes先生，手肘撑在椅子扶上，语气冷硬。
 
-Hunter（平静）：我的顺位靠球速和三振率换的，不靠人脉。去哪支球队我也可以自己选。
+Hunter（平静）: My draft spot was earned with fastball speed and strikeout rate, not connections. I can pick whichever team I want on my own.
 
 △ 父子两人隔着桌子冷冷对视。
 
-Hayes先生（语气冷，话音沉）：你自己选的路，走砸了别回来哭。
+Hayes先生（语气冷，话音沉）: It’s the path you chose. If you tank it, don’t come crying back.
 
 △ Hunter站起来，没有拿那份意向函，转身走向门口，推门离开。
 
@@ -3722,7 +3728,7 @@ Hayes先生（语气冷，话音沉）：你自己选的路，走砸了别回来
 
 △ Leo走出训练馆正门，阳光斜照在脸上。手机在口袋里震了一下，他掏出来扫了一眼。
 
-Hayes先生（VO）：周末见个面
+Hayes先生（VO）: Let’s meet this weekend
 
 △ Leo站在门口的台阶上，盯着那行字看了几秒，面无表情地把手机锁屏放回口袋里。
 
@@ -3736,11 +3742,11 @@ Hayes先生（VO）：周末见个面
 
 △ Hayes先生坐在对面，面前放着一杯没动过的黑咖啡，西装外套搭在椅背上。Leo坐在他对面，背脊挺直，手里没有拿任何东西。
 
-Hayes先生（开门见山，指尖轻轻敲着桌面）：我不反对你们来往，但你不能拖他后腿。你家境普通，天赋算不错，但远没到能跟他并肩的地步。
+Hayes先生（开门见山，指尖轻轻敲着桌面）: I don’t mind you two seeing each other, but you can’t hold him back. Your family is ordinary, and your talent is decent—but nowhere near enough to stand shoulder to shoulder with him.
 
 △ Leo直视Hayes先生，眼神清亮坚毅。他微微靠向椅背，双手自然搭在桌沿，没有半点低头躲闪的意思。
 
-Leo（声音稳而沉）：选秀我自己考，职业路我自己打。他选不选豪门球队是他的事，但我绝对不会因为这个离开他。
+Leo（声音稳而沉）: I’ll take the draft myself and carve out my own pro career. Whether he picks a big-market team is his call, but I will never leave him because of this.
 
 △ Hayes先生敲击桌面的手指停在了半空。
 
@@ -3762,23 +3768,23 @@ Leo（声音稳而沉）：选秀我自己考，职业路我自己打。他选�
 
 △ Leo微微喘着气，双臂收紧，伸手死死环住Hunter赤裸的狭窄腰身，身躯无缝贴合在一起。
 
-Hunter（声音低哑微喘）：我爸找你谈了什么。
+Hunter（声音低哑微喘）: What did my dad talk to you about.
 
 △ Leo指尖在Hunter后腰的凹陷处用力掐了一下，微喘着开口。
 
-Leo（喘气，唇瓣湿红）：他让我别拖你后腿。
+Leo（喘气，唇瓣湿红）: He told me not to hold you back.
 
 △ Hunter皱了一下眉，身形向前逼近半步，大腿在Leo腿间用力向上顶了顶，将Leo更深地固在怀里。
 
-Hunter（眼神发沉）：你一个人去的？
+Hunter（眼神发沉）: You went alone?
 
 △ Leo抬眼看他，蓝眼睛里荡着水汽与不屈的野性，嘴角勾起一抹挑衅的弧度。
 
-Leo（抬眼看他）：我应付得来。
+Leo（抬眼看他）: I can handle it.
 
 △ Hunter掌心收紧，伸手强硬地扣住Leo的手腕，按在自己胸口上
 
-Hunter（伸手扣住Leo的手腕）：下次告诉我。我爸那边我去说。明天带你去康复室看一下
+Hunter（伸手扣住Leo的手腕）: Tell me next time. I’ll handle my dad. Tomorrow I’ll take you to the rehab room.
 
 【第五十三集完】
 
@@ -3792,19 +3798,19 @@ Hunter（伸手扣住Leo的手腕）：下次告诉我。我爸那边我去说�
 
 △ Hunter倾身俯下，嘴唇贴在Leo肩膀侧面裸露的皮肤上，指尖揉压着肩膀，顺势向下滑到胸膛侧面。
 
-Leo（偏头看他，声音里带着一点意外，喉结微动）：……你什么时候学的这个。
+Leo（偏头看他，声音里带着一点意外，喉结微动）: ……When did you learn to do this.
 
 △ Hunter没有抬头，手掌覆在Leo紧绷的后背上用力按压揉捏。
 
-Hunter（声音低哑）：上次你伤完我翻了三天理疗手册。
+Hunter（声音低哑）: After you got hurt last time, I read three days’ worth of physical therapy manuals.
 
 △ Leo肩部绷了一下又松开，顺势往后靠在Hunter炽热的胸膛上，声音低下去，带着一丝微喘。
 
-Leo：你爸说的时候我没慌。
+Leo: I didn’t flinch when your dad was talking to me.
 
 △ Hunter的手指停了一下，指尖探入Leo的裤腰边缘揉捏了一把，随后继续向上按压肩伤，声音平但尾音短，带着不容置疑的霸道。
 
-Hunter：以后这种事告诉我。不用你一个人扛。我爸那边我去说——你专心准备选秀就行。
+Hunter: Tell me about this kind of thing from now on. You don’t have to carry it alone. I’ll handle my dad—you just focus on the draft.
 
 54-2 日/内 Hunter私人训练馆
 
@@ -3814,19 +3820,19 @@ Hunter：以后这种事告诉我。不用你一个人扛。我爸那边我去�
 
 △ Hunter低头将脸埋进Leo湿热的耳根与颈窝里，指尖在大腿根部发力按揉，顺势向上
 
-Hunter（低头在Leo耳边开口，声音沙哑带笑）：今天医生说恢复情况怎么样。
+Hunter（低头在Leo耳边开口，声音沙哑带笑）: What did the doctor say about your recovery today.
 
 △ Leo身体剧烈一颤，肌肉瞬间紧绷，双腿下意识想要合拢却被Hunter的膝盖强硬顶开，呼吸乱了一瞬，嗓音微喘。
 
-Leo：……比预期快。明天就能去投球机那试投。
+Leo: ……Faster than expected. I can try the pitching machine tomorrow.
 
 △ Hunter的指尖彻底深入短裤边缘，在内侧泛红的皮肤上用力按揉，大腿强硬地向上顶了顶。
 
-Hunter（贴着Leo的耳廓）：等你彻底好了，有的是力气折腾。
+Hunter（贴着Leo的耳廓）: Once you’re fully recovered, you’ll have plenty of energy to spare.
 
 △ Leo反手用弹力带缠住Hunter的脖子往后拽，额头青筋微微跳动，呼吸急促。
 
-Leo（警告，声音低哑）：松手，训练呢。
+Leo（警告，声音低哑）: Let go. We’re training.
 
 △ Hunter不仅没松，反而低笑了一声，胸膛震动。他顺势将人直接往怀里强硬一拽，单手扣住Leo的两只手腕反剪在身后，Leo整个湿透的后背与紧绷的臀部彻底贴死在自己炽热的胸口与下腹。Hunter低头重重咬住Leo的嘴唇，舌尖撬开他的唇齿深吻。
 
@@ -3834,15 +3840,15 @@ Leo（警告，声音低哑）：松手，训练呢。
 
 △ Leo喘着气，靠在Hunter怀里，伸手掰着手指数，视线落在围网顶端。
 
-Leo：要是能选到同区就好了。休赛期还能一起合练。
+Leo: It’d be great if we could land in the same division. Then we could train together during the offseason.
 
 △ Hunter侧头看他，嘴唇蹭过他的脸颊。
 
-Hunter：同区算什么，以后还要一起打全明星赛。
+Hunter: Same division’s nothing. We’ll play in the All-Star Game together after this.
 
 △ Leo转头看向Hunter，眼神泛着光亮与坚定。
 
-Leo：好。
+Leo: Okay.
 
 54-3 夜/内 WWC教练办公室
 
@@ -3850,11 +3856,11 @@ Leo：好。
 
 △ Leo站在教练桌前，领口拉链稍微拉低，露出颈窝深处的几道浅红印记。教练把屏幕转过来给他看。
 
-WWC教练（指了指屏幕上的排名位置）：你今年打的比赛球探都看在眼里。你的名字不会掉出去，但要再接再厉。
+WWC教练（指了指屏幕上的排名位置）: The scouts saw everything you did this year. Your name won’t fall off the list—just keep pushing.
 
 △ Leo看着屏幕，手指在桌沿上轻轻搭了一下，眼神清亮坚毅。
 
-Leo（颔首）：我知道的。
+Leo（颔首）: I know.
 
 【第五十四集完】
 
@@ -3870,23 +3876,23 @@ Leo（颔首）：我知道的。
 
 △ Hunter拉开易拉罐的拉环，发出干脆的清脆声响。他将汽水递到Leo手边，指尖顺势沿着Leo湿热的掌心划过，顺着手腕下滑，轻捏着他的脉搏。
 
-Hunter（低头凑近，声音带着沙哑）：怕选不上？
+Hunter（低头凑近，声音带着沙哑）: Scared you won’t get drafted?
 
 △ Leo接过汽水，没有喝，低头看着冰凉的铝罐。Hunter的大掌顺势覆在他抓着罐身的手背上，滚烫的热气尽数喷在Leo侧颈里。
 
-Leo（喉结微动，声音微喘）：……没有。
+Leo（喉结微动，声音微喘）: ……No.
 
 △ Hunter顺势伸臂揽住Leo的狭窄后腰，大掌直接探进Leo的短袖下摆，，贴着他的耳边低语。
 
-Hunter（侧过身，嘴唇贴着他的耳廓轻咬）：真选不上也没事。独立联盟我有熟人，咱们一起去打首发——横扫小联盟不比大联盟酷？
+Hunter（侧过身，嘴唇贴着他的耳廓轻咬）: Even if you don’t get drafted, it’s fine. I’ve got connections in the independent league—we’ll go start together. Sweeping the minors isn’t cooler than the big leagues?
 
 △ Leo偏头瞪他，腰侧被揉按得一阵酥麻，身子发软，呼吸变得急促，声音拔高了一点。
 
-Leo（咬牙）：谁要你走后门。我肯定能选上。
+Leo（咬牙）: Who needs you pulling strings for me. I’m definitely getting drafted.
 
 △ Hunter低笑了一声，胸膛紧贴着Leo的侧背剧烈震动。他伸手揉乱Leo的白金卷发，五指顺势扣住Leo的后颈，强硬地将人按向自己，低头在Leo额头上深深吻了一下，嘴唇沿着鼻梁一路顺势下滑，停在唇缝间。
 
-Hunter（退开半寸，两人的唇瓣几乎碰在一起）：我知道你能。从第一次在打击笼见你，就知道你能打出来。不管你去哪支球队，我都等你在赛场上见。
+Hunter（退开半寸，两人的唇瓣几乎碰在一起）: I know you can. I knew it from the first time I saw you in the batting cage—that you’d make it. No matter which team you go to, I’ll wait to meet you on the field.
 
 △ Leo低头看着膝盖上横着的球棒，指尖在皮质握柄上慢慢摩擦，耳根透着诱人的粉红。
 
@@ -3896,29 +3902,29 @@ Hunter（退开半寸，两人的唇瓣几乎碰在一起）：我知道你能�
 
 △ Leo靠向身后的门框，偏头看了一眼夜色里的天空，身子顺势往Hunter怀里贴了贴，两人的大腿在台阶上紧紧缠在一起。
 
-Leo（声音低哑微喘）：你第一次在打击笼见我的时候，其实没想留我打球吧。
+Leo（声音低哑微喘）: When you first saw me in the batting cage, you never actually meant to let me play, did you.
 
 △ Hunter侧头看他，大掌直接从Leo的裤腰边缘深入，指尖狠狠揉捏着他的肌肉线条，嘴角勾起一抹坏笑。
 
-Hunter（嘴唇贴着他的颈窝蹭拭）：想留。不然不会给你一分钟。
+Hunter（嘴唇贴着他的颈窝蹭拭）: I did want to keep you. Otherwise I wouldn’t have given you that one minute.
 
 △ Leo被他揉得身子微微打颤，轻笑了一声。
 
-Leo（笑了一声）：那天觉得你是个混蛋。觉得你仗着PCU的名头看不起人。
+Leo（笑了一声）: That day I thought you were a real asshole. I thought you looked down on people just because of the PCU name.
 
 △ Hunter转回头，视线落在前方的路灯上，手掌在Leo后腰凹陷处用力按压，将他往自己胯间向上提了提，两人的下腹毫无缝隙地挤压贴合在一起。
 
-Hunter（贴着他的耳根，语气带着低沉的侵略性）：那天觉得你挺能撑的。一般人第三颗球就松手了。
+Hunter（贴着他的耳根，语气带着低沉的侵略性）: That day I thought you could take a beating. Most people would’ve let go by the third pitch.
 
 △ 两个人安静了一会儿，夜风吹过。Leo把球棒立起来，棒尾在水泥台阶上用力压了压，发出清脆的撞击声。
 
 △ Hunter偏头看着他，手掌顺势抓住Leo握着球棒的手，五指强硬地嵌入他的指缝间十指紧扣。
 
-Hunter（声音低沉沙哑，眼神炽热霸道）：明天有结果了，更何况我在呢，别怕。
+Hunter（声音低沉沙哑，眼神炽热霸道）: The result comes tomorrow—and I’m right here anyway. Don’t be scared.
 
 △ Leo转头看他，重重点头。
 
-Leo（点头）：嗯。
+Leo（点头）: Mm.
 
 【第五十五集完】
 
@@ -3932,19 +3938,19 @@ Leo（点头）：嗯。
 
 △ Hunter站在PCU队列前排，学士帽戴得有点歪。他在人群中直白地盯着Leo，长腿迈开走到Leo身后，借着宽大学士袍的遮挡，大掌直接探入Leo的学士袍内侧，顺着裤腰狠狠揉捏了一把Leo发烫的腰肉，贴在他耳边低喘着气。
 
-Hunter：没想到你穿学士服也这么性感。
+Hunter: I didn’t think you’d look this hot in a cap and gown.
 
 △Leo拍开Hunter的手
 
-Leo：谁有第一投球手一半帅气
+Leo: Not half as handsome as my ace pitcher.
 
 △ 散场时Caleb穿过人群跑到Hunter和Leo旁边，拉住两个人往礼堂门口走，让路过的一个队员帮忙拍照。
 
-Caleb（退后两步站在手机后面，笑着）：靠近点！别挡脸！以后你俩都是职业球员了，别忘了带我蹭大联盟的观众席。
+Caleb（退后两步站在手机后面，笑着）: Get closer! Don’t block your faces! Once you two are pro players, don’t forget to let me mooch off your big-league seats.
 
 △ Hunter在拍照瞬间猛地搂紧Leo的狭窄后腰，将人强硬地往怀里一带，Hunter的指尖贴着Leo的胯骨发力揉按。
 
-Leo（笑着，顺势偏头靠在Hunter的肩上，声音微喘）：那当然。
+Leo（笑着，顺势偏头靠在Hunter的肩上，声音微喘）: Of course.
 
 △ 快门声响起，照片定格在两人相对的瞬间。
 
@@ -3956,17 +3962,17 @@ Leo（笑着，顺势偏头靠在Hunter的肩上，声音微喘）：那当然�
 
 △ Leo弯腰从地上捡起一根旧球棒，学士袍下摆随之滑落，露出紧致的大腿线条。他握紧球棒，比划了一下挥棒的姿势，眼神带着笑意。
 
-Leo（笑着，看向身边的人）：第一次来这儿的时候，你一记速球擦我耳边过。我当时心想，这人怎么这么凶。
+Leo（笑着，看向身边的人）: The first time I came here, one of your fastballs zipped right past my ear. I remember thinking, this guy’s so mean.
 
 △ Hunter靠在网笼的金属围网上，大腿微张，双手插在裤兜里，眼神死死咬住Leo贴着学士袍拉紧的腰臀线条。
 
-Hunter（靠在围网上，眼神放光，声音低哑）：那你现在觉得呢？
+Hunter（靠在围网上，眼神放光，声音低哑）: And what do you think now?
 
 △ Leo放下球棒，发出一声闷响。他迈开长腿朝Hunter走了两步，直接踏入Hunter双腿之间，站到他面前。
 
 △ Leo伸手一把抓紧Hunter学士袍的领口，将人拉向自己，双唇几乎贴在一起，热气喷撒在彼此唇齿间。
 
-Leo（眼神泛着潮气与野性）：现在觉得——幸好当初发错了消息。
+Leo（眼神泛着潮气与野性）: Now I think—thank god I sent that message to the wrong person.
 
 △ Leo微微踮脚，贴上去碰了一下Hunter的嘴唇。
 
@@ -3984,9 +3990,9 @@ Leo（眼神泛着潮气与野性）：现在觉得——幸好当初发错了�
 
 △Leo攥着手里没打开的可乐罐，指节发白，铝罐侧面被捏出一排指印。
 
-主持人（vo）：第四顺位——国联西区球队选择——Hunter Hayes，来自PCU高中的右投手。△房间瞬间爆发出欢呼，有人从沙发跳起来拍手。
+主持人（vo）: With the fourth overall pick—the NL West team selects—Hunter Hayes, the right-handed pitcher from PCU High. △房间瞬间爆发出欢呼，有人从沙发跳起来拍手。
 
-Sam：中了！第五顺位！快看直播！
+Sam: He got it! Fourth pick! Watch the live stream!
 
 △ Leo坐在地毯上没有动，手里已经被捏得变形的铝罐发出一声轻微的脆响
 
@@ -3994,7 +4000,7 @@ Sam：中了！第五顺位！快看直播！
 
 △Sam站在Leo旁边，手拍了一下Leo的肩膀。
 
-Sam（笑着）：他看的是镜头这边的你。
+Sam（笑着）: He’s looking right at you on this side of the camera.
 
 △ Leo坐在地板上没有站起来，手里铝罐被捏瘪了。
 
@@ -4004,7 +4010,7 @@ Sam（笑着）：他看的是镜头这边的你。
 
 △Leo的手机在膝盖旁边震了一下，他低头看了一眼。
 
-Hunter（vo）：快到你了，别紧张。我在这儿等你好消息。
+Hunter（vo）: It’s almost your turn. Don’t be nervous. I’m right here waiting for your good news.
 
 △Leo攥着手机。
 
@@ -4018,23 +4024,23 @@ Hunter（vo）：快到你了，别紧张。我在这儿等你好消息。
 
 △ 电视屏幕上的选秀名单继续滚动。
 
-主持人（vo）：Leo Foster，来自WWC高中的游击手——被美联西区某球队选中。
+主持人（vo）: Leo Foster, the shortstop from WWC High—selected by an AL West team.
 
 △几个队友扑上来把Leo从地板上拽起来晃
 
-Sam(拍着他的后背喊了一嗓子):我就知道你可以。
+Sam(拍着他的后背喊了一嗓子): I knew you could do it.
 
 △Leo被挤在人群中间，他攥着手机从人缝里挤出来，拨通了Hunter的电话.
 
-Leo：我选上了！同区！我们真的同区！
+Leo: I got drafted! Same division—we’re really in the same division!
 
-Hunter（vo）：我听到了。刚跟球队经理打听到你们队春训就在隔壁城市，Leo，恭喜你。你做到了。
+Hunter（vo）: I heard. I just found out from your team’s GM that spring training is in the city right next door. Leo, congratulations. You did it.
 
 △ Leo靠在冰凉的瓷砖墙上，双腿由于方才的紧绷而隐隐发软。他松开领口的一颗纽扣。
 
-Leo：你在哪？现在过来，还是我去找你？
+Leo: Where are you? Come here, or should I go to you?
 
-Hunter（vo，声音陡然沉了下去，带着不加掩饰的哑意）：别动，在门口等我。五分钟。
+Hunter（vo，声音陡然沉了下去，带着不加掩饰的哑意）: Don’t move. Wait for me at the door. Five minutes.
 
 58-2 夜/外 WWC主场场边
 
@@ -4042,11 +4048,11 @@ Hunter（vo，声音陡然沉了下去，带着不加掩饰的哑意）：别动
 
 △ Hunter牵着Leo的手沿着跑道走，路灯把影子投在红色跑道上，两个影子紧紧交叠挨在一起。
 
-Hunter（没有转头，声音带着酒后的倦意与低哑）：对了，明天的新闻标题应该是“WWC黑马游击手次轮入选”。
+Hunter（没有转头，声音带着酒后的倦意与低哑）: Oh, right—tomorrow’s headline should be “WWC’s Dark-Horse Shortstop Selected in the Second Round.”
 
-Leo（偏头看他，眼神热烈）：……你今天在现场穿的那件西装，你从来没穿过。
+Leo（偏头看他，眼神热烈）: ……That suit you wore at the venue today—you’ve never worn it before.
 
-Hunter（偏头看了他一眼，顺势用拇指蹭了蹭Leo的掌心）：怕万一镜头扫过来，不能穿得太随便。
+Hunter（偏头看了他一眼，顺势用拇指蹭了蹭Leo的掌心）: In case the camera panned over, I couldn’t show up looking too casual.
 
 △ 两人走过昏暗的打击笼门口时，Leo突然停住脚步，反手扣住Hunter的手腕，用力一拉，顺势将人往阴影里一拽。
 
@@ -4056,7 +4062,7 @@ Hunter（偏头看了他一眼，顺势用拇指蹭了蹭Leo的掌心）：怕�
 
 △ 两个人走过打击笼门口时，Leo停住脚步，松开了Hunter的手，脸颊微红，呼吸带着一丝微喘。
 
-Leo（偏头看向黑暗中的打击笼，声音低了一个调）：……想进去再打几球。
+Leo（偏头看向黑暗中的打击笼，声音低了一个调）: ……I want to go in and hit a few more.
 
 【第五十八集完】
 
@@ -4074,13 +4080,13 @@ Leo（偏头看向黑暗中的打击笼，声音低了一个调）：……想�
 
 △ Leo头发乱糟糟的，白金卷发被汗水黏在额头上，蓝眼睛湿润亮得发烫。
 
-Leo（低头看着屏幕，声音轻而喘）：那时候总觉得能打上D1就已经很厉害了。没想到现在……
+Leo（低头看着屏幕，声音轻而喘）: Back then I thought just making D1 would already be amazing. Never imagined now…
 
 △ Hunter从身后走过来，直接从背后贴身抱住他，下巴抵在他的发顶上，手臂强硬地环在他紧绷的胸口前面，声音低哑磁性。
 
-Hunter（嘴唇贴着他的发顶）：还没结束。以后还有大联盟、全明星赛、世界大赛。我们都要一起打。
+Hunter（嘴唇贴着他的发顶）: It’s not over yet. There’s still the majors, the All-Star Game, the World Series. We’ll play in all of them together.
 
-Leo（偏头微笑，后脑勺抵着他的肩膀）：迟早。
+Leo（偏头微笑，后脑勺抵着他的肩膀）: Soon enough.
 
 59-2 夜/内 高中打击笼
 
@@ -4090,11 +4096,11 @@ Leo（偏头微笑，后脑勺抵着他的肩膀）：迟早。
 
 △ Hunter的大腿强硬地搭在Leo腿上，一手搂着Leo的狭窄后腰。Leo把手机举到两个人中间，翻着过去几个月的照片。
 
-Leo（偏头看他，身子往他怀里缩了缩）：这张谁拍的？
+Leo（偏头看他，身子往他怀里缩了缩）: Who took this one?
 
-Hunter（声音平淡，嘴唇顺势贴着Leo的耳垂轻咬）：Caleb。他发我的时候说“留着以后用”。
+Hunter（声音平淡，嘴唇顺势贴着Leo的耳垂轻咬）: Caleb. He said “save it for later” when he sent it to me.
 
-Leo（笑了一下，身子微颤，继续往下划）：他倒是挺会安排。
+Leo（笑了一下，身子微颤，继续往下划）: He sure knows how to plan ahead.
 
 △ 手机屏幕暗下去时，Leo抬起头看了一眼围网顶端的夜色。
 
@@ -4102,11 +4108,11 @@ Leo（笑了一下，身子微颤，继续往下划）：他倒是挺会安排�
 
 △ Hunter掏出手机点开本地体育媒体发来的消息，递到Leo眼前，大掌揽紧了他的腰。
 
-Hunter：刚收到邀约，明天媒体要我们回母校球场拍新秀宣传大片，两套职业队球衣都准备好了。
+Hunter: Just got the invite—tomorrow the media wants us back at our old school field for a rookie promo shoot. Both pro jerseys are already ready.
 
-Leo（眼睛一亮，顺势转过身，手掌贴在Hunter强健的胸口上，攥紧Hunter的手）：回到最开始的地方拍吗？
+Leo（眼睛一亮，顺势转过身，手掌贴在Hunter强健的胸口上，攥紧Hunter的手）: Shooting it back where it all started?
 
-Hunter（大掌揉了揉他的卷发，又顺势下滑抚过他的后颈）：嗯，明天拍完，好好跟这里告个别。
+Hunter（大掌揉了揉他的卷发，又顺势下滑抚过他的后颈）: Mm. When it’s done tomorrow, we’ll say a proper goodbye to this place.
 
 【第五十九集完】
 
@@ -4132,7 +4138,7 @@ Hunter（大掌揉了揉他的卷发，又顺势下滑抚过他的后颈）：�
 
 △ Hunter站在不远处喝水，喉结滚烫咽下，水珠顺着下巴一路滑进微敞的球衣领口。手机在大腿口袋里震了一下，他放下水瓶，掏手机出来点开——Leo的消息框里弹出一张新照片和一行字。
 
-Leo（VO）：这次没发错。Hunter Hayes，我喜欢你，往后每一场职业比赛，我都想和你并肩打下去。
+Leo（VO）: I didn’t send it to the wrong person this time. Hunter Hayes, I like you, and I want to stand side by side with you for every pro game from here on.
 
 △ Hunter抬眼看向草坪方向。Leo正坐在那里望着他，白金卷发被风吹得翘起来，衣领下隐约透着昨晚留下的浅红痕迹。Hunter把手机收回口袋，低笑了一声，抬脚直冲他走过去，气势霸道逼人。
 
@@ -4146,11 +4152,11 @@ Leo（VO）：这次没发错。Hunter Hayes，我喜欢你，往后每一场职
 
 △ Hunter猛地伸手将Leo从草地上强硬拽起来，借着惯性直接将人狠狠撞进自己怀里。Hunter大掌死死扣住Leo的后颈，指尖没入他的卷发间，低头用力吻在他的额头，随后顺着鼻梁下滑，嘴唇在他发烫的唇瓣上轻咬碾磨。
 
-Hunter（声音带着笑，低哑磁性，热气吐在他唇间）：这次真的是发给我的了。
+Hunter（声音带着笑，低哑磁性，热气吐在他唇间）: So this time it really was sent to me.
 
 △ Leo顺势双手抱紧Hunter的脖子，昂起下巴，将微肿的唇送上去主动蹭了蹭Hunter的薄唇。
 
-Leo（抬下巴，眼神张扬又野性）：以后也只会发给你。
+Leo（抬下巴，眼神张扬又野性）: And it’ll only ever be sent to you from now on.
 
 △ Hunter低笑一声，掌心发力扣紧Leo的腰，将他整个人往上抱提了半寸，两人在阳光下肆意拥吻。
 
